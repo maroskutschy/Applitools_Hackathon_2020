@@ -1,0 +1,14 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+  
+<suite name="AppliFashion" verbose="1" >
+      <parameter name="operatingSystem" value="Windows"></parameter>
+      <parameter name="browser" value="Chrome"></parameter>
+      <parameter name="link" value="https://demo.applitools.com/gridHackathonV1.html#0"></parameter>
+
+  <test name="AppliFashion" >
+   <classes>
+       <class name="TestRunners.TestRunnerAppliFashion" />
+    </classes>
+  </test>
+  
+</suite>

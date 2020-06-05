@@ -6,16 +6,13 @@ import org.testng.annotations.BeforeClass;
 import org.testng.annotations.Parameters;
 
 @CucumberOptions(
-		features = "@rerun.txt",
-		//features = "src/test/resources/Feature_Files",
-		//features = "classpath:",
-		//features = "classpath:Feature_Files/Facebook",
+		features = "classpath:Feature_Files/Facebook",
 		glue={"GlueCode"},
 		monochrome = true,
-		format = {"pretty", "html:target/site/cucumber-pretty", "json:target/cucumber.json"}
+		format = {"pretty", "html:target/site/cucumber-pretty", "json:target/cucumber.json", "rerun:rerun.txt"}
 )
 
-public class TestRunnerFacebookReRun extends AbstractTestNGCucumberTests  {
+public class TestRunnerAppliFashion extends AbstractTestNGCucumberTests  {
 
 	@Parameters ({"operatingSystem", "browser", "link", "user", "password"})
 	@BeforeClass
@@ -24,8 +21,6 @@ public class TestRunnerFacebookReRun extends AbstractTestNGCucumberTests  {
 		TestDefaultValues.setOperatingSystem( operatingSystem );
  		TestDefaultValues.setBrowser( browser );
 		TestDefaultValues.setLink( link );
-		TestDefaultValues.setUser( user );
-		TestDefaultValues.setPassword( password );
 	}
 
 }
