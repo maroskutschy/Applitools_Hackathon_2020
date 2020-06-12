@@ -3,6 +3,8 @@ Feature: AppliFashion Home
   Scenario: Open Applifashion Home page and validate its elements
 
     When I validate that AppliFashion Home page is successfully displayed
+    Then I make Applitools Visual Test validation with screenshot name: "AppliFashion Home page 1"
+    Then I make Applitools Visual Test validation with screenshot name: "AppliFashion Home page 2"
 #    Then I validate the page using Applitools Eyes
 
 #    Given I successfully login to facebook with email "jasecuframework@gmail.com" and password "Jasecu12"
