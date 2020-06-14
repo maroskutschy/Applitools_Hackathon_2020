@@ -2,6 +2,12 @@ Feature: AppliFashion Home
 
   Scenario: Open Applifashion Home page and validate its elements
 
+        # on Mac:
+          # if ModernTestsV1 is not recognized as maven project: right Click on pom and add s maven project
+          # if driver is not executable: chmod 777 chromedriver
+          # if if there is problem with setting viewport size: change resolution to lower
+
+
     When I validate that AppliFashion Home page is successfully displayed
     Then I make Applitools Visual Test validation with screenshot name: "AppliFashion Home page 1"
     Then I make Applitools Visual Test validation with screenshot name: "AppliFashion Home page 2"

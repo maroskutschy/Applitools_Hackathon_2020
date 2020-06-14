@@ -24,7 +24,7 @@ public class Applitools {
             eyes.setApiKey("H2MZ0YiQgCtDxMgCgsGqQAKp3qykfmqj501qddCGrjY110");
             eyes.setBatch(batch);
             eyes.
-                    open(GeneralStepDefinitions.getDriver(), "AppliFashion", screenshotName, new RectangleSize(800, 600));
+                    open(GeneralStepDefinitions.getDriver(), "AppliFashion", screenshotName, new RectangleSize(800, 400));
 
             //eyes.check(Target.window().fully().withName(screenshotName));
             eyes.checkWindow(screenshotName);
