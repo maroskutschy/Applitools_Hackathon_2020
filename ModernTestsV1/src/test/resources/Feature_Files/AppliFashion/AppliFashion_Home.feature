@@ -1,6 +1,6 @@
 Feature: AppliFashion Home
 
-  Scenario: Open Applifashion Home page and validate its elements
+  Scenario: Open AppliFashion Home page and validate its elements
 
         # on Mac:
           # if ModernTestsV1 is not recognized as maven project: right Click on pom and add s maven project
@@ -9,8 +9,9 @@ Feature: AppliFashion Home
 
 
     When I validate that AppliFashion Home page is successfully displayed
-    Then I make Applitools Visual Test validation with screenshot name: "AppliFashion Home page 1"
-    Then I make Applitools Visual Test validation with screenshot name: "AppliFashion Home page 2"
+#    Then I make Applitools Visual Test validation running Locally with screenshot name: "Task 1"
+    Then I make Applitools Visual Test validation running via UltraFast Grid with screenshot name: "Task 1"
+#    Then I make Applitools Visual Test validation with screenshot name: "AppliFashion Home page 2"
 #    Then I validate the page using Applitools Eyes
 
 #    Given I successfully login to facebook with email "jasecuframework@gmail.com" and password "Jasecu12"
