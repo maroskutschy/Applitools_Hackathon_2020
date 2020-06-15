@@ -11,6 +11,7 @@ import com.applitools.eyes.selenium.Eyes;
 import com.applitools.eyes.visualgrid.services.VisualGridRunner;
 import cucumber.api.java.After;
 import cucumber.api.java.Before;
+import cucumber.api.java.en.Given;
 import org.openqa.selenium.*;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.chrome.ChromeOptions;
@@ -19,6 +20,7 @@ import java.util.HashMap;
 import java.util.Map;
 import com.applitools.eyes.visualgrid.model.DeviceName;
 import com.applitools.eyes.visualgrid.model.ScreenOrientation;
+import pages.AppliFashionHomePage;
 
 public class GeneralStepDefinitions {
 
@@ -97,6 +99,11 @@ public class GeneralStepDefinitions {
 
 
 
+    }
+
+    @Given("^I maximize the browser$")
+    public void selectChecksbox() throws Throwable {
+        driver.manage().window().maximize();
     }
 
     public static WebDriver getDriver() {

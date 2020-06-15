@@ -15,8 +15,8 @@ import cucumber.api.java.en.Given;
 
 public class Applitools {
 
-    @Given("^I make Applitools Visual Test validation running Locally with screenshot name: \"([^\"]*)\"")
-    public void takeSnapshot(String screenshotName) {
+    @Given("^I make Applitools Visual Test validation running Locally with test name: \"([^\"]*)\" and step name: \"([^\"]*)\"")
+    public void takeSnapshot(String testName, String stepName) {
 
         Eyes eyes = null;
         ClassicRunner eyesRunner = null;
@@ -29,10 +29,10 @@ public class Applitools {
             eyes.setApiKey("H2MZ0YiQgCtDxMgCgsGqQAKp3qykfmqj501qddCGrjY110");
             eyes.setBatch(batch);
             eyes.
-                    open(GeneralStepDefinitions.getDriver(), "AppliFashion", screenshotName, new RectangleSize(800, 00));
+                    open(GeneralStepDefinitions.getDriver(), "AppliFashion", testName, new RectangleSize(800, 600));
 
             //eyes.check(Target.window().fully().withName(screenshotName));
-            eyes.checkWindow(screenshotName);
+            eyes.checkWindow(stepName);
             eyes.closeAsync();
         } finally {
            eyes.abortIfNotClosed();
@@ -48,8 +48,8 @@ public class Applitools {
         }
     }
 
-    @Given("^I make Applitools Visual Test validation running via UltraFast Grid with screenshot name: \"([^\"]*)\"")
-    public void takeSnapshotUltraFastGrid(String screenshotName) {
+    @Given("^I make Applitools Visual Test validation running via UltraFast Grid with test name: \"([^\"]*)\" and step name: \"([^\"]*)\"")
+    public void takeSnapshotUltraFastGrid(String testName, String stepName) {
 
         //        Eyes eyes = null;
         //        VisualGridRunner visualGridRunner = null;
@@ -91,10 +91,10 @@ public class Applitools {
             //eyes.setApiKey("H2MZ0YiQgCtDxMgCgsGqQAKp3qykfmqj501qddCGrjY110");
             //eyes.setBatch(batch);
             eyes.
-                    open(GeneralStepDefinitions.getDriver(), "AppliFashion", screenshotName, new RectangleSize(800, 600));
+                    open(GeneralStepDefinitions.getDriver(), "AppliFashion", testName, new RectangleSize(800, 600));
 
             //eyes.check(Target.window().fully().withName(screenshotName));
-            eyes.checkWindow(screenshotName);
+            eyes.checkWindow(stepName);
             eyes.closeAsync();
         } finally {
             eyes.abortIfNotClosed();

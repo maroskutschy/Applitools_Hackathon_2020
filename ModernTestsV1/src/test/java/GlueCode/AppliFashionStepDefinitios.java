@@ -19,4 +19,16 @@ public class AppliFashionStepDefinitios {
         appliFashionHomePage.validateAppliFashionHomePage();
     }
 
+    @Given ("^I select \"([^\"]*)\" checkbox$")
+    public void selectChecksbox(String checkboxName) throws Throwable {
+        appliFashionHomePage = new AppliFashionHomePage(driver);
+        appliFashionHomePage.checkCheckboxOnAppliFashionHomePage(checkboxName);
+    }
+
+    @Given ("^I click on \"([^\"]*)\" button$")
+    public void clickOnButton(String buttonName) throws Throwable {
+        appliFashionHomePage = new AppliFashionHomePage(driver);
+        appliFashionHomePage.clickOnButtonOnAppliFashionHomePage(buttonName);
+    }
+
 }
