@@ -45,4 +45,4 @@ Feature: AppliFashion Home
     #Then I make Applitools Visual Test validation running Locally with test name: "Task 2" and step name: "Filter Results"
     Then I make Applitools Visual Test validation running via UltraFast Grid with test name: "Task 2" and step name: "Filter Results"
 
-    # TODO: how to group all the tests into one batch
+    # TODO: how to group all the tests into one batch + change eyes.check - Target ?
