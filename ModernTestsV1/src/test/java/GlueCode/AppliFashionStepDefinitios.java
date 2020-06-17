@@ -31,4 +31,10 @@ public class AppliFashionStepDefinitios {
         appliFashionHomePage.clickOnButtonOnAppliFashionHomePage(buttonName);
     }
 
+    @Given ("^I click on item number \"([^\"]*)\" in the selection$")
+    public void clickOnItemInTheSelection(String itemOrder) throws Throwable {
+        appliFashionHomePage = new AppliFashionHomePage(driver);
+        appliFashionHomePage.clickOnItemInTheSelectionOnAppliFashionHomePage(itemOrder);
+    }
+
 }

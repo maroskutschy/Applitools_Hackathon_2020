@@ -20,6 +20,7 @@ import java.util.HashMap;
 import java.util.Map;
 import com.applitools.eyes.visualgrid.model.DeviceName;
 import com.applitools.eyes.visualgrid.model.ScreenOrientation;
+import org.testng.annotations.BeforeSuite;
 import pages.AppliFashionHomePage;
 
 public class GeneralStepDefinitions {

@@ -43,6 +43,14 @@ Feature: AppliFashion Home
     And I select "Black" checkbox
     And I click on "Filter" button
     #Then I make Applitools Visual Test validation running Locally with test name: "Task 2" and step name: "Filter Results"
-    Then I make Applitools Visual Test validation running via UltraFast Grid with test name: "Task 2" and step name: "Filter Results"
+    #Then I make Applitools Visual Test validation running via UltraFast Grid with test name: "Task 2" and step name: "Filter Results"
+    Then I make Applitools Visual Test validation of region: "product_grid" running via UltraFast Grid with test name: "Task 2" and step name: "Filter Results"
 
-    # TODO: how to group all the tests into one batch + change eyes.check - Target ?
+
+  Scenario: Task 3 – Product Details Test
+    When I validate that AppliFashion Home page is successfully displayed
+    And I maximize the browser
+    And I select "Black" checkbox
+    And I click on "Filter" button
+    And I click on item number "1" in the selection
+    Then I make Applitools Visual Test validation running via UltraFast Grid with test name: "Task 3" and step name: "Product Details test"

@@ -1,5 +1,6 @@
 package pages;
 
+import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
@@ -14,6 +15,12 @@ public class AppliFashionHomePage extends BasicActions {
 
     @FindBy (xpath = "//button[@id='filterBtn']")
     private WebElement filterButton;
+
+    @FindBy (xpath = "//main[@class='bg_gray']")
+    private WebElement detailsPageMainElement;
+
+    String itemInTheSelectionXpathPart1 = "(//div[@class='col-6 col-md-4'])[";
+    String generalEndOfXpathFOrOrder = "]";
 
     public AppliFashionHomePage(WebDriver driver) {
         super( driver );
@@ -47,6 +54,13 @@ public class AppliFashionHomePage extends BasicActions {
                 button = filterButton;
         }
         click(button, buttonName);
+        return this;
+    }
+
+    public AppliFashionHomePage clickOnItemInTheSelectionOnAppliFashionHomePage (String itemOrder) throws InterruptedException {
+        WebElement itemInTheSelection = driver.findElement(By.xpath(itemInTheSelectionXpathPart1 + itemOrder + generalEndOfXpathFOrOrder));
+        click(itemInTheSelection, "item In The Selection No.: " + itemOrder);
+        checkElementPresent(detailsPageMainElement, "Details Page Main Element");
         return this;
     }
 
