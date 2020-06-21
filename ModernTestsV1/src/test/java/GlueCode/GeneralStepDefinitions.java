@@ -3,12 +3,14 @@ package GlueCode;
 import TestRunners.TestDefaultValues;
 import com.applitools.eyes.BatchInfo;
 import com.applitools.eyes.EyesRunner;
+import com.applitools.eyes.TestResults;
 import com.applitools.eyes.TestResultsSummary;
 import com.applitools.eyes.selenium.BrowserType;
 import com.applitools.eyes.selenium.ClassicRunner;
 import com.applitools.eyes.selenium.Configuration;
 import com.applitools.eyes.selenium.Eyes;
 import com.applitools.eyes.visualgrid.services.VisualGridRunner;
+import cucumber.api.Scenario;
 import cucumber.api.java.After;
 import cucumber.api.java.Before;
 import cucumber.api.java.en.Given;
@@ -27,12 +29,56 @@ public class GeneralStepDefinitions {
 
     public static WebDriver driver;
     public static Eyes eyes;
-    public static VisualGridRunner runner;
+    public static VisualGridRunner visualGridRunner;
     public static BatchInfo batch;
     public static EyesRunner eyesRunner;
     private String operatingSystem = TestDefaultValues.getOperatingSystem();
     private String browser = TestDefaultValues.getBrowser();
     private String link = TestDefaultValues.getLink();
+
+//    @BeforeSuite
+//    public void createApplitoolsBatchInfo(){
+//       batch = new BatchInfo("UFG Hackathon");
+//    }
+//
+//    public static BatchInfo getBatchInfo() {
+//        return batch;
+//    }
+
+    @Before("@Applitools")
+    public void openAndSetupApplitoolsEyes (Scenario scenario) {
+        batch = new BatchInfo(scenario.getName());
+        visualGridRunner = new VisualGridRunner(10);
+        eyes = new Eyes(visualGridRunner);
+
+        // Initialize eyes Configuration
+        Configuration config = new Configuration();
+
+        // You can get your api key from the Applitools dashboard
+        config.setApiKey("H2MZ0YiQgCtDxMgCgsGqQAKp3qykfmqj501qddCGrjY110");
+
+        // create a new batch info instance and set it to the configuration
+        //config.setBatch(new BatchInfo("UFG Hackathon"));
+        //config.setBatch(GeneralStepDefinitions.getBatchInfo());
+        config.setBatch(batch);
+
+        // Add browsers with different viewports
+        config.addBrowser(1200, 700, BrowserType.CHROME);
+        config.addBrowser(1200, 700, BrowserType.FIREFOX);
+        config.addBrowser(1200, 700, BrowserType.EDGE_CHROMIUM);
+        config.addBrowser(768, 700, BrowserType.CHROME);
+        config.addBrowser(768, 700, BrowserType.FIREFOX);
+        config.addBrowser(768, 700, BrowserType.EDGE_CHROMIUM);
+
+        // Add mobile emulation devices in Portrait mode
+        config.addDeviceEmulation(DeviceName.iPhone_X, ScreenOrientation.PORTRAIT);
+        //config.addDeviceEmulation(DeviceName.Pixel_2, ScreenOrientation.PORTRAIT);
+
+        // Set the configuration object to eyes
+        eyes.setConfiguration(config);
+
+    }
+
 
     @Before
     public void openBrowserWithLink() throws Throwable {
@@ -116,7 +162,7 @@ public class GeneralStepDefinitions {
     }
 
     public static VisualGridRunner getVisualGridRunner() {
-        return runner;
+        return visualGridRunner;
     }
 
     public static void setUp(Eyes eyes) {
@@ -143,6 +189,38 @@ public class GeneralStepDefinitions {
 
         // Set the configuration object to eyes
         eyes.setConfiguration(config);
+
+    }
+
+    @After ("Applitools")
+    public void closeApplitoolsEyes () {
+        try {
+            //Choose if a difference in screenshot should fail your test, e.g. false will not fail your test
+            TestResults result = eyes.close(false);
+            String resultStr;
+            String url;
+            if (result == null) {
+                resultStr = "Test aborted";
+                url = "undefined";
+            } else {
+                url = result.getUrl();
+                int totalSteps = result.getSteps();
+                if (result.isNew()) {
+                    resultStr = "New Baseline Created: " + totalSteps + " steps";
+                } else if (result.isPassed()) {
+                    resultStr = "All steps passed:     " + totalSteps + " steps";
+                } else {
+                    resultStr = "Test Failed     :     " + totalSteps + " steps";
+                    resultStr += " matches=" +  result.getMatches();      /*  matched the baseline */
+                    resultStr += " missing=" + result.getMissing();       /* missing in the test*/
+                    resultStr += " mismatches=" + result.getMismatches(); /* did not match the baseline */
+                }
+            }
+            resultStr += "\n" + "results at " + url;
+            System.out.println(resultStr);
+        } finally {
+            eyes.abortIfNotClosed();
+        }
 
     }
 }
