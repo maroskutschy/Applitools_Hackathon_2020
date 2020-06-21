@@ -18,8 +18,8 @@ import pages.AppliFashionHomePage;
 public class Applitools {
 
     BatchInfo batch;
-    Eyes eyes;
-    VisualGridRunner visualGridRunner;
+    Eyes eyes = GeneralStepDefinitions.getEyes();
+    VisualGridRunner visualGridRunner = GeneralStepDefinitions.getVisualGridRunner();
 
     @Given ("^I create Applitools Batch with Name \"([^\"]*)\" and setup Applitools Eyes")
     public void createApplitoolsBatch(String batchName) throws Throwable {
@@ -140,13 +140,13 @@ public class Applitools {
             eyes.checkWindow(stepName);
             eyes.closeAsync();
         } finally {
-            eyes.abortIfNotClosed();
-            // we pass false to this method to suppress the exception that is thrown if we
-            // find visual differences
-            TestResultsSummary allTestResults = visualGridRunner.getAllTestResults();
-
-            // Print results
-            System.out.println(allTestResults);
+//            eyes.abortIfNotClosed();
+//            // we pass false to this method to suppress the exception that is thrown if we
+//            // find visual differences
+//            TestResultsSummary allTestResults = visualGridRunner.getAllTestResults();
+//
+//            // Print results
+//            System.out.println(allTestResults);
 
             //            TestResultsSummary allTestResults = GeneralStepDefinitions.getVisualGridRunner().getAllTestResults(false);
             //            System.out.println(allTestResults);
@@ -208,13 +208,13 @@ public class Applitools {
             eyes.checkRegion(By.id(region),stepName);
             eyes.closeAsync();
         } finally {
-            eyes.abortIfNotClosed();
-            // we pass false to this method to suppress the exception that is thrown if we
-            // find visual differences
-            TestResultsSummary allTestResults = visualGridRunner.getAllTestResults();
-
-            // Print results
-            System.out.println(allTestResults);
+//            eyes.abortIfNotClosed();
+//            // we pass false to this method to suppress the exception that is thrown if we
+//            // find visual differences
+//            TestResultsSummary allTestResults = visualGridRunner.getAllTestResults();
+//
+//            // Print results
+//            System.out.println(allTestResults);
 
             //            TestResultsSummary allTestResults = GeneralStepDefinitions.getVisualGridRunner().getAllTestResults(false);
             //            System.out.println(allTestResults);

@@ -1,10 +1,7 @@
 package GlueCode;
 
 import TestRunners.TestDefaultValues;
-import com.applitools.eyes.BatchInfo;
-import com.applitools.eyes.EyesRunner;
-import com.applitools.eyes.TestResults;
-import com.applitools.eyes.TestResultsSummary;
+import com.applitools.eyes.*;
 import com.applitools.eyes.selenium.BrowserType;
 import com.applitools.eyes.selenium.ClassicRunner;
 import com.applitools.eyes.selenium.Configuration;
@@ -45,9 +42,9 @@ public class GeneralStepDefinitions {
 //        return batch;
 //    }
 
-    @Before("@Applitools")
+    //@Before("@Applitools")
     public void openAndSetupApplitoolsEyes (Scenario scenario) {
-        batch = new BatchInfo(scenario.getName());
+        batch = new BatchInfo(scenario.getName().replace("Applitools", ""));
         visualGridRunner = new VisualGridRunner(10);
         eyes = new Eyes(visualGridRunner);
 
@@ -81,7 +78,7 @@ public class GeneralStepDefinitions {
 
 
     @Before
-    public void openBrowserWithLink() throws Throwable {
+    public void openBrowserWithLink(Scenario scenario) throws Throwable {
 
         switch (browser) {
             case "Firefox" :
@@ -126,11 +123,45 @@ public class GeneralStepDefinitions {
                 break;
         }
         driver.get(link);
+        if (scenario.getName().contains("Applitools")) {
+            batch = new BatchInfo(scenario.getName().replace(" - Applitools", ""));
+            visualGridRunner = new VisualGridRunner(10);
+            eyes = new Eyes(visualGridRunner);
+
+            // Initialize eyes Configuration
+            Configuration config = new Configuration();
+
+            // You can get your api key from the Applitools dashboard
+            config.setApiKey("H2MZ0YiQgCtDxMgCgsGqQAKp3qykfmqj501qddCGrjY110");
+
+            // create a new batch info instance and set it to the configuration
+            //config.setBatch(new BatchInfo("UFG Hackathon"));
+            //config.setBatch(GeneralStepDefinitions.getBatchInfo());
+            config.setBatch(batch);
+
+            // Add browsers with different viewports
+            config.addBrowser(1200, 700, BrowserType.CHROME);
+            config.addBrowser(1200, 700, BrowserType.FIREFOX);
+            config.addBrowser(1200, 700, BrowserType.EDGE_CHROMIUM);
+            config.addBrowser(768, 700, BrowserType.CHROME);
+            config.addBrowser(768, 700, BrowserType.FIREFOX);
+            config.addBrowser(768, 700, BrowserType.EDGE_CHROMIUM);
+
+            // Add mobile emulation devices in Portrait mode
+            config.addDeviceEmulation(DeviceName.iPhone_X, ScreenOrientation.PORTRAIT);
+            //config.addDeviceEmulation(DeviceName.Pixel_2, ScreenOrientation.PORTRAIT);
+
+            // Set the configuration object to eyes
+            eyes.setConfiguration(config);
+
+            //eyes.open(GeneralStepDefinitions.getDriver(), "AppliFashion", scenario.getName().toString(), new RectangleSize(800, 600));
+
+        }
 
     }
 
     @After
-    public void closeBrowser() {
+    public void closeBrowser(Scenario scenario) {
 
         driver.quit();
 
@@ -143,9 +174,39 @@ public class GeneralStepDefinitions {
 //
 //        // Print results
 //        System.out.println(allTestResults);
+        if (scenario.getName().contains("Applitools")) {
+            try {
+                //Choose if a difference in screenshot should fail your test, e.g. false will not fail your test
+                TestResults result = eyes.close(true);
+                String resultStr;
+                String url;
+                if (result == null) {
+                    resultStr = "Test aborted";
+                    url = "undefined";
+                } else {
+                    url = result.getUrl();
+                    int totalSteps = result.getSteps();
+                    if (result.isNew()) {
+                        resultStr = "New Baseline Created: " + totalSteps + " steps";
+                    } else if (result.isPassed()) {
+                        resultStr = "All steps passed:     " + totalSteps + " steps";
+                    } else {
+                        resultStr = "Test Failed     :     " + totalSteps + " steps";
+                        resultStr += " matches=" +  result.getMatches();      /*  matched the baseline */
+                        resultStr += " missing=" + result.getMissing();       /* missing in the test*/
+                        resultStr += " mismatches=" + result.getMismatches(); /* did not match the baseline */
+                    }
+                }
+                resultStr += "\n" + "results at " + url;
+                System.out.println(resultStr);
 
+//                TestResultsSummary allTestResults = visualGridRunner.getAllTestResults();
+//                System.out.println(allTestResults);
 
-
+            } finally {
+                eyes.abortIfNotClosed();
+            }
+        }
     }
 
     @Given("^I maximize the browser$")
@@ -192,7 +253,7 @@ public class GeneralStepDefinitions {
 
     }
 
-    @After ("Applitools")
+    //@After ("Applitools")
     public void closeApplitoolsEyes () {
         try {
             //Choose if a difference in screenshot should fail your test, e.g. false will not fail your test

@@ -6,17 +6,18 @@ import org.testng.annotations.BeforeClass;
 import org.testng.annotations.Parameters;
 
 @CucumberOptions(
-		features = "classpath:Feature_Files/Facebook",
+		features = "classpath:Feature_Files/AppliFashion",
 		glue={"GlueCode"},
 		monochrome = true,
-		format = {"pretty", "html:target/site/cucumber-pretty", "json:target/cucumber.json", "rerun:rerun.txt"}
+		format = {"pretty", "html:target/site/cucumber-pretty", "json:target/cucumber.json", "rerun:rerun.txt"},
+		tags = {}
 )
 
 public class TestRunnerAppliFashion extends AbstractTestNGCucumberTests  {
 
-	@Parameters ({"operatingSystem", "browser", "link", "user", "password"})
+	@Parameters ({"operatingSystem", "browser", "link"})
 	@BeforeClass
-	public void beforeClass (String operatingSystem, String browser, String link, String user, String password) {
+	public void beforeClass (String operatingSystem, String browser, String link) {
 
 		TestDefaultValues.setOperatingSystem( operatingSystem );
  		TestDefaultValues.setBrowser( browser );
