@@ -93,7 +93,7 @@ public class GeneralStepDefinitions {
                 if (operatingSystem.equalsIgnoreCase("Windows")) {
                     System.setProperty("webdriver.chrome.driver", "src/test/resources/drivers/" + operatingSystem + "/chromedriver.exe");
                 } else {
-                    System.setProperty("webdriver.chrome.driver", "ModernTestsV1/src/test/resources/drivers/" + operatingSystem + "/chromedriver");
+                    System.setProperty("webdriver.chrome.driver", "src/test/resources/drivers/" + operatingSystem + "/chromedriver");
                 }
                 // DISABLE CHROME NOTIFICATIONS:
                 // Create object of HashMap Class
