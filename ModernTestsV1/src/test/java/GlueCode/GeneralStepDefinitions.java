@@ -93,8 +93,7 @@ public class GeneralStepDefinitions {
                 if (operatingSystem.equalsIgnoreCase("Windows")) {
                     System.setProperty("webdriver.chrome.driver", "src/test/resources/drivers/" + operatingSystem + "/chromedriver.exe");
                 } else {
-                    //TODO : if we dont run testnNG = if TestDefaultValues.operating system is null, then add also ModernTestsV1/, else leave as it is (TestNG
-                    // plus maven)
+                    //TODO : when failing via IntelliJ - change working directory in Run Configuration to: ModernTestV1
                     System.setProperty("webdriver.chrome.driver", "src/test/resources/drivers/" + operatingSystem + "/chromedriver");
                 }
                 // DISABLE CHROME NOTIFICATIONS:
