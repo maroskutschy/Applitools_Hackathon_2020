@@ -1,4 +1,4 @@
-Feature: AppliFashion Home
+Feature: AppliFashion Traditional
 
   Scenario: UFG Hackathon - Applitools
     When I validate that AppliFashion Home page is successfully displayed
