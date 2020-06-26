@@ -118,17 +118,22 @@ public class GeneralStepDefinitions {
                 driver = new ChromeDriver(options);
                 break;
             case "Edge Chromium" :
-                System.setProperty("webdriver.edge.driver", "src/test/resources/drivers/" + operatingSystem + "/msedgedriver.exe");
+                if (operatingSystem.equalsIgnoreCase("Windows")) {
+                    System.setProperty("webdriver.edge.driver", "src/test/resources/drivers/"+ operatingSystem +"/msedgedriver.exe");
+                } else {
+                    System.setProperty("webdriver.edge.driver", "src/test/resources/drivers/" + operatingSystem + "/msedgedriver");
+                }
+                //System.setProperty("webdriver.edge.driver", "src/test/resources/drivers/" + operatingSystem + "/msedgedriver.exe");
                 // Setup the Edge chromium driver options for this operating system
-                final ChromeOptions chromeOptions = new ChromeOptions();
-                chromeOptions.setBinary("c:/Windows/SystemApps/Microsoft.MicrosoftEdge_8wekyb3d8bbwe/MicrosoftEdge.exe");
-                chromeOptions.setExperimentalOption("useAutomationExtension", false);
-                chromeOptions.setExperimentalOption("excludeSwitches", Collections.singletonList("enable-automation"));
+//                final ChromeOptions chromeOptions = new ChromeOptions();
+//                chromeOptions.setBinary("c:/Windows/SystemApps/Microsoft.MicrosoftEdge_8wekyb3d8bbwe/MicrosoftEdge.exe");
+//                chromeOptions.setExperimentalOption("useAutomationExtension", false);
+//                chromeOptions.setExperimentalOption("excludeSwitches", Collections.singletonList("enable-automation"));
 
                 final EdgeOptions edgeOptions = new EdgeOptions();
                  //final WebDriver webDriver = new EdgeDriver(chromeOptions);
-                //WebDriver webDriver = new EdgeDriver();
-                driver = new ChromeDriver(chromeOptions);
+                driver = new EdgeDriver(edgeOptions);
+                //driver = new ChromeDriver(chromeOptions);
         }
         driver.get(link);
         driver.manage().window().setSize(new Dimension(Integer.parseInt(width), Integer.parseInt(height)));
