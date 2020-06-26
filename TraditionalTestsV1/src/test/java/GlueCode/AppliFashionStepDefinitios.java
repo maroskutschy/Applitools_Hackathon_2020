@@ -33,4 +33,10 @@ public class AppliFashionStepDefinitios {
         appliFashionHomePage.clickOnItemInTheSelectionOnAppliFashionHomePage(itemOrder);
     }
 
+    @Given ("^I validate if all relevant elements on the Home page for task No \"([^\"]*)\" and \"([^\"]*)\" browser and \"([^\"]*)\" viewport width and \"([^\"]*)\" viewport height and \"([^\"]*)\" device type are correctly displayed after opening the page$")
+    public void validateElementsOnHomePageAfterOpeningApplication(String task, String browser, String width, String height, String deviceType) throws Throwable {
+        appliFashionHomePage = new AppliFashionHomePage(driver);
+        appliFashionHomePage.validateElementsOnHomePageAfterOpeningApplication(task, browser, width, height, deviceType);
+    }
+
 }
