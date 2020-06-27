@@ -10,6 +10,7 @@ import cucumber.api.Scenario;
 import cucumber.api.java.After;
 import cucumber.api.java.Before;
 import cucumber.api.java.en.Given;
+import org.junit.Assert;
 import org.openqa.selenium.*;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.chrome.ChromeOptions;
@@ -32,6 +33,8 @@ public class GeneralStepDefinitions {
     private String operatingSystem = TestDefaultValues.getOperatingSystem();
     private String browser = TestDefaultValues.getBrowser();
     private String link = TestDefaultValues.getLink();
+
+    public static boolean collectedResultOfValidation = true;
 
 //    @Before
 //    public void openBrowserWithLink(Scenario scenario) throws Throwable {
@@ -173,6 +176,8 @@ public class GeneralStepDefinitions {
                 eyes.abortIfNotClosed();
             }
         }
+        System.out.println("collectedResultOfValidation is: " + collectedResultOfValidation);
+        Assert.assertTrue("One or more elements were not displayed, check statuses Fail in 'Traditional-V1-TestResults.txt' in the root of the project", collectedResultOfValidation);
     }
 
     @Given("^I maximize the browser$")

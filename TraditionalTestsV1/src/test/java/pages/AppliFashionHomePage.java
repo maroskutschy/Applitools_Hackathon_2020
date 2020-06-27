@@ -1,5 +1,6 @@
 package pages;
 
+import GlueCode.GeneralStepDefinitions;
 import org.assertj.core.api.SoftAssertions;
 import org.junit.Assert;
 import org.openqa.selenium.By;
@@ -42,7 +43,7 @@ public class AppliFashionHomePage extends BasicActions {
     String itemInTheSelectionXpathPart1 = "(//div[@class='col-6 col-md-4'])[";
     String generalEndOfXpathFOrOrder = "]";
 
-    boolean collectedResultOfValidation = true;
+    //boolean collectedResultOfValidation = true;
 
     public AppliFashionHomePage(WebDriver driver) {
         super( driver );
@@ -112,11 +113,22 @@ public class AppliFashionHomePage extends BasicActions {
             softAssertions.assertThat(
                     hackathonReporter(task, listOfElementsNames.get(i) + " is displayed", listOfElementsIds.get(i), browser, width, height, deviceType,
                             driver.findElement(By.id(listOfElementsIds.get(i))).isDisplayed()));
+//            if (listOfElementsNames.get(i).equalsIgnoreCase("Search field")) {
+//                softAssertions.assertThat(
+//                        hackathonReporter(task, listOfElementsNames.get(i) + " is displayed", listOfElementsIds.get(i),
+//                                browser, width, height, deviceType,
+//                                driver.findElement(By.id(listOfElementsIds.get(i))).isDisplayed()));
+//            } else {
+//                softAssertions.assertThat(
+//                        hackathonReporter(task, listOfElementsNames.get(i) + " is displayed", listOfElementsIds.get(i),
+//                                browser, width, height, deviceType,
+//                                driver.findElement(By.id(listOfElementsIds.get(i))).isSelected()));
+//            }
         }
 
         //Assert all elements inside this test
            softAssertions.assertAll();
-        Assert.assertTrue("One or more elements were not displayed, check statuses Fail in 'Traditional-V1-TestResults.txt' in the root of the project", collectedResultOfValidation);
+//        Assert.assertTrue("One or more elements were not displayed, check statuses Fail in 'Traditional-V1-TestResults.txt' in the root of the project", GeneralStepDefinitions.collectedResultOfValidation);
         return this;
     }
 
@@ -129,7 +141,7 @@ public class AppliFashionHomePage extends BasicActions {
             System.out.println("Error writing to report file");
             e.printStackTrace();
         }
-        collectedResultOfValidation = collectedResultOfValidation && comparisonResult;
+        GeneralStepDefinitions.collectedResultOfValidation = GeneralStepDefinitions.collectedResultOfValidation && comparisonResult;
         //returns the result so that it can be used for further Assertions in the test code.
         return comparisonResult;
     }
