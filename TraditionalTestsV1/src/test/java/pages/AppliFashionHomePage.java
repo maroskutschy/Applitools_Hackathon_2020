@@ -204,6 +204,210 @@ public class AppliFashionHomePage extends BasicActions {
         listOfVisibleStatusesForWith768.add(true);
         listOfVisibleStatusesForWith500.add(true);
 
+        listOfElementsNames.add("Add to favourites for element 2");
+        listOfElementsIds.add("I__tiheart__250");
+        listOfVisibleStatusesForWith1200.add(false);
+        listOfVisibleStatusesForWith768.add(true);
+        listOfVisibleStatusesForWith500.add(true);
+
+        listOfElementsNames.add("Add to compare for element 2");
+        listOfElementsIds.add("I__ticontrols__254");
+        listOfVisibleStatusesForWith1200.add(false);
+        listOfVisibleStatusesForWith768.add(true);
+        listOfVisibleStatusesForWith500.add(true);
+
+        listOfElementsNames.add("Add to cart for element 2");
+        listOfElementsIds.add("I__tishopping__258");
+        listOfVisibleStatusesForWith1200.add(false);
+        listOfVisibleStatusesForWith768.add(true);
+        listOfVisibleStatusesForWith500.add(true);
+
+        listOfElementsNames.add("Add to favourites for element 3");
+        listOfElementsIds.add("I__tiheart__272");
+        listOfVisibleStatusesForWith1200.add(false);
+        listOfVisibleStatusesForWith768.add(true);
+        listOfVisibleStatusesForWith500.add(true);
+
+        listOfElementsNames.add("Add to compare for element 3");
+        listOfElementsIds.add("I__ticontrols__276");
+        listOfVisibleStatusesForWith1200.add(false);
+        listOfVisibleStatusesForWith768.add(true);
+        listOfVisibleStatusesForWith500.add(true);
+
+        listOfElementsNames.add("Add to cart for element 3");
+        listOfElementsIds.add("I__tishopping__280");
+        listOfVisibleStatusesForWith1200.add(false);
+        listOfVisibleStatusesForWith768.add(true);
+        listOfVisibleStatusesForWith500.add(true);
+
+        listOfElementsNames.add("Add to favourites for element 4");
+        listOfElementsIds.add("I__tiheart__294");
+        listOfVisibleStatusesForWith1200.add(false);
+        listOfVisibleStatusesForWith768.add(true);
+        listOfVisibleStatusesForWith500.add(true);
+
+        listOfElementsNames.add("Add to compare for element 4");
+        listOfElementsIds.add("I__ticontrols__298");
+        listOfVisibleStatusesForWith1200.add(false);
+        listOfVisibleStatusesForWith768.add(true);
+        listOfVisibleStatusesForWith500.add(true);
+
+        listOfElementsNames.add("Add to cart for element 4");
+        listOfElementsIds.add("I__tishopping__302");
+        listOfVisibleStatusesForWith1200.add(false);
+        listOfVisibleStatusesForWith768.add(true);
+        listOfVisibleStatusesForWith500.add(true);
+
+        listOfElementsNames.add("Add to favourites for element 5");
+        listOfElementsIds.add("I__tiheart__316");
+        listOfVisibleStatusesForWith1200.add(false);
+        listOfVisibleStatusesForWith768.add(true);
+        listOfVisibleStatusesForWith500.add(true);
+
+        listOfElementsNames.add("Add to compare for element 5");
+        listOfElementsIds.add("I__ticontrols__389");
+        listOfVisibleStatusesForWith1200.add(false);
+        listOfVisibleStatusesForWith768.add(true);
+        listOfVisibleStatusesForWith500.add(true);
+
+        listOfElementsNames.add("Add to cart for element 5");
+        listOfElementsIds.add("I__tishopping__393");
+        listOfVisibleStatusesForWith1200.add(false);
+        listOfVisibleStatusesForWith768.add(true);
+        listOfVisibleStatusesForWith500.add(true);
+
+        listOfElementsNames.add("Add to favourites for element 6");
+        listOfElementsIds.add("I__tiheart__338");
+        listOfVisibleStatusesForWith1200.add(false);
+        listOfVisibleStatusesForWith768.add(true);
+        listOfVisibleStatusesForWith500.add(true);
+
+        listOfElementsNames.add("Add to compare for element 6");
+        listOfElementsIds.add("I__ticontrols__342");
+        listOfVisibleStatusesForWith1200.add(false);
+        listOfVisibleStatusesForWith768.add(true);
+        listOfVisibleStatusesForWith500.add(true);
+
+        listOfElementsNames.add("Add to cart for element 6");
+        listOfElementsIds.add("I__tishopping__346");
+        listOfVisibleStatusesForWith1200.add(false);
+        listOfVisibleStatusesForWith768.add(true);
+        listOfVisibleStatusesForWith500.add(true);
+
+        listOfElementsNames.add("Add to favourites for element 7");
+        listOfElementsIds.add("I__tiheart__360");
+        listOfVisibleStatusesForWith1200.add(false);
+        listOfVisibleStatusesForWith768.add(true);
+        listOfVisibleStatusesForWith500.add(true);
+
+        listOfElementsNames.add("Add to compare for element 7");
+        listOfElementsIds.add("I__ticontrols__364");
+        listOfVisibleStatusesForWith1200.add(false);
+        listOfVisibleStatusesForWith768.add(true);
+        listOfVisibleStatusesForWith500.add(true);
+
+        listOfElementsNames.add("Add to cart for element 7");
+        listOfElementsIds.add("I__tishopping__368");
+        listOfVisibleStatusesForWith1200.add(false);
+        listOfVisibleStatusesForWith768.add(true);
+        listOfVisibleStatusesForWith500.add(true);
+
+        listOfElementsNames.add("Add to favourites for element 8");
+        listOfElementsIds.add("I__tiheart__385");
+        listOfVisibleStatusesForWith1200.add(false);
+        listOfVisibleStatusesForWith768.add(true);
+        listOfVisibleStatusesForWith500.add(true);
+
+        listOfElementsNames.add("Add to compare for element 8");
+        listOfElementsIds.add("I__ticontrols__389");
+        listOfVisibleStatusesForWith1200.add(false);
+        listOfVisibleStatusesForWith768.add(true);
+        listOfVisibleStatusesForWith500.add(true);
+
+        listOfElementsNames.add("Add to cart for element 8");
+        listOfElementsIds.add("I__tishopping__393");
+        listOfVisibleStatusesForWith1200.add(false);
+        listOfVisibleStatusesForWith768.add(true);
+        listOfVisibleStatusesForWith500.add(true);
+
+        listOfElementsNames.add("Add to favourites for element 9");
+        listOfElementsIds.add("A__tooltip__406");
+        listOfVisibleStatusesForWith1200.add(false);
+        listOfVisibleStatusesForWith768.add(true);
+        listOfVisibleStatusesForWith500.add(true);
+
+        listOfElementsNames.add("Add to compare for element 9");
+        listOfElementsIds.add("I__ticontrols__411");
+        listOfVisibleStatusesForWith1200.add(false);
+        listOfVisibleStatusesForWith768.add(true);
+        listOfVisibleStatusesForWith500.add(true);
+
+        listOfElementsNames.add("Add to cart for element 9");
+        listOfElementsIds.add("A__tooltip__414");
+        listOfVisibleStatusesForWith1200.add(false);
+        listOfVisibleStatusesForWith768.add(true);
+        listOfVisibleStatusesForWith500.add(true);
+
+        listOfElementsNames.add("About us");
+        listOfElementsIds.add("A____425");
+        listOfVisibleStatusesForWith1200.add(true);
+        listOfVisibleStatusesForWith768.add(true);
+        listOfVisibleStatusesForWith500.add(false);
+
+        listOfElementsNames.add("Faq");
+        listOfElementsIds.add("A____427");
+        listOfVisibleStatusesForWith1200.add(true);
+        listOfVisibleStatusesForWith768.add(true);
+        listOfVisibleStatusesForWith500.add(false);
+
+        listOfElementsNames.add("Help");
+        listOfElementsIds.add("A____429");
+        listOfVisibleStatusesForWith1200.add(true);
+        listOfVisibleStatusesForWith768.add(true);
+        listOfVisibleStatusesForWith500.add(false);
+
+        listOfElementsNames.add("My account");
+        listOfElementsIds.add("A____431");
+        listOfVisibleStatusesForWith1200.add(true);
+        listOfVisibleStatusesForWith768.add(true);
+        listOfVisibleStatusesForWith500.add(false);
+
+        listOfElementsNames.add("Blog");
+        listOfElementsIds.add("A____433");
+        listOfVisibleStatusesForWith1200.add(true);
+        listOfVisibleStatusesForWith768.add(true);
+        listOfVisibleStatusesForWith500.add(false);
+
+        listOfElementsNames.add("Contacts");
+        listOfElementsIds.add("A____435");
+        listOfVisibleStatusesForWith1200.add(true);
+        listOfVisibleStatusesForWith768.add(true);
+        listOfVisibleStatusesForWith500.add(false);
+
+        listOfElementsNames.add("About us");
+        listOfElementsIds.add("A____425");
+        listOfVisibleStatusesForWith1200.add(true);
+        listOfVisibleStatusesForWith768.add(true);
+        listOfVisibleStatusesForWith500.add(false);
+
+        listOfElementsNames.add("Email newsletter");
+        listOfElementsIds.add("email_newsletter");
+        listOfVisibleStatusesForWith1200.add(true);
+        listOfVisibleStatusesForWith768.add(true);
+        listOfVisibleStatusesForWith500.add(false);
+
+        listOfElementsNames.add("Address");
+        listOfElementsIds.add("LI____440");
+        listOfVisibleStatusesForWith1200.add(true);
+        listOfVisibleStatusesForWith768.add(true);
+        listOfVisibleStatusesForWith500.add(false);
+
+        listOfElementsNames.add("Email");
+        listOfElementsIds.add("LI____443");
+        listOfVisibleStatusesForWith1200.add(true);
+        listOfVisibleStatusesForWith768.add(true);
+        listOfVisibleStatusesForWith500.add(false);
+
         // this code will be applied only when viewport width is: 1200
         if (width.equalsIgnoreCase("1200")) {
             for (int i = 0; i < listOfElementsNames.size(); i++ ) {
