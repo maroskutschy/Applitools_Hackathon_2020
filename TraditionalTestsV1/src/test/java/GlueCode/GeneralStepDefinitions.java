@@ -91,8 +91,8 @@ public class GeneralStepDefinitions {
 //        }
 //    }
 
-    @Given("I open AppliFashion Home page with \"([^\"]*)\" browser and \"([^\"]*)\" viewport width and \"([^\"]*)\" viewport height and \"([^\"]*)\" device type")
-    public void openSpecifiedBrowserWithSpecifiedViewPport(String browser, String width, String height, String deviceType) throws Throwable {
+    @Given("I open \"([^\"]*)\" page with \"([^\"]*)\" browser and \"([^\"]*)\" viewport width and \"([^\"]*)\" viewport height and \"([^\"]*)\" device type")
+    public void openSpecifiedBrowserWithSpecifiedViewPport(String page, String browser, String width, String height, String deviceType) throws Throwable {
         switch (browser) {
             case "Firefox" :
                 if (operatingSystem.equalsIgnoreCase("Windows")) {

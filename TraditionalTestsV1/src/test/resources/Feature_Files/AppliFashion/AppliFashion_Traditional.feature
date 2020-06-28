@@ -13,7 +13,7 @@ Feature: AppliFashion Traditional
 
   Scenario Outline: Task 1 - Cross-Device Elements Test
 
-    Given I open AppliFashion Home page with "<browser>" browser and "<width>" viewport width and "<height>" viewport height and "<device type>" device type
+    Given I open "AppliFashion Home" page with "<browser>" browser and "<width>" viewport width and "<height>" viewport height and "<device type>" device type
     When I validate that AppliFashion Home page is successfully displayed
     Then I validate if all relevant elements on the Home page for task No "1" and "<browser>" browser and "<width>" viewport width and "<height>" viewport height and "<device type>" device type are correctly displayed after opening the page
     Then I validate if all relevant elements on the Home page for task No "1" and "<browser>" browser and "<width>" viewport width and "<height>" viewport height and "<device type>" device type are correctly displayed after opening the page
