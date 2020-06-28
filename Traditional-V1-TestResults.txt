@@ -1,0 +1,784 @@
+Task: 1, Test Name: Main menu should be displayed, DOM Id: DIV__mainmenu__15, Browser: Chrome, Viewport: 1200  x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Filter Collection should be displayed, DOM Id: filter_col, Browser: Chrome, Viewport: 1200  x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Search field should be displayed, DOM Id: DIV__customsear__41, Browser: Chrome, Viewport: 1200  x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Search icon on the right should be displayed, DOM Id: I__headericon__44, Browser: Chrome, Viewport: 1200  x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Search button on the left should not be displayed, DOM Id: A__btnsearchm__59, Browser: Chrome, Viewport: 1200  x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Account should be displayed, DOM Id: DIV__dropdowndr__55, Browser: Chrome, Viewport: 1200  x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Wishlist should be displayed, DOM Id: A__wishlist__52, Browser: Chrome, Viewport: 1200  x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Cart should be displayed, DOM Id: DIV__dropdowndr__48, Browser: Chrome, Viewport: 1200  x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Items in cart should be displayed, DOM Id: STRONG____50, Browser: Chrome, Viewport: 1200  x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: View grid should be displayed, DOM Id: I__tiviewgrid__202, Browser: Chrome, Viewport: 1200  x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: View list should be displayed, DOM Id: I__tiviewlist__204, Browser: Chrome, Viewport: 1200  x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Filters icon should not be displayed, DOM Id: ti-filter, Browser: Chrome, Viewport: 1200  x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Filters label should not be displayed, DOM Id: SPAN____208, Browser: Chrome, Viewport: 1200  x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Add to favourites for item 1 should not be displayed, DOM Id: I__tiheart__225, Browser: Chrome, Viewport: 1200  x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Add to compare for item 1 should not be displayed, DOM Id: I__ticontrols__229, Browser: Chrome, Viewport: 1200  x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Add to cart for item 1 should not be displayed, DOM Id: I__tishopping__233, Browser: Chrome, Viewport: 1200  x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Add to favourites for item 2 should not be displayed, DOM Id: I__tiheart__250, Browser: Chrome, Viewport: 1200  x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Add to compare for item 2 should not be displayed, DOM Id: I__ticontrols__254, Browser: Chrome, Viewport: 1200  x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Add to cart for item 2 should not be displayed, DOM Id: I__tishopping__258, Browser: Chrome, Viewport: 1200  x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Add to favourites for item 3 should not be displayed, DOM Id: I__tiheart__272, Browser: Chrome, Viewport: 1200  x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Add to compare for item 3 should not be displayed, DOM Id: I__ticontrols__276, Browser: Chrome, Viewport: 1200  x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Add to cart for item 3 should not be displayed, DOM Id: I__tishopping__280, Browser: Chrome, Viewport: 1200  x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Add to favourites for item 4 should not be displayed, DOM Id: I__tiheart__294, Browser: Chrome, Viewport: 1200  x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Add to compare for item 4 should not be displayed, DOM Id: I__ticontrols__298, Browser: Chrome, Viewport: 1200  x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Add to cart for item 4 should not be displayed, DOM Id: I__tishopping__302, Browser: Chrome, Viewport: 1200  x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Add to favourites for item 5 should not be displayed, DOM Id: I__tiheart__316, Browser: Chrome, Viewport: 1200  x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Add to compare for item 5 should not be displayed, DOM Id: I__ticontrols__389, Browser: Chrome, Viewport: 1200  x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Add to cart for item 5 should not be displayed, DOM Id: I__tishopping__393, Browser: Chrome, Viewport: 1200  x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Add to favourites for item 6 should not be displayed, DOM Id: I__tiheart__338, Browser: Chrome, Viewport: 1200  x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Add to compare for item 6 should not be displayed, DOM Id: I__ticontrols__342, Browser: Chrome, Viewport: 1200  x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Add to cart for item 6 should not be displayed, DOM Id: I__tishopping__346, Browser: Chrome, Viewport: 1200  x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Add to favourites for item 7 should not be displayed, DOM Id: I__tiheart__360, Browser: Chrome, Viewport: 1200  x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Add to compare for item 7 should not be displayed, DOM Id: I__ticontrols__364, Browser: Chrome, Viewport: 1200  x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Add to cart for item 7 should not be displayed, DOM Id: I__tishopping__368, Browser: Chrome, Viewport: 1200  x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Add to favourites for item 8 should not be displayed, DOM Id: I__tiheart__385, Browser: Chrome, Viewport: 1200  x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Add to compare for item 8 should not be displayed, DOM Id: I__ticontrols__389, Browser: Chrome, Viewport: 1200  x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Add to cart for item 8 should not be displayed, DOM Id: I__tishopping__393, Browser: Chrome, Viewport: 1200  x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Add to favourites for item 9 should not be displayed, DOM Id: A__tooltip__406, Browser: Chrome, Viewport: 1200  x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Add to compare for item 9 should not be displayed, DOM Id: I__ticontrols__411, Browser: Chrome, Viewport: 1200  x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Add to cart for item 9 should not be displayed, DOM Id: A__tooltip__414, Browser: Chrome, Viewport: 1200  x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: About us should be displayed, DOM Id: A____425, Browser: Chrome, Viewport: 1200  x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Faq should be displayed, DOM Id: A____427, Browser: Chrome, Viewport: 1200  x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Help should be displayed, DOM Id: A____429, Browser: Chrome, Viewport: 1200  x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: My account should be displayed, DOM Id: A____431, Browser: Chrome, Viewport: 1200  x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Blog should be displayed, DOM Id: A____433, Browser: Chrome, Viewport: 1200  x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Contacts should be displayed, DOM Id: A____435, Browser: Chrome, Viewport: 1200  x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: About us should be displayed, DOM Id: A____425, Browser: Chrome, Viewport: 1200  x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Email newsletter should be displayed, DOM Id: email_newsletter, Browser: Chrome, Viewport: 1200  x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Address should be displayed, DOM Id: LI____440, Browser: Chrome, Viewport: 1200  x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Email should be displayed, DOM Id: LI____443, Browser: Chrome, Viewport: 1200  x 700, Device: Laptop, Status: Pass
+Task: 2, Test Name: Expected Number Of Found Items should be 2, actual number is: 2, DOM Id: XPATH = //div[@id='product_grid']/div, Browser: Chrome, Viewport: 1200  x 700, Device: Laptop, Status: Pass
+Task: 2, Test Name: Main menu should be displayed, DOM Id: DIV__mainmenu__15, Browser: Chrome, Viewport: 1200  x 700, Device: Laptop, Status: Pass
+Task: 2, Test Name: Filter Collection should be displayed, DOM Id: filter_col, Browser: Chrome, Viewport: 1200  x 700, Device: Laptop, Status: Pass
+Task: 2, Test Name: Search field should be displayed, DOM Id: DIV__customsear__41, Browser: Chrome, Viewport: 1200  x 700, Device: Laptop, Status: Pass
+Task: 2, Test Name: Search icon on the right should be displayed, DOM Id: I__headericon__44, Browser: Chrome, Viewport: 1200  x 700, Device: Laptop, Status: Pass
+Task: 2, Test Name: Search button on the left should not be displayed, DOM Id: A__btnsearchm__59, Browser: Chrome, Viewport: 1200  x 700, Device: Laptop, Status: Pass
+Task: 2, Test Name: Account should be displayed, DOM Id: DIV__dropdowndr__55, Browser: Chrome, Viewport: 1200  x 700, Device: Laptop, Status: Pass
+Task: 2, Test Name: Wishlist should be displayed, DOM Id: A__wishlist__52, Browser: Chrome, Viewport: 1200  x 700, Device: Laptop, Status: Pass
+Task: 2, Test Name: Cart should be displayed, DOM Id: DIV__dropdowndr__48, Browser: Chrome, Viewport: 1200  x 700, Device: Laptop, Status: Pass
+Task: 2, Test Name: Items in cart should be displayed, DOM Id: STRONG____50, Browser: Chrome, Viewport: 1200  x 700, Device: Laptop, Status: Pass
+Task: 2, Test Name: View grid should be displayed, DOM Id: I__tiviewgrid__202, Browser: Chrome, Viewport: 1200  x 700, Device: Laptop, Status: Pass
+Task: 2, Test Name: View list should be displayed, DOM Id: I__tiviewlist__204, Browser: Chrome, Viewport: 1200  x 700, Device: Laptop, Status: Pass
+Task: 2, Test Name: Filters icon should not be displayed, DOM Id: ti-filter, Browser: Chrome, Viewport: 1200  x 700, Device: Laptop, Status: Pass
+Task: 2, Test Name: Filters label should not be displayed, DOM Id: SPAN____208, Browser: Chrome, Viewport: 1200  x 700, Device: Laptop, Status: Pass
+Task: 2, Test Name: Add to favourites for item 1 should not be displayed, DOM Id: I__tiheart__225, Browser: Chrome, Viewport: 1200  x 700, Device: Laptop, Status: Pass
+Task: 2, Test Name: Add to compare for item 1 should not be displayed, DOM Id: I__ticontrols__229, Browser: Chrome, Viewport: 1200  x 700, Device: Laptop, Status: Pass
+Task: 2, Test Name: Add to cart for item 1 should not be displayed, DOM Id: I__tishopping__233, Browser: Chrome, Viewport: 1200  x 700, Device: Laptop, Status: Pass
+Task: 2, Test Name: Add to favourites for item 2 should not be displayed, DOM Id: I__tiheart__247, Browser: Chrome, Viewport: 1200  x 700, Device: Laptop, Status: Pass
+Task: 2, Test Name: Add to compare for item 2 should not be displayed, DOM Id: I__ticontrols__251, Browser: Chrome, Viewport: 1200  x 700, Device: Laptop, Status: Pass
+Task: 2, Test Name: Add to cart for item 2 should not be displayed, DOM Id: I__tishopping__255, Browser: Chrome, Viewport: 1200  x 700, Device: Laptop, Status: Pass
+Task: 2, Test Name: item 1 picture should be displayed, DOM Id: product_1, Browser: Chrome, Viewport: 1200  x 700, Device: Laptop, Status: Pass
+Task: 2, Test Name: item 2 picture should be displayed, DOM Id: product_8, Browser: Chrome, Viewport: 1200  x 700, Device: Laptop, Status: Pass
+Task: 2, Test Name: About us should be displayed, DOM Id: A____425, Browser: Chrome, Viewport: 1200  x 700, Device: Laptop, Status: Pass
+Task: 2, Test Name: Faq should be displayed, DOM Id: A____427, Browser: Chrome, Viewport: 1200  x 700, Device: Laptop, Status: Pass
+Task: 2, Test Name: Help should be displayed, DOM Id: A____429, Browser: Chrome, Viewport: 1200  x 700, Device: Laptop, Status: Pass
+Task: 2, Test Name: My account should be displayed, DOM Id: A____431, Browser: Chrome, Viewport: 1200  x 700, Device: Laptop, Status: Pass
+Task: 2, Test Name: Blog should be displayed, DOM Id: A____433, Browser: Chrome, Viewport: 1200  x 700, Device: Laptop, Status: Pass
+Task: 2, Test Name: Contacts should be displayed, DOM Id: A____435, Browser: Chrome, Viewport: 1200  x 700, Device: Laptop, Status: Pass
+Task: 2, Test Name: About us should be displayed, DOM Id: A____425, Browser: Chrome, Viewport: 1200  x 700, Device: Laptop, Status: Pass
+Task: 2, Test Name: Email newsletter should be displayed, DOM Id: email_newsletter, Browser: Chrome, Viewport: 1200  x 700, Device: Laptop, Status: Pass
+Task: 2, Test Name: Address should be displayed, DOM Id: LI____440, Browser: Chrome, Viewport: 1200  x 700, Device: Laptop, Status: Pass
+Task: 2, Test Name: Email should be displayed, DOM Id: LI____443, Browser: Chrome, Viewport: 1200  x 700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Expected Value of Selected Size Option should be Small (S), actual Value is: Small (S), DOM Id: XPATH = //div[@class='nice-select wide']/span, Browser: Chrome, Viewport: 1200  x 700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Expected Value of New Price should be $33.00, actual Value is: $33.00, DOM Id: new_price, Browser: Chrome, Viewport: 1200  x 700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Main menu should be displayed, DOM Id: DIV__mainmenu__15, Browser: Chrome, Viewport: 1200  x 700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Search field should be displayed, DOM Id: DIV__customsear__41, Browser: Chrome, Viewport: 1200  x 700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Search icon on the right should be displayed, DOM Id: I__headericon__44, Browser: Chrome, Viewport: 1200  x 700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Search button on the left should not be displayed, DOM Id: A__btnsearchm__59, Browser: Chrome, Viewport: 1200  x 700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Account should be displayed, DOM Id: DIV__dropdowndr__55, Browser: Chrome, Viewport: 1200  x 700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Wishlist should be displayed, DOM Id: A__wishlist__52, Browser: Chrome, Viewport: 1200  x 700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Cart should be displayed, DOM Id: DIV__dropdowndr__48, Browser: Chrome, Viewport: 1200  x 700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Items in cart should be displayed, DOM Id: STRONG____50, Browser: Chrome, Viewport: 1200  x 700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Product code should be displayed, DOM Id: SMALL____84, Browser: Chrome, Viewport: 1200  x 700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Number of reviews should be displayed, DOM Id: EM____82, Browser: Chrome, Viewport: 1200  x 700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Add to Cart button should be displayed, DOM Id: A__btn__114, Browser: Chrome, Viewport: 1200  x 700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Quantity editbox should be displayed, DOM Id: DIV__numbersrow__102, Browser: Chrome, Viewport: 1200  x 700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Product info should be displayed, DOM Id: DIV__prodinfove__75, Browser: Chrome, Viewport: 1200  x 700, Device: Laptop, Status: Pass
+Task: 3, Test Name: New price should be displayed, DOM Id: new_price, Browser: Chrome, Viewport: 1200  x 700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Old price should be displayed, DOM Id: old_price, Browser: Chrome, Viewport: 1200  x 700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Discount should be displayed, DOM Id: discount, Browser: Chrome, Viewport: 1200  x 700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Quantity Plus button should be displayed, DOM Id: DIV__incbuttoni__104, Browser: Chrome, Viewport: 1200  x 700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Quantity Minus button should be displayed, DOM Id: DIV__decbuttoni__105, Browser: Chrome, Viewport: 1200  x 700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Shoe Image should be displayed, DOM Id: shoe_img, Browser: Chrome, Viewport: 1200  x 700, Device: Laptop, Status: Pass
+Task: 3, Test Name: About us should be displayed, DOM Id: A____123, Browser: Chrome, Viewport: 1200  x 700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Faq should be displayed, DOM Id: A____125, Browser: Chrome, Viewport: 1200  x 700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Help should be displayed, DOM Id: A____127, Browser: Chrome, Viewport: 1200  x 700, Device: Laptop, Status: Pass
+Task: 3, Test Name: My account should be displayed, DOM Id: A____129, Browser: Chrome, Viewport: 1200  x 700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Blog should be displayed, DOM Id: A____131, Browser: Chrome, Viewport: 1200  x 700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Contacts should be displayed, DOM Id: A____133, Browser: Chrome, Viewport: 1200  x 700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Email newsletter should be displayed, DOM Id: email_newsletter, Browser: Chrome, Viewport: 1200  x 700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Address should be displayed, DOM Id: LI____138, Browser: Chrome, Viewport: 1200  x 700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Email should be displayed, DOM Id: LI____141, Browser: Chrome, Viewport: 1200  x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Main menu should be displayed, DOM Id: DIV__mainmenu__15, Browser: Firefox, Viewport: 1200  x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Filter Collection should be displayed, DOM Id: filter_col, Browser: Firefox, Viewport: 1200  x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Search field should be displayed, DOM Id: DIV__customsear__41, Browser: Firefox, Viewport: 1200  x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Search icon on the right should be displayed, DOM Id: I__headericon__44, Browser: Firefox, Viewport: 1200  x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Search button on the left should not be displayed, DOM Id: A__btnsearchm__59, Browser: Firefox, Viewport: 1200  x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Account should be displayed, DOM Id: DIV__dropdowndr__55, Browser: Firefox, Viewport: 1200  x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Wishlist should be displayed, DOM Id: A__wishlist__52, Browser: Firefox, Viewport: 1200  x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Cart should be displayed, DOM Id: DIV__dropdowndr__48, Browser: Firefox, Viewport: 1200  x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Items in cart should be displayed, DOM Id: STRONG____50, Browser: Firefox, Viewport: 1200  x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: View grid should be displayed, DOM Id: I__tiviewgrid__202, Browser: Firefox, Viewport: 1200  x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: View list should be displayed, DOM Id: I__tiviewlist__204, Browser: Firefox, Viewport: 1200  x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Filters icon should not be displayed, DOM Id: ti-filter, Browser: Firefox, Viewport: 1200  x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Filters label should not be displayed, DOM Id: SPAN____208, Browser: Firefox, Viewport: 1200  x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Add to favourites for item 1 should not be displayed, DOM Id: I__tiheart__225, Browser: Firefox, Viewport: 1200  x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Add to compare for item 1 should not be displayed, DOM Id: I__ticontrols__229, Browser: Firefox, Viewport: 1200  x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Add to cart for item 1 should not be displayed, DOM Id: I__tishopping__233, Browser: Firefox, Viewport: 1200  x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Add to favourites for item 2 should not be displayed, DOM Id: I__tiheart__250, Browser: Firefox, Viewport: 1200  x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Add to compare for item 2 should not be displayed, DOM Id: I__ticontrols__254, Browser: Firefox, Viewport: 1200  x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Add to cart for item 2 should not be displayed, DOM Id: I__tishopping__258, Browser: Firefox, Viewport: 1200  x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Add to favourites for item 3 should not be displayed, DOM Id: I__tiheart__272, Browser: Firefox, Viewport: 1200  x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Add to compare for item 3 should not be displayed, DOM Id: I__ticontrols__276, Browser: Firefox, Viewport: 1200  x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Add to cart for item 3 should not be displayed, DOM Id: I__tishopping__280, Browser: Firefox, Viewport: 1200  x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Add to favourites for item 4 should not be displayed, DOM Id: I__tiheart__294, Browser: Firefox, Viewport: 1200  x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Add to compare for item 4 should not be displayed, DOM Id: I__ticontrols__298, Browser: Firefox, Viewport: 1200  x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Add to cart for item 4 should not be displayed, DOM Id: I__tishopping__302, Browser: Firefox, Viewport: 1200  x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Add to favourites for item 5 should not be displayed, DOM Id: I__tiheart__316, Browser: Firefox, Viewport: 1200  x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Add to compare for item 5 should not be displayed, DOM Id: I__ticontrols__389, Browser: Firefox, Viewport: 1200  x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Add to cart for item 5 should not be displayed, DOM Id: I__tishopping__393, Browser: Firefox, Viewport: 1200  x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Add to favourites for item 6 should not be displayed, DOM Id: I__tiheart__338, Browser: Firefox, Viewport: 1200  x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Add to compare for item 6 should not be displayed, DOM Id: I__ticontrols__342, Browser: Firefox, Viewport: 1200  x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Add to cart for item 6 should not be displayed, DOM Id: I__tishopping__346, Browser: Firefox, Viewport: 1200  x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Add to favourites for item 7 should not be displayed, DOM Id: I__tiheart__360, Browser: Firefox, Viewport: 1200  x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Add to compare for item 7 should not be displayed, DOM Id: I__ticontrols__364, Browser: Firefox, Viewport: 1200  x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Add to cart for item 7 should not be displayed, DOM Id: I__tishopping__368, Browser: Firefox, Viewport: 1200  x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Add to favourites for item 8 should not be displayed, DOM Id: I__tiheart__385, Browser: Firefox, Viewport: 1200  x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Add to compare for item 8 should not be displayed, DOM Id: I__ticontrols__389, Browser: Firefox, Viewport: 1200  x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Add to cart for item 8 should not be displayed, DOM Id: I__tishopping__393, Browser: Firefox, Viewport: 1200  x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Add to favourites for item 9 should not be displayed, DOM Id: A__tooltip__406, Browser: Firefox, Viewport: 1200  x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Add to compare for item 9 should not be displayed, DOM Id: I__ticontrols__411, Browser: Firefox, Viewport: 1200  x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Add to cart for item 9 should not be displayed, DOM Id: A__tooltip__414, Browser: Firefox, Viewport: 1200  x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: About us should be displayed, DOM Id: A____425, Browser: Firefox, Viewport: 1200  x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Faq should be displayed, DOM Id: A____427, Browser: Firefox, Viewport: 1200  x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Help should be displayed, DOM Id: A____429, Browser: Firefox, Viewport: 1200  x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: My account should be displayed, DOM Id: A____431, Browser: Firefox, Viewport: 1200  x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Blog should be displayed, DOM Id: A____433, Browser: Firefox, Viewport: 1200  x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Contacts should be displayed, DOM Id: A____435, Browser: Firefox, Viewport: 1200  x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: About us should be displayed, DOM Id: A____425, Browser: Firefox, Viewport: 1200  x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Email newsletter should be displayed, DOM Id: email_newsletter, Browser: Firefox, Viewport: 1200  x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Address should be displayed, DOM Id: LI____440, Browser: Firefox, Viewport: 1200  x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Email should be displayed, DOM Id: LI____443, Browser: Firefox, Viewport: 1200  x 700, Device: Laptop, Status: Pass
+Task: 2, Test Name: Expected Number Of Found Items should be 2, actual number is: 2, DOM Id: XPATH = //div[@id='product_grid']/div, Browser: Firefox, Viewport: 1200  x 700, Device: Laptop, Status: Pass
+Task: 2, Test Name: Main menu should be displayed, DOM Id: DIV__mainmenu__15, Browser: Firefox, Viewport: 1200  x 700, Device: Laptop, Status: Pass
+Task: 2, Test Name: Filter Collection should be displayed, DOM Id: filter_col, Browser: Firefox, Viewport: 1200  x 700, Device: Laptop, Status: Pass
+Task: 2, Test Name: Search field should be displayed, DOM Id: DIV__customsear__41, Browser: Firefox, Viewport: 1200  x 700, Device: Laptop, Status: Pass
+Task: 2, Test Name: Search icon on the right should be displayed, DOM Id: I__headericon__44, Browser: Firefox, Viewport: 1200  x 700, Device: Laptop, Status: Pass
+Task: 2, Test Name: Search button on the left should not be displayed, DOM Id: A__btnsearchm__59, Browser: Firefox, Viewport: 1200  x 700, Device: Laptop, Status: Pass
+Task: 2, Test Name: Account should be displayed, DOM Id: DIV__dropdowndr__55, Browser: Firefox, Viewport: 1200  x 700, Device: Laptop, Status: Pass
+Task: 2, Test Name: Wishlist should be displayed, DOM Id: A__wishlist__52, Browser: Firefox, Viewport: 1200  x 700, Device: Laptop, Status: Pass
+Task: 2, Test Name: Cart should be displayed, DOM Id: DIV__dropdowndr__48, Browser: Firefox, Viewport: 1200  x 700, Device: Laptop, Status: Pass
+Task: 2, Test Name: Items in cart should be displayed, DOM Id: STRONG____50, Browser: Firefox, Viewport: 1200  x 700, Device: Laptop, Status: Pass
+Task: 2, Test Name: View grid should be displayed, DOM Id: I__tiviewgrid__202, Browser: Firefox, Viewport: 1200  x 700, Device: Laptop, Status: Pass
+Task: 2, Test Name: View list should be displayed, DOM Id: I__tiviewlist__204, Browser: Firefox, Viewport: 1200  x 700, Device: Laptop, Status: Pass
+Task: 2, Test Name: Filters icon should not be displayed, DOM Id: ti-filter, Browser: Firefox, Viewport: 1200  x 700, Device: Laptop, Status: Pass
+Task: 2, Test Name: Filters label should not be displayed, DOM Id: SPAN____208, Browser: Firefox, Viewport: 1200  x 700, Device: Laptop, Status: Pass
+Task: 2, Test Name: Add to favourites for item 1 should not be displayed, DOM Id: I__tiheart__225, Browser: Firefox, Viewport: 1200  x 700, Device: Laptop, Status: Pass
+Task: 2, Test Name: Add to compare for item 1 should not be displayed, DOM Id: I__ticontrols__229, Browser: Firefox, Viewport: 1200  x 700, Device: Laptop, Status: Pass
+Task: 2, Test Name: Add to cart for item 1 should not be displayed, DOM Id: I__tishopping__233, Browser: Firefox, Viewport: 1200  x 700, Device: Laptop, Status: Pass
+Task: 2, Test Name: Add to favourites for item 2 should not be displayed, DOM Id: I__tiheart__247, Browser: Firefox, Viewport: 1200  x 700, Device: Laptop, Status: Pass
+Task: 2, Test Name: Add to compare for item 2 should not be displayed, DOM Id: I__ticontrols__251, Browser: Firefox, Viewport: 1200  x 700, Device: Laptop, Status: Pass
+Task: 2, Test Name: Add to cart for item 2 should not be displayed, DOM Id: I__tishopping__255, Browser: Firefox, Viewport: 1200  x 700, Device: Laptop, Status: Pass
+Task: 2, Test Name: item 1 picture should be displayed, DOM Id: product_1, Browser: Firefox, Viewport: 1200  x 700, Device: Laptop, Status: Pass
+Task: 2, Test Name: item 2 picture should be displayed, DOM Id: product_8, Browser: Firefox, Viewport: 1200  x 700, Device: Laptop, Status: Pass
+Task: 2, Test Name: About us should be displayed, DOM Id: A____425, Browser: Firefox, Viewport: 1200  x 700, Device: Laptop, Status: Pass
+Task: 2, Test Name: Faq should be displayed, DOM Id: A____427, Browser: Firefox, Viewport: 1200  x 700, Device: Laptop, Status: Pass
+Task: 2, Test Name: Help should be displayed, DOM Id: A____429, Browser: Firefox, Viewport: 1200  x 700, Device: Laptop, Status: Pass
+Task: 2, Test Name: My account should be displayed, DOM Id: A____431, Browser: Firefox, Viewport: 1200  x 700, Device: Laptop, Status: Pass
+Task: 2, Test Name: Blog should be displayed, DOM Id: A____433, Browser: Firefox, Viewport: 1200  x 700, Device: Laptop, Status: Pass
+Task: 2, Test Name: Contacts should be displayed, DOM Id: A____435, Browser: Firefox, Viewport: 1200  x 700, Device: Laptop, Status: Pass
+Task: 2, Test Name: About us should be displayed, DOM Id: A____425, Browser: Firefox, Viewport: 1200  x 700, Device: Laptop, Status: Pass
+Task: 2, Test Name: Email newsletter should be displayed, DOM Id: email_newsletter, Browser: Firefox, Viewport: 1200  x 700, Device: Laptop, Status: Pass
+Task: 2, Test Name: Address should be displayed, DOM Id: LI____440, Browser: Firefox, Viewport: 1200  x 700, Device: Laptop, Status: Pass
+Task: 2, Test Name: Email should be displayed, DOM Id: LI____443, Browser: Firefox, Viewport: 1200  x 700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Expected Value of Selected Size Option should be Small (S), actual Value is: Small (S), DOM Id: XPATH = //div[@class='nice-select wide']/span, Browser: Firefox, Viewport: 1200  x 700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Expected Value of New Price should be $33.00, actual Value is: $33.00, DOM Id: new_price, Browser: Firefox, Viewport: 1200  x 700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Main menu should be displayed, DOM Id: DIV__mainmenu__15, Browser: Firefox, Viewport: 1200  x 700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Search field should be displayed, DOM Id: DIV__customsear__41, Browser: Firefox, Viewport: 1200  x 700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Search icon on the right should be displayed, DOM Id: I__headericon__44, Browser: Firefox, Viewport: 1200  x 700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Search button on the left should not be displayed, DOM Id: A__btnsearchm__59, Browser: Firefox, Viewport: 1200  x 700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Account should be displayed, DOM Id: DIV__dropdowndr__55, Browser: Firefox, Viewport: 1200  x 700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Wishlist should be displayed, DOM Id: A__wishlist__52, Browser: Firefox, Viewport: 1200  x 700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Cart should be displayed, DOM Id: DIV__dropdowndr__48, Browser: Firefox, Viewport: 1200  x 700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Items in cart should be displayed, DOM Id: STRONG____50, Browser: Firefox, Viewport: 1200  x 700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Product code should be displayed, DOM Id: SMALL____84, Browser: Firefox, Viewport: 1200  x 700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Number of reviews should be displayed, DOM Id: EM____82, Browser: Firefox, Viewport: 1200  x 700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Add to Cart button should be displayed, DOM Id: A__btn__114, Browser: Firefox, Viewport: 1200  x 700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Quantity editbox should be displayed, DOM Id: DIV__numbersrow__102, Browser: Firefox, Viewport: 1200  x 700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Product info should be displayed, DOM Id: DIV__prodinfove__75, Browser: Firefox, Viewport: 1200  x 700, Device: Laptop, Status: Pass
+Task: 3, Test Name: New price should be displayed, DOM Id: new_price, Browser: Firefox, Viewport: 1200  x 700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Old price should be displayed, DOM Id: old_price, Browser: Firefox, Viewport: 1200  x 700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Discount should be displayed, DOM Id: discount, Browser: Firefox, Viewport: 1200  x 700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Quantity Plus button should be displayed, DOM Id: DIV__incbuttoni__104, Browser: Firefox, Viewport: 1200  x 700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Quantity Minus button should be displayed, DOM Id: DIV__decbuttoni__105, Browser: Firefox, Viewport: 1200  x 700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Shoe Image should be displayed, DOM Id: shoe_img, Browser: Firefox, Viewport: 1200  x 700, Device: Laptop, Status: Pass
+Task: 3, Test Name: About us should be displayed, DOM Id: A____123, Browser: Firefox, Viewport: 1200  x 700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Faq should be displayed, DOM Id: A____125, Browser: Firefox, Viewport: 1200  x 700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Help should be displayed, DOM Id: A____127, Browser: Firefox, Viewport: 1200  x 700, Device: Laptop, Status: Pass
+Task: 3, Test Name: My account should be displayed, DOM Id: A____129, Browser: Firefox, Viewport: 1200  x 700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Blog should be displayed, DOM Id: A____131, Browser: Firefox, Viewport: 1200  x 700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Contacts should be displayed, DOM Id: A____133, Browser: Firefox, Viewport: 1200  x 700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Email newsletter should be displayed, DOM Id: email_newsletter, Browser: Firefox, Viewport: 1200  x 700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Address should be displayed, DOM Id: LI____138, Browser: Firefox, Viewport: 1200  x 700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Email should be displayed, DOM Id: LI____141, Browser: Firefox, Viewport: 1200  x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Main menu should be displayed, DOM Id: DIV__mainmenu__15, Browser: Edge Chromium, Viewport: 1200  x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Filter Collection should be displayed, DOM Id: filter_col, Browser: Edge Chromium, Viewport: 1200  x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Search field should be displayed, DOM Id: DIV__customsear__41, Browser: Edge Chromium, Viewport: 1200  x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Search icon on the right should be displayed, DOM Id: I__headericon__44, Browser: Edge Chromium, Viewport: 1200  x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Search button on the left should not be displayed, DOM Id: A__btnsearchm__59, Browser: Edge Chromium, Viewport: 1200  x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Account should be displayed, DOM Id: DIV__dropdowndr__55, Browser: Edge Chromium, Viewport: 1200  x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Wishlist should be displayed, DOM Id: A__wishlist__52, Browser: Edge Chromium, Viewport: 1200  x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Cart should be displayed, DOM Id: DIV__dropdowndr__48, Browser: Edge Chromium, Viewport: 1200  x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Items in cart should be displayed, DOM Id: STRONG____50, Browser: Edge Chromium, Viewport: 1200  x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: View grid should be displayed, DOM Id: I__tiviewgrid__202, Browser: Edge Chromium, Viewport: 1200  x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: View list should be displayed, DOM Id: I__tiviewlist__204, Browser: Edge Chromium, Viewport: 1200  x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Filters icon should not be displayed, DOM Id: ti-filter, Browser: Edge Chromium, Viewport: 1200  x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Filters label should not be displayed, DOM Id: SPAN____208, Browser: Edge Chromium, Viewport: 1200  x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Add to favourites for item 1 should not be displayed, DOM Id: I__tiheart__225, Browser: Edge Chromium, Viewport: 1200  x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Add to compare for item 1 should not be displayed, DOM Id: I__ticontrols__229, Browser: Edge Chromium, Viewport: 1200  x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Add to cart for item 1 should not be displayed, DOM Id: I__tishopping__233, Browser: Edge Chromium, Viewport: 1200  x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Add to favourites for item 2 should not be displayed, DOM Id: I__tiheart__250, Browser: Edge Chromium, Viewport: 1200  x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Add to compare for item 2 should not be displayed, DOM Id: I__ticontrols__254, Browser: Edge Chromium, Viewport: 1200  x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Add to cart for item 2 should not be displayed, DOM Id: I__tishopping__258, Browser: Edge Chromium, Viewport: 1200  x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Add to favourites for item 3 should not be displayed, DOM Id: I__tiheart__272, Browser: Edge Chromium, Viewport: 1200  x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Add to compare for item 3 should not be displayed, DOM Id: I__ticontrols__276, Browser: Edge Chromium, Viewport: 1200  x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Add to cart for item 3 should not be displayed, DOM Id: I__tishopping__280, Browser: Edge Chromium, Viewport: 1200  x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Add to favourites for item 4 should not be displayed, DOM Id: I__tiheart__294, Browser: Edge Chromium, Viewport: 1200  x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Add to compare for item 4 should not be displayed, DOM Id: I__ticontrols__298, Browser: Edge Chromium, Viewport: 1200  x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Add to cart for item 4 should not be displayed, DOM Id: I__tishopping__302, Browser: Edge Chromium, Viewport: 1200  x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Add to favourites for item 5 should not be displayed, DOM Id: I__tiheart__316, Browser: Edge Chromium, Viewport: 1200  x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Add to compare for item 5 should not be displayed, DOM Id: I__ticontrols__389, Browser: Edge Chromium, Viewport: 1200  x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Add to cart for item 5 should not be displayed, DOM Id: I__tishopping__393, Browser: Edge Chromium, Viewport: 1200  x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Add to favourites for item 6 should not be displayed, DOM Id: I__tiheart__338, Browser: Edge Chromium, Viewport: 1200  x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Add to compare for item 6 should not be displayed, DOM Id: I__ticontrols__342, Browser: Edge Chromium, Viewport: 1200  x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Add to cart for item 6 should not be displayed, DOM Id: I__tishopping__346, Browser: Edge Chromium, Viewport: 1200  x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Add to favourites for item 7 should not be displayed, DOM Id: I__tiheart__360, Browser: Edge Chromium, Viewport: 1200  x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Add to compare for item 7 should not be displayed, DOM Id: I__ticontrols__364, Browser: Edge Chromium, Viewport: 1200  x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Add to cart for item 7 should not be displayed, DOM Id: I__tishopping__368, Browser: Edge Chromium, Viewport: 1200  x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Add to favourites for item 8 should not be displayed, DOM Id: I__tiheart__385, Browser: Edge Chromium, Viewport: 1200  x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Add to compare for item 8 should not be displayed, DOM Id: I__ticontrols__389, Browser: Edge Chromium, Viewport: 1200  x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Add to cart for item 8 should not be displayed, DOM Id: I__tishopping__393, Browser: Edge Chromium, Viewport: 1200  x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Add to favourites for item 9 should not be displayed, DOM Id: A__tooltip__406, Browser: Edge Chromium, Viewport: 1200  x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Add to compare for item 9 should not be displayed, DOM Id: I__ticontrols__411, Browser: Edge Chromium, Viewport: 1200  x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Add to cart for item 9 should not be displayed, DOM Id: A__tooltip__414, Browser: Edge Chromium, Viewport: 1200  x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: About us should be displayed, DOM Id: A____425, Browser: Edge Chromium, Viewport: 1200  x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Faq should be displayed, DOM Id: A____427, Browser: Edge Chromium, Viewport: 1200  x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Help should be displayed, DOM Id: A____429, Browser: Edge Chromium, Viewport: 1200  x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: My account should be displayed, DOM Id: A____431, Browser: Edge Chromium, Viewport: 1200  x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Blog should be displayed, DOM Id: A____433, Browser: Edge Chromium, Viewport: 1200  x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Contacts should be displayed, DOM Id: A____435, Browser: Edge Chromium, Viewport: 1200  x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: About us should be displayed, DOM Id: A____425, Browser: Edge Chromium, Viewport: 1200  x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Email newsletter should be displayed, DOM Id: email_newsletter, Browser: Edge Chromium, Viewport: 1200  x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Address should be displayed, DOM Id: LI____440, Browser: Edge Chromium, Viewport: 1200  x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Email should be displayed, DOM Id: LI____443, Browser: Edge Chromium, Viewport: 1200  x 700, Device: Laptop, Status: Pass
+Task: 2, Test Name: Expected Number Of Found Items should be 2, actual number is: 2, DOM Id: XPATH = //div[@id='product_grid']/div, Browser: Edge Chromium, Viewport: 1200  x 700, Device: Laptop, Status: Pass
+Task: 2, Test Name: Main menu should be displayed, DOM Id: DIV__mainmenu__15, Browser: Edge Chromium, Viewport: 1200  x 700, Device: Laptop, Status: Pass
+Task: 2, Test Name: Filter Collection should be displayed, DOM Id: filter_col, Browser: Edge Chromium, Viewport: 1200  x 700, Device: Laptop, Status: Pass
+Task: 2, Test Name: Search field should be displayed, DOM Id: DIV__customsear__41, Browser: Edge Chromium, Viewport: 1200  x 700, Device: Laptop, Status: Pass
+Task: 2, Test Name: Search icon on the right should be displayed, DOM Id: I__headericon__44, Browser: Edge Chromium, Viewport: 1200  x 700, Device: Laptop, Status: Pass
+Task: 2, Test Name: Search button on the left should not be displayed, DOM Id: A__btnsearchm__59, Browser: Edge Chromium, Viewport: 1200  x 700, Device: Laptop, Status: Pass
+Task: 2, Test Name: Account should be displayed, DOM Id: DIV__dropdowndr__55, Browser: Edge Chromium, Viewport: 1200  x 700, Device: Laptop, Status: Pass
+Task: 2, Test Name: Wishlist should be displayed, DOM Id: A__wishlist__52, Browser: Edge Chromium, Viewport: 1200  x 700, Device: Laptop, Status: Pass
+Task: 2, Test Name: Cart should be displayed, DOM Id: DIV__dropdowndr__48, Browser: Edge Chromium, Viewport: 1200  x 700, Device: Laptop, Status: Pass
+Task: 2, Test Name: Items in cart should be displayed, DOM Id: STRONG____50, Browser: Edge Chromium, Viewport: 1200  x 700, Device: Laptop, Status: Pass
+Task: 2, Test Name: View grid should be displayed, DOM Id: I__tiviewgrid__202, Browser: Edge Chromium, Viewport: 1200  x 700, Device: Laptop, Status: Pass
+Task: 2, Test Name: View list should be displayed, DOM Id: I__tiviewlist__204, Browser: Edge Chromium, Viewport: 1200  x 700, Device: Laptop, Status: Pass
+Task: 2, Test Name: Filters icon should not be displayed, DOM Id: ti-filter, Browser: Edge Chromium, Viewport: 1200  x 700, Device: Laptop, Status: Pass
+Task: 2, Test Name: Filters label should not be displayed, DOM Id: SPAN____208, Browser: Edge Chromium, Viewport: 1200  x 700, Device: Laptop, Status: Pass
+Task: 2, Test Name: Add to favourites for item 1 should not be displayed, DOM Id: I__tiheart__225, Browser: Edge Chromium, Viewport: 1200  x 700, Device: Laptop, Status: Pass
+Task: 2, Test Name: Add to compare for item 1 should not be displayed, DOM Id: I__ticontrols__229, Browser: Edge Chromium, Viewport: 1200  x 700, Device: Laptop, Status: Pass
+Task: 2, Test Name: Add to cart for item 1 should not be displayed, DOM Id: I__tishopping__233, Browser: Edge Chromium, Viewport: 1200  x 700, Device: Laptop, Status: Pass
+Task: 2, Test Name: Add to favourites for item 2 should not be displayed, DOM Id: I__tiheart__247, Browser: Edge Chromium, Viewport: 1200  x 700, Device: Laptop, Status: Pass
+Task: 2, Test Name: Add to compare for item 2 should not be displayed, DOM Id: I__ticontrols__251, Browser: Edge Chromium, Viewport: 1200  x 700, Device: Laptop, Status: Pass
+Task: 2, Test Name: Add to cart for item 2 should not be displayed, DOM Id: I__tishopping__255, Browser: Edge Chromium, Viewport: 1200  x 700, Device: Laptop, Status: Pass
+Task: 2, Test Name: item 1 picture should be displayed, DOM Id: product_1, Browser: Edge Chromium, Viewport: 1200  x 700, Device: Laptop, Status: Pass
+Task: 2, Test Name: item 2 picture should be displayed, DOM Id: product_8, Browser: Edge Chromium, Viewport: 1200  x 700, Device: Laptop, Status: Pass
+Task: 2, Test Name: About us should be displayed, DOM Id: A____425, Browser: Edge Chromium, Viewport: 1200  x 700, Device: Laptop, Status: Pass
+Task: 2, Test Name: Faq should be displayed, DOM Id: A____427, Browser: Edge Chromium, Viewport: 1200  x 700, Device: Laptop, Status: Pass
+Task: 2, Test Name: Help should be displayed, DOM Id: A____429, Browser: Edge Chromium, Viewport: 1200  x 700, Device: Laptop, Status: Pass
+Task: 2, Test Name: My account should be displayed, DOM Id: A____431, Browser: Edge Chromium, Viewport: 1200  x 700, Device: Laptop, Status: Pass
+Task: 2, Test Name: Blog should be displayed, DOM Id: A____433, Browser: Edge Chromium, Viewport: 1200  x 700, Device: Laptop, Status: Pass
+Task: 2, Test Name: Contacts should be displayed, DOM Id: A____435, Browser: Edge Chromium, Viewport: 1200  x 700, Device: Laptop, Status: Pass
+Task: 2, Test Name: About us should be displayed, DOM Id: A____425, Browser: Edge Chromium, Viewport: 1200  x 700, Device: Laptop, Status: Pass
+Task: 2, Test Name: Email newsletter should be displayed, DOM Id: email_newsletter, Browser: Edge Chromium, Viewport: 1200  x 700, Device: Laptop, Status: Pass
+Task: 2, Test Name: Address should be displayed, DOM Id: LI____440, Browser: Edge Chromium, Viewport: 1200  x 700, Device: Laptop, Status: Pass
+Task: 2, Test Name: Email should be displayed, DOM Id: LI____443, Browser: Edge Chromium, Viewport: 1200  x 700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Expected Value of Selected Size Option should be Small (S), actual Value is: Small (S), DOM Id: XPATH = //div[@class='nice-select wide']/span, Browser: Edge Chromium, Viewport: 1200  x 700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Expected Value of New Price should be $33.00, actual Value is: $33.00, DOM Id: new_price, Browser: Edge Chromium, Viewport: 1200  x 700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Main menu should be displayed, DOM Id: DIV__mainmenu__15, Browser: Edge Chromium, Viewport: 1200  x 700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Search field should be displayed, DOM Id: DIV__customsear__41, Browser: Edge Chromium, Viewport: 1200  x 700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Search icon on the right should be displayed, DOM Id: I__headericon__44, Browser: Edge Chromium, Viewport: 1200  x 700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Search button on the left should not be displayed, DOM Id: A__btnsearchm__59, Browser: Edge Chromium, Viewport: 1200  x 700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Account should be displayed, DOM Id: DIV__dropdowndr__55, Browser: Edge Chromium, Viewport: 1200  x 700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Wishlist should be displayed, DOM Id: A__wishlist__52, Browser: Edge Chromium, Viewport: 1200  x 700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Cart should be displayed, DOM Id: DIV__dropdowndr__48, Browser: Edge Chromium, Viewport: 1200  x 700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Items in cart should be displayed, DOM Id: STRONG____50, Browser: Edge Chromium, Viewport: 1200  x 700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Product code should be displayed, DOM Id: SMALL____84, Browser: Edge Chromium, Viewport: 1200  x 700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Number of reviews should be displayed, DOM Id: EM____82, Browser: Edge Chromium, Viewport: 1200  x 700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Add to Cart button should be displayed, DOM Id: A__btn__114, Browser: Edge Chromium, Viewport: 1200  x 700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Quantity editbox should be displayed, DOM Id: DIV__numbersrow__102, Browser: Edge Chromium, Viewport: 1200  x 700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Product info should be displayed, DOM Id: DIV__prodinfove__75, Browser: Edge Chromium, Viewport: 1200  x 700, Device: Laptop, Status: Pass
+Task: 3, Test Name: New price should be displayed, DOM Id: new_price, Browser: Edge Chromium, Viewport: 1200  x 700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Old price should be displayed, DOM Id: old_price, Browser: Edge Chromium, Viewport: 1200  x 700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Discount should be displayed, DOM Id: discount, Browser: Edge Chromium, Viewport: 1200  x 700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Quantity Plus button should be displayed, DOM Id: DIV__incbuttoni__104, Browser: Edge Chromium, Viewport: 1200  x 700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Quantity Minus button should be displayed, DOM Id: DIV__decbuttoni__105, Browser: Edge Chromium, Viewport: 1200  x 700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Shoe Image should be displayed, DOM Id: shoe_img, Browser: Edge Chromium, Viewport: 1200  x 700, Device: Laptop, Status: Pass
+Task: 3, Test Name: About us should be displayed, DOM Id: A____123, Browser: Edge Chromium, Viewport: 1200  x 700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Faq should be displayed, DOM Id: A____125, Browser: Edge Chromium, Viewport: 1200  x 700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Help should be displayed, DOM Id: A____127, Browser: Edge Chromium, Viewport: 1200  x 700, Device: Laptop, Status: Pass
+Task: 3, Test Name: My account should be displayed, DOM Id: A____129, Browser: Edge Chromium, Viewport: 1200  x 700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Blog should be displayed, DOM Id: A____131, Browser: Edge Chromium, Viewport: 1200  x 700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Contacts should be displayed, DOM Id: A____133, Browser: Edge Chromium, Viewport: 1200  x 700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Email newsletter should be displayed, DOM Id: email_newsletter, Browser: Edge Chromium, Viewport: 1200  x 700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Address should be displayed, DOM Id: LI____138, Browser: Edge Chromium, Viewport: 1200  x 700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Email should be displayed, DOM Id: LI____141, Browser: Edge Chromium, Viewport: 1200  x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Main menu should not be displayed, DOM Id: DIV__mainmenu__15, Browser: Chrome, Viewport: 768  x 700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Filter Collection should not be displayed, DOM Id: filter_col, Browser: Chrome, Viewport: 768  x 700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Search field should be displayed, DOM Id: DIV__customsear__41, Browser: Chrome, Viewport: 768  x 700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Search icon on the right should be displayed, DOM Id: I__headericon__44, Browser: Chrome, Viewport: 768  x 700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Search button on the left should not be displayed, DOM Id: A__btnsearchm__59, Browser: Chrome, Viewport: 768  x 700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Account should be displayed, DOM Id: DIV__dropdowndr__55, Browser: Chrome, Viewport: 768  x 700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Wishlist should not be displayed, DOM Id: A__wishlist__52, Browser: Chrome, Viewport: 768  x 700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Cart should be displayed, DOM Id: DIV__dropdowndr__48, Browser: Chrome, Viewport: 768  x 700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Items in cart should be displayed, DOM Id: STRONG____50, Browser: Chrome, Viewport: 768  x 700, Device: Tablet, Status: Pass
+Task: 1, Test Name: View grid should not be displayed, DOM Id: I__tiviewgrid__202, Browser: Chrome, Viewport: 768  x 700, Device: Tablet, Status: Pass
+Task: 1, Test Name: View list should not be displayed, DOM Id: I__tiviewlist__204, Browser: Chrome, Viewport: 768  x 700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Filters icon should be displayed, DOM Id: ti-filter, Browser: Chrome, Viewport: 768  x 700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Filters label should be displayed, DOM Id: SPAN____208, Browser: Chrome, Viewport: 768  x 700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Add to favourites for item 1 should be displayed, DOM Id: I__tiheart__225, Browser: Chrome, Viewport: 768  x 700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Add to compare for item 1 should be displayed, DOM Id: I__ticontrols__229, Browser: Chrome, Viewport: 768  x 700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Add to cart for item 1 should be displayed, DOM Id: I__tishopping__233, Browser: Chrome, Viewport: 768  x 700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Add to favourites for item 2 should be displayed, DOM Id: I__tiheart__250, Browser: Chrome, Viewport: 768  x 700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Add to compare for item 2 should be displayed, DOM Id: I__ticontrols__254, Browser: Chrome, Viewport: 768  x 700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Add to cart for item 2 should be displayed, DOM Id: I__tishopping__258, Browser: Chrome, Viewport: 768  x 700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Add to favourites for item 3 should be displayed, DOM Id: I__tiheart__272, Browser: Chrome, Viewport: 768  x 700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Add to compare for item 3 should be displayed, DOM Id: I__ticontrols__276, Browser: Chrome, Viewport: 768  x 700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Add to cart for item 3 should be displayed, DOM Id: I__tishopping__280, Browser: Chrome, Viewport: 768  x 700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Add to favourites for item 4 should be displayed, DOM Id: I__tiheart__294, Browser: Chrome, Viewport: 768  x 700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Add to compare for item 4 should be displayed, DOM Id: I__ticontrols__298, Browser: Chrome, Viewport: 768  x 700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Add to cart for item 4 should be displayed, DOM Id: I__tishopping__302, Browser: Chrome, Viewport: 768  x 700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Add to favourites for item 5 should be displayed, DOM Id: I__tiheart__316, Browser: Chrome, Viewport: 768  x 700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Add to compare for item 5 should be displayed, DOM Id: I__ticontrols__389, Browser: Chrome, Viewport: 768  x 700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Add to cart for item 5 should be displayed, DOM Id: I__tishopping__393, Browser: Chrome, Viewport: 768  x 700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Add to favourites for item 6 should be displayed, DOM Id: I__tiheart__338, Browser: Chrome, Viewport: 768  x 700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Add to compare for item 6 should be displayed, DOM Id: I__ticontrols__342, Browser: Chrome, Viewport: 768  x 700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Add to cart for item 6 should be displayed, DOM Id: I__tishopping__346, Browser: Chrome, Viewport: 768  x 700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Add to favourites for item 7 should be displayed, DOM Id: I__tiheart__360, Browser: Chrome, Viewport: 768  x 700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Add to compare for item 7 should be displayed, DOM Id: I__ticontrols__364, Browser: Chrome, Viewport: 768  x 700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Add to cart for item 7 should be displayed, DOM Id: I__tishopping__368, Browser: Chrome, Viewport: 768  x 700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Add to favourites for item 8 should be displayed, DOM Id: I__tiheart__385, Browser: Chrome, Viewport: 768  x 700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Add to compare for item 8 should be displayed, DOM Id: I__ticontrols__389, Browser: Chrome, Viewport: 768  x 700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Add to cart for item 8 should be displayed, DOM Id: I__tishopping__393, Browser: Chrome, Viewport: 768  x 700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Add to favourites for item 9 should be displayed, DOM Id: A__tooltip__406, Browser: Chrome, Viewport: 768  x 700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Add to compare for item 9 should be displayed, DOM Id: I__ticontrols__411, Browser: Chrome, Viewport: 768  x 700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Add to cart for item 9 should be displayed, DOM Id: A__tooltip__414, Browser: Chrome, Viewport: 768  x 700, Device: Tablet, Status: Pass
+Task: 1, Test Name: About us should be displayed, DOM Id: A____425, Browser: Chrome, Viewport: 768  x 700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Faq should be displayed, DOM Id: A____427, Browser: Chrome, Viewport: 768  x 700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Help should be displayed, DOM Id: A____429, Browser: Chrome, Viewport: 768  x 700, Device: Tablet, Status: Pass
+Task: 1, Test Name: My account should be displayed, DOM Id: A____431, Browser: Chrome, Viewport: 768  x 700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Blog should be displayed, DOM Id: A____433, Browser: Chrome, Viewport: 768  x 700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Contacts should be displayed, DOM Id: A____435, Browser: Chrome, Viewport: 768  x 700, Device: Tablet, Status: Pass
+Task: 1, Test Name: About us should be displayed, DOM Id: A____425, Browser: Chrome, Viewport: 768  x 700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Email newsletter should be displayed, DOM Id: email_newsletter, Browser: Chrome, Viewport: 768  x 700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Address should be displayed, DOM Id: LI____440, Browser: Chrome, Viewport: 768  x 700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Email should be displayed, DOM Id: LI____443, Browser: Chrome, Viewport: 768  x 700, Device: Tablet, Status: Pass
+Task: 2, Test Name: Expected Number Of Found Items should be 2, actual number is: 2, DOM Id: XPATH = //div[@id='product_grid']/div, Browser: Chrome, Viewport: 768  x 700, Device: Tablet, Status: Pass
+Task: 2, Test Name: Main menu should not be displayed, DOM Id: DIV__mainmenu__15, Browser: Chrome, Viewport: 768  x 700, Device: Tablet, Status: Pass
+Task: 2, Test Name: Filter Collection should not be displayed, DOM Id: filter_col, Browser: Chrome, Viewport: 768  x 700, Device: Tablet, Status: Pass
+Task: 2, Test Name: Search field should be displayed, DOM Id: DIV__customsear__41, Browser: Chrome, Viewport: 768  x 700, Device: Tablet, Status: Pass
+Task: 2, Test Name: Search icon on the right should be displayed, DOM Id: I__headericon__44, Browser: Chrome, Viewport: 768  x 700, Device: Tablet, Status: Pass
+Task: 2, Test Name: Search button on the left should not be displayed, DOM Id: A__btnsearchm__59, Browser: Chrome, Viewport: 768  x 700, Device: Tablet, Status: Pass
+Task: 2, Test Name: Account should be displayed, DOM Id: DIV__dropdowndr__55, Browser: Chrome, Viewport: 768  x 700, Device: Tablet, Status: Pass
+Task: 2, Test Name: Wishlist should not be displayed, DOM Id: A__wishlist__52, Browser: Chrome, Viewport: 768  x 700, Device: Tablet, Status: Pass
+Task: 2, Test Name: Cart should be displayed, DOM Id: DIV__dropdowndr__48, Browser: Chrome, Viewport: 768  x 700, Device: Tablet, Status: Pass
+Task: 2, Test Name: Items in cart should be displayed, DOM Id: STRONG____50, Browser: Chrome, Viewport: 768  x 700, Device: Tablet, Status: Pass
+Task: 2, Test Name: View grid should not be displayed, DOM Id: I__tiviewgrid__202, Browser: Chrome, Viewport: 768  x 700, Device: Tablet, Status: Pass
+Task: 2, Test Name: View list should not be displayed, DOM Id: I__tiviewlist__204, Browser: Chrome, Viewport: 768  x 700, Device: Tablet, Status: Pass
+Task: 2, Test Name: Filters icon should be displayed, DOM Id: ti-filter, Browser: Chrome, Viewport: 768  x 700, Device: Tablet, Status: Pass
+Task: 2, Test Name: Filters label should be displayed, DOM Id: SPAN____208, Browser: Chrome, Viewport: 768  x 700, Device: Tablet, Status: Pass
+Task: 2, Test Name: Add to favourites for item 1 should be displayed, DOM Id: I__tiheart__225, Browser: Chrome, Viewport: 768  x 700, Device: Tablet, Status: Pass
+Task: 2, Test Name: Add to compare for item 1 should be displayed, DOM Id: I__ticontrols__229, Browser: Chrome, Viewport: 768  x 700, Device: Tablet, Status: Pass
+Task: 2, Test Name: Add to cart for item 1 should be displayed, DOM Id: I__tishopping__233, Browser: Chrome, Viewport: 768  x 700, Device: Tablet, Status: Pass
+Task: 2, Test Name: Add to favourites for item 2 should be displayed, DOM Id: I__tiheart__247, Browser: Chrome, Viewport: 768  x 700, Device: Tablet, Status: Pass
+Task: 2, Test Name: Add to compare for item 2 should be displayed, DOM Id: I__ticontrols__251, Browser: Chrome, Viewport: 768  x 700, Device: Tablet, Status: Pass
+Task: 2, Test Name: Add to cart for item 2 should be displayed, DOM Id: I__tishopping__255, Browser: Chrome, Viewport: 768  x 700, Device: Tablet, Status: Pass
+Task: 2, Test Name: item 1 picture should be displayed, DOM Id: product_1, Browser: Chrome, Viewport: 768  x 700, Device: Tablet, Status: Pass
+Task: 2, Test Name: item 2 picture should be displayed, DOM Id: product_8, Browser: Chrome, Viewport: 768  x 700, Device: Tablet, Status: Pass
+Task: 2, Test Name: About us should be displayed, DOM Id: A____425, Browser: Chrome, Viewport: 768  x 700, Device: Tablet, Status: Pass
+Task: 2, Test Name: Faq should be displayed, DOM Id: A____427, Browser: Chrome, Viewport: 768  x 700, Device: Tablet, Status: Pass
+Task: 2, Test Name: Help should be displayed, DOM Id: A____429, Browser: Chrome, Viewport: 768  x 700, Device: Tablet, Status: Pass
+Task: 2, Test Name: My account should be displayed, DOM Id: A____431, Browser: Chrome, Viewport: 768  x 700, Device: Tablet, Status: Pass
+Task: 2, Test Name: Blog should be displayed, DOM Id: A____433, Browser: Chrome, Viewport: 768  x 700, Device: Tablet, Status: Pass
+Task: 2, Test Name: Contacts should be displayed, DOM Id: A____435, Browser: Chrome, Viewport: 768  x 700, Device: Tablet, Status: Pass
+Task: 2, Test Name: About us should be displayed, DOM Id: A____425, Browser: Chrome, Viewport: 768  x 700, Device: Tablet, Status: Pass
+Task: 2, Test Name: Email newsletter should be displayed, DOM Id: email_newsletter, Browser: Chrome, Viewport: 768  x 700, Device: Tablet, Status: Pass
+Task: 2, Test Name: Address should be displayed, DOM Id: LI____440, Browser: Chrome, Viewport: 768  x 700, Device: Tablet, Status: Pass
+Task: 2, Test Name: Email should be displayed, DOM Id: LI____443, Browser: Chrome, Viewport: 768  x 700, Device: Tablet, Status: Pass
+Task: 3, Test Name: Expected Value of Selected Size Option should be Small (S), actual Value is: Small (S), DOM Id: XPATH = //div[@class='nice-select wide']/span, Browser: Chrome, Viewport: 768  x 700, Device: Tablet, Status: Pass
+Task: 3, Test Name: Expected Value of New Price should be $33.00, actual Value is: $33.00, DOM Id: new_price, Browser: Chrome, Viewport: 768  x 700, Device: Tablet, Status: Pass
+Task: 3, Test Name: Main menu should not be displayed, DOM Id: DIV__mainmenu__15, Browser: Chrome, Viewport: 768  x 700, Device: Tablet, Status: Pass
+Task: 3, Test Name: Search field should be displayed, DOM Id: DIV__customsear__41, Browser: Chrome, Viewport: 768  x 700, Device: Tablet, Status: Pass
+Task: 3, Test Name: Search icon on the right should be displayed, DOM Id: I__headericon__44, Browser: Chrome, Viewport: 768  x 700, Device: Tablet, Status: Pass
+Task: 3, Test Name: Search button on the left should not be displayed, DOM Id: A__btnsearchm__59, Browser: Chrome, Viewport: 768  x 700, Device: Tablet, Status: Pass
+Task: 3, Test Name: Account should be displayed, DOM Id: DIV__dropdowndr__55, Browser: Chrome, Viewport: 768  x 700, Device: Tablet, Status: Pass
+Task: 3, Test Name: Wishlist should be displayed, DOM Id: A__wishlist__52, Browser: Chrome, Viewport: 768  x 700, Device: Tablet, Status: Pass
+Task: 3, Test Name: Cart should be displayed, DOM Id: DIV__dropdowndr__48, Browser: Chrome, Viewport: 768  x 700, Device: Tablet, Status: Pass
+Task: 3, Test Name: Items in cart should be displayed, DOM Id: STRONG____50, Browser: Chrome, Viewport: 768  x 700, Device: Tablet, Status: Pass
+Task: 3, Test Name: Product code should be displayed, DOM Id: SMALL____84, Browser: Chrome, Viewport: 768  x 700, Device: Tablet, Status: Pass
+Task: 3, Test Name: Number of reviews should be displayed, DOM Id: EM____82, Browser: Chrome, Viewport: 768  x 700, Device: Tablet, Status: Pass
+Task: 3, Test Name: Add to Cart button should be displayed, DOM Id: A__btn__114, Browser: Chrome, Viewport: 768  x 700, Device: Tablet, Status: Pass
+Task: 3, Test Name: Quantity editbox should be displayed, DOM Id: DIV__numbersrow__102, Browser: Chrome, Viewport: 768  x 700, Device: Tablet, Status: Pass
+Task: 3, Test Name: Product info should be displayed, DOM Id: DIV__prodinfove__75, Browser: Chrome, Viewport: 768  x 700, Device: Tablet, Status: Pass
+Task: 3, Test Name: New price should be displayed, DOM Id: new_price, Browser: Chrome, Viewport: 768  x 700, Device: Tablet, Status: Pass
+Task: 3, Test Name: Old price should be displayed, DOM Id: old_price, Browser: Chrome, Viewport: 768  x 700, Device: Tablet, Status: Pass
+Task: 3, Test Name: Discount should be displayed, DOM Id: discount, Browser: Chrome, Viewport: 768  x 700, Device: Tablet, Status: Pass
+Task: 3, Test Name: Quantity Plus button should be displayed, DOM Id: DIV__incbuttoni__104, Browser: Chrome, Viewport: 768  x 700, Device: Tablet, Status: Pass
+Task: 3, Test Name: Quantity Minus button should be displayed, DOM Id: DIV__decbuttoni__105, Browser: Chrome, Viewport: 768  x 700, Device: Tablet, Status: Pass
+Task: 3, Test Name: Shoe Image should be displayed, DOM Id: shoe_img, Browser: Chrome, Viewport: 768  x 700, Device: Tablet, Status: Pass
+Task: 3, Test Name: About us should be displayed, DOM Id: A____123, Browser: Chrome, Viewport: 768  x 700, Device: Tablet, Status: Pass
+Task: 3, Test Name: Faq should be displayed, DOM Id: A____125, Browser: Chrome, Viewport: 768  x 700, Device: Tablet, Status: Pass
+Task: 3, Test Name: Help should be displayed, DOM Id: A____127, Browser: Chrome, Viewport: 768  x 700, Device: Tablet, Status: Pass
+Task: 3, Test Name: My account should be displayed, DOM Id: A____129, Browser: Chrome, Viewport: 768  x 700, Device: Tablet, Status: Pass
+Task: 3, Test Name: Blog should be displayed, DOM Id: A____131, Browser: Chrome, Viewport: 768  x 700, Device: Tablet, Status: Pass
+Task: 3, Test Name: Contacts should be displayed, DOM Id: A____133, Browser: Chrome, Viewport: 768  x 700, Device: Tablet, Status: Pass
+Task: 3, Test Name: Email newsletter should be displayed, DOM Id: email_newsletter, Browser: Chrome, Viewport: 768  x 700, Device: Tablet, Status: Pass
+Task: 3, Test Name: Address should be displayed, DOM Id: LI____138, Browser: Chrome, Viewport: 768  x 700, Device: Tablet, Status: Pass
+Task: 3, Test Name: Email should be displayed, DOM Id: LI____141, Browser: Chrome, Viewport: 768  x 700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Main menu should not be displayed, DOM Id: DIV__mainmenu__15, Browser: Firefox, Viewport: 768  x 700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Filter Collection should not be displayed, DOM Id: filter_col, Browser: Firefox, Viewport: 768  x 700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Search field should be displayed, DOM Id: DIV__customsear__41, Browser: Firefox, Viewport: 768  x 700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Search icon on the right should be displayed, DOM Id: I__headericon__44, Browser: Firefox, Viewport: 768  x 700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Search button on the left should not be displayed, DOM Id: A__btnsearchm__59, Browser: Firefox, Viewport: 768  x 700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Account should be displayed, DOM Id: DIV__dropdowndr__55, Browser: Firefox, Viewport: 768  x 700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Wishlist should not be displayed, DOM Id: A__wishlist__52, Browser: Firefox, Viewport: 768  x 700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Cart should be displayed, DOM Id: DIV__dropdowndr__48, Browser: Firefox, Viewport: 768  x 700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Items in cart should be displayed, DOM Id: STRONG____50, Browser: Firefox, Viewport: 768  x 700, Device: Tablet, Status: Pass
+Task: 1, Test Name: View grid should not be displayed, DOM Id: I__tiviewgrid__202, Browser: Firefox, Viewport: 768  x 700, Device: Tablet, Status: Pass
+Task: 1, Test Name: View list should not be displayed, DOM Id: I__tiviewlist__204, Browser: Firefox, Viewport: 768  x 700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Filters icon should be displayed, DOM Id: ti-filter, Browser: Firefox, Viewport: 768  x 700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Filters label should be displayed, DOM Id: SPAN____208, Browser: Firefox, Viewport: 768  x 700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Add to favourites for item 1 should be displayed, DOM Id: I__tiheart__225, Browser: Firefox, Viewport: 768  x 700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Add to compare for item 1 should be displayed, DOM Id: I__ticontrols__229, Browser: Firefox, Viewport: 768  x 700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Add to cart for item 1 should be displayed, DOM Id: I__tishopping__233, Browser: Firefox, Viewport: 768  x 700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Add to favourites for item 2 should be displayed, DOM Id: I__tiheart__250, Browser: Firefox, Viewport: 768  x 700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Add to compare for item 2 should be displayed, DOM Id: I__ticontrols__254, Browser: Firefox, Viewport: 768  x 700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Add to cart for item 2 should be displayed, DOM Id: I__tishopping__258, Browser: Firefox, Viewport: 768  x 700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Add to favourites for item 3 should be displayed, DOM Id: I__tiheart__272, Browser: Firefox, Viewport: 768  x 700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Add to compare for item 3 should be displayed, DOM Id: I__ticontrols__276, Browser: Firefox, Viewport: 768  x 700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Add to cart for item 3 should be displayed, DOM Id: I__tishopping__280, Browser: Firefox, Viewport: 768  x 700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Add to favourites for item 4 should be displayed, DOM Id: I__tiheart__294, Browser: Firefox, Viewport: 768  x 700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Add to compare for item 4 should be displayed, DOM Id: I__ticontrols__298, Browser: Firefox, Viewport: 768  x 700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Add to cart for item 4 should be displayed, DOM Id: I__tishopping__302, Browser: Firefox, Viewport: 768  x 700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Add to favourites for item 5 should be displayed, DOM Id: I__tiheart__316, Browser: Firefox, Viewport: 768  x 700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Add to compare for item 5 should be displayed, DOM Id: I__ticontrols__389, Browser: Firefox, Viewport: 768  x 700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Add to cart for item 5 should be displayed, DOM Id: I__tishopping__393, Browser: Firefox, Viewport: 768  x 700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Add to favourites for item 6 should be displayed, DOM Id: I__tiheart__338, Browser: Firefox, Viewport: 768  x 700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Add to compare for item 6 should be displayed, DOM Id: I__ticontrols__342, Browser: Firefox, Viewport: 768  x 700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Add to cart for item 6 should be displayed, DOM Id: I__tishopping__346, Browser: Firefox, Viewport: 768  x 700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Add to favourites for item 7 should be displayed, DOM Id: I__tiheart__360, Browser: Firefox, Viewport: 768  x 700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Add to compare for item 7 should be displayed, DOM Id: I__ticontrols__364, Browser: Firefox, Viewport: 768  x 700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Add to cart for item 7 should be displayed, DOM Id: I__tishopping__368, Browser: Firefox, Viewport: 768  x 700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Add to favourites for item 8 should be displayed, DOM Id: I__tiheart__385, Browser: Firefox, Viewport: 768  x 700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Add to compare for item 8 should be displayed, DOM Id: I__ticontrols__389, Browser: Firefox, Viewport: 768  x 700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Add to cart for item 8 should be displayed, DOM Id: I__tishopping__393, Browser: Firefox, Viewport: 768  x 700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Add to favourites for item 9 should be displayed, DOM Id: A__tooltip__406, Browser: Firefox, Viewport: 768  x 700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Add to compare for item 9 should be displayed, DOM Id: I__ticontrols__411, Browser: Firefox, Viewport: 768  x 700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Add to cart for item 9 should be displayed, DOM Id: A__tooltip__414, Browser: Firefox, Viewport: 768  x 700, Device: Tablet, Status: Pass
+Task: 1, Test Name: About us should be displayed, DOM Id: A____425, Browser: Firefox, Viewport: 768  x 700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Faq should be displayed, DOM Id: A____427, Browser: Firefox, Viewport: 768  x 700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Help should be displayed, DOM Id: A____429, Browser: Firefox, Viewport: 768  x 700, Device: Tablet, Status: Pass
+Task: 1, Test Name: My account should be displayed, DOM Id: A____431, Browser: Firefox, Viewport: 768  x 700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Blog should be displayed, DOM Id: A____433, Browser: Firefox, Viewport: 768  x 700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Contacts should be displayed, DOM Id: A____435, Browser: Firefox, Viewport: 768  x 700, Device: Tablet, Status: Pass
+Task: 1, Test Name: About us should be displayed, DOM Id: A____425, Browser: Firefox, Viewport: 768  x 700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Email newsletter should be displayed, DOM Id: email_newsletter, Browser: Firefox, Viewport: 768  x 700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Address should be displayed, DOM Id: LI____440, Browser: Firefox, Viewport: 768  x 700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Email should be displayed, DOM Id: LI____443, Browser: Firefox, Viewport: 768  x 700, Device: Tablet, Status: Pass
+Task: 2, Test Name: Expected Number Of Found Items should be 2, actual number is: 2, DOM Id: XPATH = //div[@id='product_grid']/div, Browser: Firefox, Viewport: 768  x 700, Device: Tablet, Status: Pass
+Task: 2, Test Name: Main menu should not be displayed, DOM Id: DIV__mainmenu__15, Browser: Firefox, Viewport: 768  x 700, Device: Tablet, Status: Pass
+Task: 2, Test Name: Filter Collection should not be displayed, DOM Id: filter_col, Browser: Firefox, Viewport: 768  x 700, Device: Tablet, Status: Pass
+Task: 2, Test Name: Search field should be displayed, DOM Id: DIV__customsear__41, Browser: Firefox, Viewport: 768  x 700, Device: Tablet, Status: Pass
+Task: 2, Test Name: Search icon on the right should be displayed, DOM Id: I__headericon__44, Browser: Firefox, Viewport: 768  x 700, Device: Tablet, Status: Pass
+Task: 2, Test Name: Search button on the left should not be displayed, DOM Id: A__btnsearchm__59, Browser: Firefox, Viewport: 768  x 700, Device: Tablet, Status: Pass
+Task: 2, Test Name: Account should be displayed, DOM Id: DIV__dropdowndr__55, Browser: Firefox, Viewport: 768  x 700, Device: Tablet, Status: Pass
+Task: 2, Test Name: Wishlist should not be displayed, DOM Id: A__wishlist__52, Browser: Firefox, Viewport: 768  x 700, Device: Tablet, Status: Pass
+Task: 2, Test Name: Cart should be displayed, DOM Id: DIV__dropdowndr__48, Browser: Firefox, Viewport: 768  x 700, Device: Tablet, Status: Pass
+Task: 2, Test Name: Items in cart should be displayed, DOM Id: STRONG____50, Browser: Firefox, Viewport: 768  x 700, Device: Tablet, Status: Pass
+Task: 2, Test Name: View grid should not be displayed, DOM Id: I__tiviewgrid__202, Browser: Firefox, Viewport: 768  x 700, Device: Tablet, Status: Pass
+Task: 2, Test Name: View list should not be displayed, DOM Id: I__tiviewlist__204, Browser: Firefox, Viewport: 768  x 700, Device: Tablet, Status: Pass
+Task: 2, Test Name: Filters icon should be displayed, DOM Id: ti-filter, Browser: Firefox, Viewport: 768  x 700, Device: Tablet, Status: Pass
+Task: 2, Test Name: Filters label should be displayed, DOM Id: SPAN____208, Browser: Firefox, Viewport: 768  x 700, Device: Tablet, Status: Pass
+Task: 2, Test Name: Add to favourites for item 1 should be displayed, DOM Id: I__tiheart__225, Browser: Firefox, Viewport: 768  x 700, Device: Tablet, Status: Pass
+Task: 2, Test Name: Add to compare for item 1 should be displayed, DOM Id: I__ticontrols__229, Browser: Firefox, Viewport: 768  x 700, Device: Tablet, Status: Pass
+Task: 2, Test Name: Add to cart for item 1 should be displayed, DOM Id: I__tishopping__233, Browser: Firefox, Viewport: 768  x 700, Device: Tablet, Status: Pass
+Task: 2, Test Name: Add to favourites for item 2 should be displayed, DOM Id: I__tiheart__247, Browser: Firefox, Viewport: 768  x 700, Device: Tablet, Status: Pass
+Task: 2, Test Name: Add to compare for item 2 should be displayed, DOM Id: I__ticontrols__251, Browser: Firefox, Viewport: 768  x 700, Device: Tablet, Status: Pass
+Task: 2, Test Name: Add to cart for item 2 should be displayed, DOM Id: I__tishopping__255, Browser: Firefox, Viewport: 768  x 700, Device: Tablet, Status: Pass
+Task: 2, Test Name: item 1 picture should be displayed, DOM Id: product_1, Browser: Firefox, Viewport: 768  x 700, Device: Tablet, Status: Pass
+Task: 2, Test Name: item 2 picture should be displayed, DOM Id: product_8, Browser: Firefox, Viewport: 768  x 700, Device: Tablet, Status: Pass
+Task: 2, Test Name: About us should be displayed, DOM Id: A____425, Browser: Firefox, Viewport: 768  x 700, Device: Tablet, Status: Pass
+Task: 2, Test Name: Faq should be displayed, DOM Id: A____427, Browser: Firefox, Viewport: 768  x 700, Device: Tablet, Status: Pass
+Task: 2, Test Name: Help should be displayed, DOM Id: A____429, Browser: Firefox, Viewport: 768  x 700, Device: Tablet, Status: Pass
+Task: 2, Test Name: My account should be displayed, DOM Id: A____431, Browser: Firefox, Viewport: 768  x 700, Device: Tablet, Status: Pass
+Task: 2, Test Name: Blog should be displayed, DOM Id: A____433, Browser: Firefox, Viewport: 768  x 700, Device: Tablet, Status: Pass
+Task: 2, Test Name: Contacts should be displayed, DOM Id: A____435, Browser: Firefox, Viewport: 768  x 700, Device: Tablet, Status: Pass
+Task: 2, Test Name: About us should be displayed, DOM Id: A____425, Browser: Firefox, Viewport: 768  x 700, Device: Tablet, Status: Pass
+Task: 2, Test Name: Email newsletter should be displayed, DOM Id: email_newsletter, Browser: Firefox, Viewport: 768  x 700, Device: Tablet, Status: Pass
+Task: 2, Test Name: Address should be displayed, DOM Id: LI____440, Browser: Firefox, Viewport: 768  x 700, Device: Tablet, Status: Pass
+Task: 2, Test Name: Email should be displayed, DOM Id: LI____443, Browser: Firefox, Viewport: 768  x 700, Device: Tablet, Status: Pass
+Task: 3, Test Name: Expected Value of Selected Size Option should be Small (S), actual Value is: Small (S), DOM Id: XPATH = //div[@class='nice-select wide']/span, Browser: Firefox, Viewport: 768  x 700, Device: Tablet, Status: Pass
+Task: 3, Test Name: Expected Value of New Price should be $33.00, actual Value is: $33.00, DOM Id: new_price, Browser: Firefox, Viewport: 768  x 700, Device: Tablet, Status: Pass
+Task: 3, Test Name: Main menu should not be displayed, DOM Id: DIV__mainmenu__15, Browser: Firefox, Viewport: 768  x 700, Device: Tablet, Status: Pass
+Task: 3, Test Name: Search field should be displayed, DOM Id: DIV__customsear__41, Browser: Firefox, Viewport: 768  x 700, Device: Tablet, Status: Pass
+Task: 3, Test Name: Search icon on the right should be displayed, DOM Id: I__headericon__44, Browser: Firefox, Viewport: 768  x 700, Device: Tablet, Status: Pass
+Task: 3, Test Name: Search button on the left should not be displayed, DOM Id: A__btnsearchm__59, Browser: Firefox, Viewport: 768  x 700, Device: Tablet, Status: Pass
+Task: 3, Test Name: Account should be displayed, DOM Id: DIV__dropdowndr__55, Browser: Firefox, Viewport: 768  x 700, Device: Tablet, Status: Pass
+Task: 3, Test Name: Wishlist should be displayed, DOM Id: A__wishlist__52, Browser: Firefox, Viewport: 768  x 700, Device: Tablet, Status: Pass
+Task: 3, Test Name: Cart should be displayed, DOM Id: DIV__dropdowndr__48, Browser: Firefox, Viewport: 768  x 700, Device: Tablet, Status: Pass
+Task: 3, Test Name: Items in cart should be displayed, DOM Id: STRONG____50, Browser: Firefox, Viewport: 768  x 700, Device: Tablet, Status: Pass
+Task: 3, Test Name: Product code should be displayed, DOM Id: SMALL____84, Browser: Firefox, Viewport: 768  x 700, Device: Tablet, Status: Pass
+Task: 3, Test Name: Number of reviews should be displayed, DOM Id: EM____82, Browser: Firefox, Viewport: 768  x 700, Device: Tablet, Status: Pass
+Task: 3, Test Name: Add to Cart button should be displayed, DOM Id: A__btn__114, Browser: Firefox, Viewport: 768  x 700, Device: Tablet, Status: Pass
+Task: 3, Test Name: Quantity editbox should be displayed, DOM Id: DIV__numbersrow__102, Browser: Firefox, Viewport: 768  x 700, Device: Tablet, Status: Pass
+Task: 3, Test Name: Product info should be displayed, DOM Id: DIV__prodinfove__75, Browser: Firefox, Viewport: 768  x 700, Device: Tablet, Status: Pass
+Task: 3, Test Name: New price should be displayed, DOM Id: new_price, Browser: Firefox, Viewport: 768  x 700, Device: Tablet, Status: Pass
+Task: 3, Test Name: Old price should be displayed, DOM Id: old_price, Browser: Firefox, Viewport: 768  x 700, Device: Tablet, Status: Pass
+Task: 3, Test Name: Discount should be displayed, DOM Id: discount, Browser: Firefox, Viewport: 768  x 700, Device: Tablet, Status: Pass
+Task: 3, Test Name: Quantity Plus button should be displayed, DOM Id: DIV__incbuttoni__104, Browser: Firefox, Viewport: 768  x 700, Device: Tablet, Status: Pass
+Task: 3, Test Name: Quantity Minus button should be displayed, DOM Id: DIV__decbuttoni__105, Browser: Firefox, Viewport: 768  x 700, Device: Tablet, Status: Pass
+Task: 3, Test Name: Shoe Image should be displayed, DOM Id: shoe_img, Browser: Firefox, Viewport: 768  x 700, Device: Tablet, Status: Pass
+Task: 3, Test Name: About us should be displayed, DOM Id: A____123, Browser: Firefox, Viewport: 768  x 700, Device: Tablet, Status: Pass
+Task: 3, Test Name: Faq should be displayed, DOM Id: A____125, Browser: Firefox, Viewport: 768  x 700, Device: Tablet, Status: Pass
+Task: 3, Test Name: Help should be displayed, DOM Id: A____127, Browser: Firefox, Viewport: 768  x 700, Device: Tablet, Status: Pass
+Task: 3, Test Name: My account should be displayed, DOM Id: A____129, Browser: Firefox, Viewport: 768  x 700, Device: Tablet, Status: Pass
+Task: 3, Test Name: Blog should be displayed, DOM Id: A____131, Browser: Firefox, Viewport: 768  x 700, Device: Tablet, Status: Pass
+Task: 3, Test Name: Contacts should be displayed, DOM Id: A____133, Browser: Firefox, Viewport: 768  x 700, Device: Tablet, Status: Pass
+Task: 3, Test Name: Email newsletter should be displayed, DOM Id: email_newsletter, Browser: Firefox, Viewport: 768  x 700, Device: Tablet, Status: Pass
+Task: 3, Test Name: Address should be displayed, DOM Id: LI____138, Browser: Firefox, Viewport: 768  x 700, Device: Tablet, Status: Pass
+Task: 3, Test Name: Email should be displayed, DOM Id: LI____141, Browser: Firefox, Viewport: 768  x 700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Main menu should not be displayed, DOM Id: DIV__mainmenu__15, Browser: Edge Chromium, Viewport: 768  x 700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Filter Collection should not be displayed, DOM Id: filter_col, Browser: Edge Chromium, Viewport: 768  x 700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Search field should be displayed, DOM Id: DIV__customsear__41, Browser: Edge Chromium, Viewport: 768  x 700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Search icon on the right should be displayed, DOM Id: I__headericon__44, Browser: Edge Chromium, Viewport: 768  x 700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Search button on the left should not be displayed, DOM Id: A__btnsearchm__59, Browser: Edge Chromium, Viewport: 768  x 700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Account should be displayed, DOM Id: DIV__dropdowndr__55, Browser: Edge Chromium, Viewport: 768  x 700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Wishlist should not be displayed, DOM Id: A__wishlist__52, Browser: Edge Chromium, Viewport: 768  x 700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Cart should be displayed, DOM Id: DIV__dropdowndr__48, Browser: Edge Chromium, Viewport: 768  x 700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Items in cart should be displayed, DOM Id: STRONG____50, Browser: Edge Chromium, Viewport: 768  x 700, Device: Tablet, Status: Pass
+Task: 1, Test Name: View grid should not be displayed, DOM Id: I__tiviewgrid__202, Browser: Edge Chromium, Viewport: 768  x 700, Device: Tablet, Status: Pass
+Task: 1, Test Name: View list should not be displayed, DOM Id: I__tiviewlist__204, Browser: Edge Chromium, Viewport: 768  x 700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Filters icon should be displayed, DOM Id: ti-filter, Browser: Edge Chromium, Viewport: 768  x 700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Filters label should be displayed, DOM Id: SPAN____208, Browser: Edge Chromium, Viewport: 768  x 700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Add to favourites for item 1 should be displayed, DOM Id: I__tiheart__225, Browser: Edge Chromium, Viewport: 768  x 700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Add to compare for item 1 should be displayed, DOM Id: I__ticontrols__229, Browser: Edge Chromium, Viewport: 768  x 700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Add to cart for item 1 should be displayed, DOM Id: I__tishopping__233, Browser: Edge Chromium, Viewport: 768  x 700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Add to favourites for item 2 should be displayed, DOM Id: I__tiheart__250, Browser: Edge Chromium, Viewport: 768  x 700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Add to compare for item 2 should be displayed, DOM Id: I__ticontrols__254, Browser: Edge Chromium, Viewport: 768  x 700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Add to cart for item 2 should be displayed, DOM Id: I__tishopping__258, Browser: Edge Chromium, Viewport: 768  x 700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Add to favourites for item 3 should be displayed, DOM Id: I__tiheart__272, Browser: Edge Chromium, Viewport: 768  x 700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Add to compare for item 3 should be displayed, DOM Id: I__ticontrols__276, Browser: Edge Chromium, Viewport: 768  x 700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Add to cart for item 3 should be displayed, DOM Id: I__tishopping__280, Browser: Edge Chromium, Viewport: 768  x 700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Add to favourites for item 4 should be displayed, DOM Id: I__tiheart__294, Browser: Edge Chromium, Viewport: 768  x 700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Add to compare for item 4 should be displayed, DOM Id: I__ticontrols__298, Browser: Edge Chromium, Viewport: 768  x 700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Add to cart for item 4 should be displayed, DOM Id: I__tishopping__302, Browser: Edge Chromium, Viewport: 768  x 700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Add to favourites for item 5 should be displayed, DOM Id: I__tiheart__316, Browser: Edge Chromium, Viewport: 768  x 700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Add to compare for item 5 should be displayed, DOM Id: I__ticontrols__389, Browser: Edge Chromium, Viewport: 768  x 700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Add to cart for item 5 should be displayed, DOM Id: I__tishopping__393, Browser: Edge Chromium, Viewport: 768  x 700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Add to favourites for item 6 should be displayed, DOM Id: I__tiheart__338, Browser: Edge Chromium, Viewport: 768  x 700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Add to compare for item 6 should be displayed, DOM Id: I__ticontrols__342, Browser: Edge Chromium, Viewport: 768  x 700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Add to cart for item 6 should be displayed, DOM Id: I__tishopping__346, Browser: Edge Chromium, Viewport: 768  x 700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Add to favourites for item 7 should be displayed, DOM Id: I__tiheart__360, Browser: Edge Chromium, Viewport: 768  x 700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Add to compare for item 7 should be displayed, DOM Id: I__ticontrols__364, Browser: Edge Chromium, Viewport: 768  x 700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Add to cart for item 7 should be displayed, DOM Id: I__tishopping__368, Browser: Edge Chromium, Viewport: 768  x 700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Add to favourites for item 8 should be displayed, DOM Id: I__tiheart__385, Browser: Edge Chromium, Viewport: 768  x 700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Add to compare for item 8 should be displayed, DOM Id: I__ticontrols__389, Browser: Edge Chromium, Viewport: 768  x 700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Add to cart for item 8 should be displayed, DOM Id: I__tishopping__393, Browser: Edge Chromium, Viewport: 768  x 700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Add to favourites for item 9 should be displayed, DOM Id: A__tooltip__406, Browser: Edge Chromium, Viewport: 768  x 700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Add to compare for item 9 should be displayed, DOM Id: I__ticontrols__411, Browser: Edge Chromium, Viewport: 768  x 700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Add to cart for item 9 should be displayed, DOM Id: A__tooltip__414, Browser: Edge Chromium, Viewport: 768  x 700, Device: Tablet, Status: Pass
+Task: 1, Test Name: About us should be displayed, DOM Id: A____425, Browser: Edge Chromium, Viewport: 768  x 700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Faq should be displayed, DOM Id: A____427, Browser: Edge Chromium, Viewport: 768  x 700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Help should be displayed, DOM Id: A____429, Browser: Edge Chromium, Viewport: 768  x 700, Device: Tablet, Status: Pass
+Task: 1, Test Name: My account should be displayed, DOM Id: A____431, Browser: Edge Chromium, Viewport: 768  x 700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Blog should be displayed, DOM Id: A____433, Browser: Edge Chromium, Viewport: 768  x 700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Contacts should be displayed, DOM Id: A____435, Browser: Edge Chromium, Viewport: 768  x 700, Device: Tablet, Status: Pass
+Task: 1, Test Name: About us should be displayed, DOM Id: A____425, Browser: Edge Chromium, Viewport: 768  x 700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Email newsletter should be displayed, DOM Id: email_newsletter, Browser: Edge Chromium, Viewport: 768  x 700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Address should be displayed, DOM Id: LI____440, Browser: Edge Chromium, Viewport: 768  x 700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Email should be displayed, DOM Id: LI____443, Browser: Edge Chromium, Viewport: 768  x 700, Device: Tablet, Status: Pass
+Task: 2, Test Name: Expected Number Of Found Items should be 2, actual number is: 2, DOM Id: XPATH = //div[@id='product_grid']/div, Browser: Edge Chromium, Viewport: 768  x 700, Device: Tablet, Status: Pass
+Task: 2, Test Name: Main menu should not be displayed, DOM Id: DIV__mainmenu__15, Browser: Edge Chromium, Viewport: 768  x 700, Device: Tablet, Status: Pass
+Task: 2, Test Name: Filter Collection should not be displayed, DOM Id: filter_col, Browser: Edge Chromium, Viewport: 768  x 700, Device: Tablet, Status: Pass
+Task: 2, Test Name: Search field should be displayed, DOM Id: DIV__customsear__41, Browser: Edge Chromium, Viewport: 768  x 700, Device: Tablet, Status: Pass
+Task: 2, Test Name: Search icon on the right should be displayed, DOM Id: I__headericon__44, Browser: Edge Chromium, Viewport: 768  x 700, Device: Tablet, Status: Pass
+Task: 2, Test Name: Search button on the left should not be displayed, DOM Id: A__btnsearchm__59, Browser: Edge Chromium, Viewport: 768  x 700, Device: Tablet, Status: Pass
+Task: 2, Test Name: Account should be displayed, DOM Id: DIV__dropdowndr__55, Browser: Edge Chromium, Viewport: 768  x 700, Device: Tablet, Status: Pass
+Task: 2, Test Name: Wishlist should not be displayed, DOM Id: A__wishlist__52, Browser: Edge Chromium, Viewport: 768  x 700, Device: Tablet, Status: Pass
+Task: 2, Test Name: Cart should be displayed, DOM Id: DIV__dropdowndr__48, Browser: Edge Chromium, Viewport: 768  x 700, Device: Tablet, Status: Pass
+Task: 2, Test Name: Items in cart should be displayed, DOM Id: STRONG____50, Browser: Edge Chromium, Viewport: 768  x 700, Device: Tablet, Status: Pass
+Task: 2, Test Name: View grid should not be displayed, DOM Id: I__tiviewgrid__202, Browser: Edge Chromium, Viewport: 768  x 700, Device: Tablet, Status: Pass
+Task: 2, Test Name: View list should not be displayed, DOM Id: I__tiviewlist__204, Browser: Edge Chromium, Viewport: 768  x 700, Device: Tablet, Status: Pass
+Task: 2, Test Name: Filters icon should be displayed, DOM Id: ti-filter, Browser: Edge Chromium, Viewport: 768  x 700, Device: Tablet, Status: Pass
+Task: 2, Test Name: Filters label should be displayed, DOM Id: SPAN____208, Browser: Edge Chromium, Viewport: 768  x 700, Device: Tablet, Status: Pass
+Task: 2, Test Name: Add to favourites for item 1 should be displayed, DOM Id: I__tiheart__225, Browser: Edge Chromium, Viewport: 768  x 700, Device: Tablet, Status: Pass
+Task: 2, Test Name: Add to compare for item 1 should be displayed, DOM Id: I__ticontrols__229, Browser: Edge Chromium, Viewport: 768  x 700, Device: Tablet, Status: Pass
+Task: 2, Test Name: Add to cart for item 1 should be displayed, DOM Id: I__tishopping__233, Browser: Edge Chromium, Viewport: 768  x 700, Device: Tablet, Status: Pass
+Task: 2, Test Name: Add to favourites for item 2 should be displayed, DOM Id: I__tiheart__247, Browser: Edge Chromium, Viewport: 768  x 700, Device: Tablet, Status: Pass
+Task: 2, Test Name: Add to compare for item 2 should be displayed, DOM Id: I__ticontrols__251, Browser: Edge Chromium, Viewport: 768  x 700, Device: Tablet, Status: Pass
+Task: 2, Test Name: Add to cart for item 2 should be displayed, DOM Id: I__tishopping__255, Browser: Edge Chromium, Viewport: 768  x 700, Device: Tablet, Status: Pass
+Task: 2, Test Name: item 1 picture should be displayed, DOM Id: product_1, Browser: Edge Chromium, Viewport: 768  x 700, Device: Tablet, Status: Pass
+Task: 2, Test Name: item 2 picture should be displayed, DOM Id: product_8, Browser: Edge Chromium, Viewport: 768  x 700, Device: Tablet, Status: Pass
+Task: 2, Test Name: About us should be displayed, DOM Id: A____425, Browser: Edge Chromium, Viewport: 768  x 700, Device: Tablet, Status: Pass
+Task: 2, Test Name: Faq should be displayed, DOM Id: A____427, Browser: Edge Chromium, Viewport: 768  x 700, Device: Tablet, Status: Pass
+Task: 2, Test Name: Help should be displayed, DOM Id: A____429, Browser: Edge Chromium, Viewport: 768  x 700, Device: Tablet, Status: Pass
+Task: 2, Test Name: My account should be displayed, DOM Id: A____431, Browser: Edge Chromium, Viewport: 768  x 700, Device: Tablet, Status: Pass
+Task: 2, Test Name: Blog should be displayed, DOM Id: A____433, Browser: Edge Chromium, Viewport: 768  x 700, Device: Tablet, Status: Pass
+Task: 2, Test Name: Contacts should be displayed, DOM Id: A____435, Browser: Edge Chromium, Viewport: 768  x 700, Device: Tablet, Status: Pass
+Task: 2, Test Name: About us should be displayed, DOM Id: A____425, Browser: Edge Chromium, Viewport: 768  x 700, Device: Tablet, Status: Pass
+Task: 2, Test Name: Email newsletter should be displayed, DOM Id: email_newsletter, Browser: Edge Chromium, Viewport: 768  x 700, Device: Tablet, Status: Pass
+Task: 2, Test Name: Address should be displayed, DOM Id: LI____440, Browser: Edge Chromium, Viewport: 768  x 700, Device: Tablet, Status: Pass
+Task: 2, Test Name: Email should be displayed, DOM Id: LI____443, Browser: Edge Chromium, Viewport: 768  x 700, Device: Tablet, Status: Pass
+Task: 3, Test Name: Expected Value of Selected Size Option should be Small (S), actual Value is: Small (S), DOM Id: XPATH = //div[@class='nice-select wide']/span, Browser: Edge Chromium, Viewport: 768  x 700, Device: Tablet, Status: Pass
+Task: 3, Test Name: Expected Value of New Price should be $33.00, actual Value is: $33.00, DOM Id: new_price, Browser: Edge Chromium, Viewport: 768  x 700, Device: Tablet, Status: Pass
+Task: 3, Test Name: Main menu should not be displayed, DOM Id: DIV__mainmenu__15, Browser: Edge Chromium, Viewport: 768  x 700, Device: Tablet, Status: Pass
+Task: 3, Test Name: Search field should be displayed, DOM Id: DIV__customsear__41, Browser: Edge Chromium, Viewport: 768  x 700, Device: Tablet, Status: Pass
+Task: 3, Test Name: Search icon on the right should be displayed, DOM Id: I__headericon__44, Browser: Edge Chromium, Viewport: 768  x 700, Device: Tablet, Status: Pass
+Task: 3, Test Name: Search button on the left should not be displayed, DOM Id: A__btnsearchm__59, Browser: Edge Chromium, Viewport: 768  x 700, Device: Tablet, Status: Pass
+Task: 3, Test Name: Account should be displayed, DOM Id: DIV__dropdowndr__55, Browser: Edge Chromium, Viewport: 768  x 700, Device: Tablet, Status: Pass
+Task: 3, Test Name: Wishlist should be displayed, DOM Id: A__wishlist__52, Browser: Edge Chromium, Viewport: 768  x 700, Device: Tablet, Status: Pass
+Task: 3, Test Name: Cart should be displayed, DOM Id: DIV__dropdowndr__48, Browser: Edge Chromium, Viewport: 768  x 700, Device: Tablet, Status: Pass
+Task: 3, Test Name: Items in cart should be displayed, DOM Id: STRONG____50, Browser: Edge Chromium, Viewport: 768  x 700, Device: Tablet, Status: Pass
+Task: 3, Test Name: Product code should be displayed, DOM Id: SMALL____84, Browser: Edge Chromium, Viewport: 768  x 700, Device: Tablet, Status: Pass
+Task: 3, Test Name: Number of reviews should be displayed, DOM Id: EM____82, Browser: Edge Chromium, Viewport: 768  x 700, Device: Tablet, Status: Pass
+Task: 3, Test Name: Add to Cart button should be displayed, DOM Id: A__btn__114, Browser: Edge Chromium, Viewport: 768  x 700, Device: Tablet, Status: Pass
+Task: 3, Test Name: Quantity editbox should be displayed, DOM Id: DIV__numbersrow__102, Browser: Edge Chromium, Viewport: 768  x 700, Device: Tablet, Status: Pass
+Task: 3, Test Name: Product info should be displayed, DOM Id: DIV__prodinfove__75, Browser: Edge Chromium, Viewport: 768  x 700, Device: Tablet, Status: Pass
+Task: 3, Test Name: New price should be displayed, DOM Id: new_price, Browser: Edge Chromium, Viewport: 768  x 700, Device: Tablet, Status: Pass
+Task: 3, Test Name: Old price should be displayed, DOM Id: old_price, Browser: Edge Chromium, Viewport: 768  x 700, Device: Tablet, Status: Pass
+Task: 3, Test Name: Discount should be displayed, DOM Id: discount, Browser: Edge Chromium, Viewport: 768  x 700, Device: Tablet, Status: Pass
+Task: 3, Test Name: Quantity Plus button should be displayed, DOM Id: DIV__incbuttoni__104, Browser: Edge Chromium, Viewport: 768  x 700, Device: Tablet, Status: Pass
+Task: 3, Test Name: Quantity Minus button should be displayed, DOM Id: DIV__decbuttoni__105, Browser: Edge Chromium, Viewport: 768  x 700, Device: Tablet, Status: Pass
+Task: 3, Test Name: Shoe Image should be displayed, DOM Id: shoe_img, Browser: Edge Chromium, Viewport: 768  x 700, Device: Tablet, Status: Pass
+Task: 3, Test Name: About us should be displayed, DOM Id: A____123, Browser: Edge Chromium, Viewport: 768  x 700, Device: Tablet, Status: Pass
+Task: 3, Test Name: Faq should be displayed, DOM Id: A____125, Browser: Edge Chromium, Viewport: 768  x 700, Device: Tablet, Status: Pass
+Task: 3, Test Name: Help should be displayed, DOM Id: A____127, Browser: Edge Chromium, Viewport: 768  x 700, Device: Tablet, Status: Pass
+Task: 3, Test Name: My account should be displayed, DOM Id: A____129, Browser: Edge Chromium, Viewport: 768  x 700, Device: Tablet, Status: Pass
+Task: 3, Test Name: Blog should be displayed, DOM Id: A____131, Browser: Edge Chromium, Viewport: 768  x 700, Device: Tablet, Status: Pass
+Task: 3, Test Name: Contacts should be displayed, DOM Id: A____133, Browser: Edge Chromium, Viewport: 768  x 700, Device: Tablet, Status: Pass
+Task: 3, Test Name: Email newsletter should be displayed, DOM Id: email_newsletter, Browser: Edge Chromium, Viewport: 768  x 700, Device: Tablet, Status: Pass
+Task: 3, Test Name: Address should be displayed, DOM Id: LI____138, Browser: Edge Chromium, Viewport: 768  x 700, Device: Tablet, Status: Pass
+Task: 3, Test Name: Email should be displayed, DOM Id: LI____141, Browser: Edge Chromium, Viewport: 768  x 700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Main menu should not be displayed, DOM Id: DIV__mainmenu__15, Browser: Chrome, Viewport: 500  x 700, Device: Mobile, Status: Pass
+Task: 1, Test Name: Filter Collection should not be displayed, DOM Id: filter_col, Browser: Chrome, Viewport: 500  x 700, Device: Mobile, Status: Pass
+Task: 1, Test Name: Search field should not be displayed, DOM Id: DIV__customsear__41, Browser: Chrome, Viewport: 500  x 700, Device: Mobile, Status: Pass
+Task: 1, Test Name: Search icon on the right should not be displayed, DOM Id: I__headericon__44, Browser: Chrome, Viewport: 500  x 700, Device: Mobile, Status: Pass
+Task: 1, Test Name: Search button on the left should be displayed, DOM Id: A__btnsearchm__59, Browser: Chrome, Viewport: 500  x 700, Device: Mobile, Status: Pass
+Task: 1, Test Name: Account should be displayed, DOM Id: DIV__dropdowndr__55, Browser: Chrome, Viewport: 500  x 700, Device: Mobile, Status: Pass
+Task: 1, Test Name: Wishlist should not be displayed, DOM Id: A__wishlist__52, Browser: Chrome, Viewport: 500  x 700, Device: Mobile, Status: Pass
+Task: 1, Test Name: Cart should be displayed, DOM Id: DIV__dropdowndr__48, Browser: Chrome, Viewport: 500  x 700, Device: Mobile, Status: Pass
+Task: 1, Test Name: Items in cart should not be displayed, DOM Id: STRONG____50, Browser: Chrome, Viewport: 500  x 700, Device: Mobile, Status: Pass
+Task: 1, Test Name: View grid should not be displayed, DOM Id: I__tiviewgrid__202, Browser: Chrome, Viewport: 500  x 700, Device: Mobile, Status: Pass
+Task: 1, Test Name: View list should not be displayed, DOM Id: I__tiviewlist__204, Browser: Chrome, Viewport: 500  x 700, Device: Mobile, Status: Pass
+Task: 1, Test Name: Filters icon should be displayed, DOM Id: ti-filter, Browser: Chrome, Viewport: 500  x 700, Device: Mobile, Status: Pass
+Task: 1, Test Name: Filters label should not be displayed, DOM Id: SPAN____208, Browser: Chrome, Viewport: 500  x 700, Device: Mobile, Status: Pass
+Task: 1, Test Name: Add to favourites for item 1 should be displayed, DOM Id: I__tiheart__225, Browser: Chrome, Viewport: 500  x 700, Device: Mobile, Status: Pass
+Task: 1, Test Name: Add to compare for item 1 should be displayed, DOM Id: I__ticontrols__229, Browser: Chrome, Viewport: 500  x 700, Device: Mobile, Status: Pass
+Task: 1, Test Name: Add to cart for item 1 should be displayed, DOM Id: I__tishopping__233, Browser: Chrome, Viewport: 500  x 700, Device: Mobile, Status: Pass
+Task: 1, Test Name: Add to favourites for item 2 should be displayed, DOM Id: I__tiheart__250, Browser: Chrome, Viewport: 500  x 700, Device: Mobile, Status: Pass
+Task: 1, Test Name: Add to compare for item 2 should be displayed, DOM Id: I__ticontrols__254, Browser: Chrome, Viewport: 500  x 700, Device: Mobile, Status: Pass
+Task: 1, Test Name: Add to cart for item 2 should be displayed, DOM Id: I__tishopping__258, Browser: Chrome, Viewport: 500  x 700, Device: Mobile, Status: Pass
+Task: 1, Test Name: Add to favourites for item 3 should be displayed, DOM Id: I__tiheart__272, Browser: Chrome, Viewport: 500  x 700, Device: Mobile, Status: Pass
+Task: 1, Test Name: Add to compare for item 3 should be displayed, DOM Id: I__ticontrols__276, Browser: Chrome, Viewport: 500  x 700, Device: Mobile, Status: Pass
+Task: 1, Test Name: Add to cart for item 3 should be displayed, DOM Id: I__tishopping__280, Browser: Chrome, Viewport: 500  x 700, Device: Mobile, Status: Pass
+Task: 1, Test Name: Add to favourites for item 4 should be displayed, DOM Id: I__tiheart__294, Browser: Chrome, Viewport: 500  x 700, Device: Mobile, Status: Pass
+Task: 1, Test Name: Add to compare for item 4 should be displayed, DOM Id: I__ticontrols__298, Browser: Chrome, Viewport: 500  x 700, Device: Mobile, Status: Pass
+Task: 1, Test Name: Add to cart for item 4 should be displayed, DOM Id: I__tishopping__302, Browser: Chrome, Viewport: 500  x 700, Device: Mobile, Status: Pass
+Task: 1, Test Name: Add to favourites for item 5 should be displayed, DOM Id: I__tiheart__316, Browser: Chrome, Viewport: 500  x 700, Device: Mobile, Status: Pass
+Task: 1, Test Name: Add to compare for item 5 should be displayed, DOM Id: I__ticontrols__389, Browser: Chrome, Viewport: 500  x 700, Device: Mobile, Status: Pass
+Task: 1, Test Name: Add to cart for item 5 should be displayed, DOM Id: I__tishopping__393, Browser: Chrome, Viewport: 500  x 700, Device: Mobile, Status: Pass
+Task: 1, Test Name: Add to favourites for item 6 should be displayed, DOM Id: I__tiheart__338, Browser: Chrome, Viewport: 500  x 700, Device: Mobile, Status: Pass
+Task: 1, Test Name: Add to compare for item 6 should be displayed, DOM Id: I__ticontrols__342, Browser: Chrome, Viewport: 500  x 700, Device: Mobile, Status: Pass
+Task: 1, Test Name: Add to cart for item 6 should be displayed, DOM Id: I__tishopping__346, Browser: Chrome, Viewport: 500  x 700, Device: Mobile, Status: Pass
+Task: 1, Test Name: Add to favourites for item 7 should be displayed, DOM Id: I__tiheart__360, Browser: Chrome, Viewport: 500  x 700, Device: Mobile, Status: Pass
+Task: 1, Test Name: Add to compare for item 7 should be displayed, DOM Id: I__ticontrols__364, Browser: Chrome, Viewport: 500  x 700, Device: Mobile, Status: Pass
+Task: 1, Test Name: Add to cart for item 7 should be displayed, DOM Id: I__tishopping__368, Browser: Chrome, Viewport: 500  x 700, Device: Mobile, Status: Pass
+Task: 1, Test Name: Add to favourites for item 8 should be displayed, DOM Id: I__tiheart__385, Browser: Chrome, Viewport: 500  x 700, Device: Mobile, Status: Pass
+Task: 1, Test Name: Add to compare for item 8 should be displayed, DOM Id: I__ticontrols__389, Browser: Chrome, Viewport: 500  x 700, Device: Mobile, Status: Pass
+Task: 1, Test Name: Add to cart for item 8 should be displayed, DOM Id: I__tishopping__393, Browser: Chrome, Viewport: 500  x 700, Device: Mobile, Status: Pass
+Task: 1, Test Name: Add to favourites for item 9 should be displayed, DOM Id: A__tooltip__406, Browser: Chrome, Viewport: 500  x 700, Device: Mobile, Status: Pass
+Task: 1, Test Name: Add to compare for item 9 should be displayed, DOM Id: I__ticontrols__411, Browser: Chrome, Viewport: 500  x 700, Device: Mobile, Status: Pass
+Task: 1, Test Name: Add to cart for item 9 should be displayed, DOM Id: A__tooltip__414, Browser: Chrome, Viewport: 500  x 700, Device: Mobile, Status: Pass
+Task: 1, Test Name: About us should not be displayed, DOM Id: A____425, Browser: Chrome, Viewport: 500  x 700, Device: Mobile, Status: Pass
+Task: 1, Test Name: Faq should not be displayed, DOM Id: A____427, Browser: Chrome, Viewport: 500  x 700, Device: Mobile, Status: Pass
+Task: 1, Test Name: Help should not be displayed, DOM Id: A____429, Browser: Chrome, Viewport: 500  x 700, Device: Mobile, Status: Pass
+Task: 1, Test Name: My account should not be displayed, DOM Id: A____431, Browser: Chrome, Viewport: 500  x 700, Device: Mobile, Status: Pass
+Task: 1, Test Name: Blog should not be displayed, DOM Id: A____433, Browser: Chrome, Viewport: 500  x 700, Device: Mobile, Status: Pass
+Task: 1, Test Name: Contacts should not be displayed, DOM Id: A____435, Browser: Chrome, Viewport: 500  x 700, Device: Mobile, Status: Pass
+Task: 1, Test Name: About us should not be displayed, DOM Id: A____425, Browser: Chrome, Viewport: 500  x 700, Device: Mobile, Status: Pass
+Task: 1, Test Name: Email newsletter should not be displayed, DOM Id: email_newsletter, Browser: Chrome, Viewport: 500  x 700, Device: Mobile, Status: Pass
+Task: 1, Test Name: Address should not be displayed, DOM Id: LI____440, Browser: Chrome, Viewport: 500  x 700, Device: Mobile, Status: Pass
+Task: 1, Test Name: Email should not be displayed, DOM Id: LI____443, Browser: Chrome, Viewport: 500  x 700, Device: Mobile, Status: Pass
+Task: 2, Test Name: Expected Number Of Found Items should be 2, actual number is: 2, DOM Id: XPATH = //div[@id='product_grid']/div, Browser: Chrome, Viewport: 500  x 700, Device: Mobile, Status: Pass
+Task: 2, Test Name: Main menu should not be displayed, DOM Id: DIV__mainmenu__15, Browser: Chrome, Viewport: 500  x 700, Device: Mobile, Status: Pass
+Task: 2, Test Name: Filter Collection should not be displayed, DOM Id: filter_col, Browser: Chrome, Viewport: 500  x 700, Device: Mobile, Status: Pass
+Task: 2, Test Name: Search field should not be displayed, DOM Id: DIV__customsear__41, Browser: Chrome, Viewport: 500  x 700, Device: Mobile, Status: Pass
+Task: 2, Test Name: Search icon on the right should not be displayed, DOM Id: I__headericon__44, Browser: Chrome, Viewport: 500  x 700, Device: Mobile, Status: Pass
+Task: 2, Test Name: Search button on the left should be displayed, DOM Id: A__btnsearchm__59, Browser: Chrome, Viewport: 500  x 700, Device: Mobile, Status: Pass
+Task: 2, Test Name: Account should be displayed, DOM Id: DIV__dropdowndr__55, Browser: Chrome, Viewport: 500  x 700, Device: Mobile, Status: Pass
+Task: 2, Test Name: Wishlist should not be displayed, DOM Id: A__wishlist__52, Browser: Chrome, Viewport: 500  x 700, Device: Mobile, Status: Pass
+Task: 2, Test Name: Cart should be displayed, DOM Id: DIV__dropdowndr__48, Browser: Chrome, Viewport: 500  x 700, Device: Mobile, Status: Pass
+Task: 2, Test Name: Items in cart should not be displayed, DOM Id: STRONG____50, Browser: Chrome, Viewport: 500  x 700, Device: Mobile, Status: Pass
+Task: 2, Test Name: View grid should not be displayed, DOM Id: I__tiviewgrid__202, Browser: Chrome, Viewport: 500  x 700, Device: Mobile, Status: Pass
+Task: 2, Test Name: View list should not be displayed, DOM Id: I__tiviewlist__204, Browser: Chrome, Viewport: 500  x 700, Device: Mobile, Status: Pass
+Task: 2, Test Name: Filters icon should be displayed, DOM Id: ti-filter, Browser: Chrome, Viewport: 500  x 700, Device: Mobile, Status: Pass
+Task: 2, Test Name: Filters label should not be displayed, DOM Id: SPAN____208, Browser: Chrome, Viewport: 500  x 700, Device: Mobile, Status: Pass
+Task: 2, Test Name: Add to favourites for item 1 should be displayed, DOM Id: I__tiheart__225, Browser: Chrome, Viewport: 500  x 700, Device: Mobile, Status: Pass
+Task: 2, Test Name: Add to compare for item 1 should be displayed, DOM Id: I__ticontrols__229, Browser: Chrome, Viewport: 500  x 700, Device: Mobile, Status: Pass
+Task: 2, Test Name: Add to cart for item 1 should be displayed, DOM Id: I__tishopping__233, Browser: Chrome, Viewport: 500  x 700, Device: Mobile, Status: Pass
+Task: 2, Test Name: Add to favourites for item 2 should be displayed, DOM Id: I__tiheart__247, Browser: Chrome, Viewport: 500  x 700, Device: Mobile, Status: Pass
+Task: 2, Test Name: Add to compare for item 2 should be displayed, DOM Id: I__ticontrols__251, Browser: Chrome, Viewport: 500  x 700, Device: Mobile, Status: Pass
+Task: 2, Test Name: Add to cart for item 2 should be displayed, DOM Id: I__tishopping__255, Browser: Chrome, Viewport: 500  x 700, Device: Mobile, Status: Pass
+Task: 2, Test Name: item 1 picture should be displayed, DOM Id: product_1, Browser: Chrome, Viewport: 500  x 700, Device: Mobile, Status: Pass
+Task: 2, Test Name: item 2 picture should be displayed, DOM Id: product_8, Browser: Chrome, Viewport: 500  x 700, Device: Mobile, Status: Pass
+Task: 2, Test Name: About us should not be displayed, DOM Id: A____425, Browser: Chrome, Viewport: 500  x 700, Device: Mobile, Status: Pass
+Task: 2, Test Name: Faq should not be displayed, DOM Id: A____427, Browser: Chrome, Viewport: 500  x 700, Device: Mobile, Status: Pass
+Task: 2, Test Name: Help should not be displayed, DOM Id: A____429, Browser: Chrome, Viewport: 500  x 700, Device: Mobile, Status: Pass
+Task: 2, Test Name: My account should not be displayed, DOM Id: A____431, Browser: Chrome, Viewport: 500  x 700, Device: Mobile, Status: Pass
+Task: 2, Test Name: Blog should not be displayed, DOM Id: A____433, Browser: Chrome, Viewport: 500  x 700, Device: Mobile, Status: Pass
+Task: 2, Test Name: Contacts should not be displayed, DOM Id: A____435, Browser: Chrome, Viewport: 500  x 700, Device: Mobile, Status: Pass
+Task: 2, Test Name: About us should not be displayed, DOM Id: A____425, Browser: Chrome, Viewport: 500  x 700, Device: Mobile, Status: Pass
+Task: 2, Test Name: Email newsletter should not be displayed, DOM Id: email_newsletter, Browser: Chrome, Viewport: 500  x 700, Device: Mobile, Status: Pass
+Task: 2, Test Name: Address should not be displayed, DOM Id: LI____440, Browser: Chrome, Viewport: 500  x 700, Device: Mobile, Status: Pass
+Task: 2, Test Name: Email should not be displayed, DOM Id: LI____443, Browser: Chrome, Viewport: 500  x 700, Device: Mobile, Status: Pass
+Task: 3, Test Name: Expected Value of Selected Size Option should be Small (S), actual Value is: Small (S), DOM Id: XPATH = //div[@class='nice-select wide']/span, Browser: Chrome, Viewport: 500  x 700, Device: Mobile, Status: Pass
+Task: 3, Test Name: Expected Value of New Price should be $33.00, actual Value is: $33.00, DOM Id: new_price, Browser: Chrome, Viewport: 500  x 700, Device: Mobile, Status: Pass
+Task: 3, Test Name: Main menu should not be displayed, DOM Id: DIV__mainmenu__15, Browser: Chrome, Viewport: 500  x 700, Device: Mobile, Status: Pass
+Task: 3, Test Name: Search field should not be displayed, DOM Id: DIV__customsear__41, Browser: Chrome, Viewport: 500  x 700, Device: Mobile, Status: Pass
+Task: 3, Test Name: Search icon on the right should not be displayed, DOM Id: I__headericon__44, Browser: Chrome, Viewport: 500  x 700, Device: Mobile, Status: Pass
+Task: 3, Test Name: Search button on the left should be displayed, DOM Id: A__btnsearchm__59, Browser: Chrome, Viewport: 500  x 700, Device: Mobile, Status: Pass
+Task: 3, Test Name: Account should be displayed, DOM Id: DIV__dropdowndr__55, Browser: Chrome, Viewport: 500  x 700, Device: Mobile, Status: Pass
+Task: 3, Test Name: Wishlist should be displayed, DOM Id: A__wishlist__52, Browser: Chrome, Viewport: 500  x 700, Device: Mobile, Status: Pass
+Task: 3, Test Name: Cart should be displayed, DOM Id: DIV__dropdowndr__48, Browser: Chrome, Viewport: 500  x 700, Device: Mobile, Status: Pass
+Task: 3, Test Name: Items in cart should be displayed, DOM Id: STRONG____50, Browser: Chrome, Viewport: 500  x 700, Device: Mobile, Status: Pass
+Task: 3, Test Name: Product code should be displayed, DOM Id: SMALL____84, Browser: Chrome, Viewport: 500  x 700, Device: Mobile, Status: Pass
+Task: 3, Test Name: Number of reviews should be displayed, DOM Id: EM____82, Browser: Chrome, Viewport: 500  x 700, Device: Mobile, Status: Pass
+Task: 3, Test Name: Add to Cart button should be displayed, DOM Id: A__btn__114, Browser: Chrome, Viewport: 500  x 700, Device: Mobile, Status: Pass
+Task: 3, Test Name: Quantity editbox should be displayed, DOM Id: DIV__numbersrow__102, Browser: Chrome, Viewport: 500  x 700, Device: Mobile, Status: Pass
+Task: 3, Test Name: Product info should be displayed, DOM Id: DIV__prodinfove__75, Browser: Chrome, Viewport: 500  x 700, Device: Mobile, Status: Pass
+Task: 3, Test Name: New price should be displayed, DOM Id: new_price, Browser: Chrome, Viewport: 500  x 700, Device: Mobile, Status: Pass
+Task: 3, Test Name: Old price should be displayed, DOM Id: old_price, Browser: Chrome, Viewport: 500  x 700, Device: Mobile, Status: Pass
+Task: 3, Test Name: Discount should be displayed, DOM Id: discount, Browser: Chrome, Viewport: 500  x 700, Device: Mobile, Status: Pass
+Task: 3, Test Name: Quantity Plus button should be displayed, DOM Id: DIV__incbuttoni__104, Browser: Chrome, Viewport: 500  x 700, Device: Mobile, Status: Pass
+Task: 3, Test Name: Quantity Minus button should be displayed, DOM Id: DIV__decbuttoni__105, Browser: Chrome, Viewport: 500  x 700, Device: Mobile, Status: Pass
+Task: 3, Test Name: Shoe Image should be displayed, DOM Id: shoe_img, Browser: Chrome, Viewport: 500  x 700, Device: Mobile, Status: Pass
+Task: 3, Test Name: About us should not be displayed, DOM Id: A____123, Browser: Chrome, Viewport: 500  x 700, Device: Mobile, Status: Pass
+Task: 3, Test Name: Faq should not be displayed, DOM Id: A____125, Browser: Chrome, Viewport: 500  x 700, Device: Mobile, Status: Pass
+Task: 3, Test Name: Help should not be displayed, DOM Id: A____127, Browser: Chrome, Viewport: 500  x 700, Device: Mobile, Status: Pass
+Task: 3, Test Name: My account should not be displayed, DOM Id: A____129, Browser: Chrome, Viewport: 500  x 700, Device: Mobile, Status: Pass
+Task: 3, Test Name: Blog should not be displayed, DOM Id: A____131, Browser: Chrome, Viewport: 500  x 700, Device: Mobile, Status: Pass
+Task: 3, Test Name: Contacts should not be displayed, DOM Id: A____133, Browser: Chrome, Viewport: 500  x 700, Device: Mobile, Status: Pass
+Task: 3, Test Name: Email newsletter should not be displayed, DOM Id: email_newsletter, Browser: Chrome, Viewport: 500  x 700, Device: Mobile, Status: Pass
+Task: 3, Test Name: Address should not be displayed, DOM Id: LI____138, Browser: Chrome, Viewport: 500  x 700, Device: Mobile, Status: Pass
+Task: 3, Test Name: Email should not be displayed, DOM Id: LI____141, Browser: Chrome, Viewport: 500  x 700, Device: Mobile, Status: Pass
