@@ -94,7 +94,7 @@ public class GeneralStepDefinitions {
     public void closeBrowser(Scenario scenario) {
         driver.quit();
         System.out.println("collectedResultOfValidation is: " + collectedResultOfValidation);
-        Assert.assertTrue("One or more elements were not correctly displayed/hidden, check statuses Fail in 'Traditional-V1-TestResults.txt' in the root of the project", collectedResultOfValidation);
+        Assert.assertTrue("One or more elements were not correctly displayed/hidden, check statuses Fail in 'Traditional-V2-TestResults.txt' in the root of the project", collectedResultOfValidation);
     }
 
     @Given("^I maximize the browser$")
