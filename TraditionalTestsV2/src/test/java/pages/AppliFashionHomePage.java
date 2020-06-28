@@ -143,13 +143,13 @@ public class AppliFashionHomePage extends BasicActions {
         listOfVisibleStatusesForWith500.add(false);
 
         listOfElementsNames.add("View grid");
-        listOfElementsIds.add("I__tiviewgrid__202");
+        listOfElementsIds.add("I__tiviewgrid__203");
         listOfVisibleStatusesForWith1200.add(true);
         listOfVisibleStatusesForWith768.add(false);
         listOfVisibleStatusesForWith500.add(false);
 
         listOfElementsNames.add("View list");
-        listOfElementsIds.add("I__tiviewlist__204");
+        listOfElementsIds.add("I__tiviewlist__205");
         listOfVisibleStatusesForWith1200.add(true);
         listOfVisibleStatusesForWith768.add(false);
         listOfVisibleStatusesForWith500.add(false);
@@ -161,7 +161,7 @@ public class AppliFashionHomePage extends BasicActions {
         listOfVisibleStatusesForWith500.add(true);
 
         listOfElementsNames.add("Filters label");
-        listOfElementsIds.add("SPAN____208");
+        listOfElementsIds.add("SPAN____209");
         listOfVisibleStatusesForWith1200.add(false);
         listOfVisibleStatusesForWith768.add(true);
         listOfVisibleStatusesForWith500.add(false);
@@ -496,13 +496,13 @@ public class AppliFashionHomePage extends BasicActions {
         listOfVisibleStatusesForWith500.add(false);
 
         listOfElementsNames.add("View grid");
-        listOfElementsIds.add("I__tiviewgrid__202");
+        listOfElementsIds.add("I__tiviewgrid__203");
         listOfVisibleStatusesForWith1200.add(true);
         listOfVisibleStatusesForWith768.add(false);
         listOfVisibleStatusesForWith500.add(false);
 
         listOfElementsNames.add("View list");
-        listOfElementsIds.add("I__tiviewlist__204");
+        listOfElementsIds.add("I__tiviewlist__205");
         listOfVisibleStatusesForWith1200.add(true);
         listOfVisibleStatusesForWith768.add(false);
         listOfVisibleStatusesForWith500.add(false);
@@ -514,7 +514,7 @@ public class AppliFashionHomePage extends BasicActions {
         listOfVisibleStatusesForWith500.add(true);
 
         listOfElementsNames.add("Filters label");
-        listOfElementsIds.add("SPAN____208");
+        listOfElementsIds.add("SPAN____209");
         listOfVisibleStatusesForWith1200.add(false);
         listOfVisibleStatusesForWith768.add(true);
         listOfVisibleStatusesForWith500.add(false);
