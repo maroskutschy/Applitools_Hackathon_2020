@@ -5,7 +5,7 @@
 <!--    <parameter name="operatingSystem" value="MacOS"></parameter>-->
       <parameter name="browser" value="Chrome"></parameter>
     <!--         <parameter name="link" value="https://demo.applitools.com/gridHackathonV1.html#0"></parameter>-->
-    <parameter name="link" value="https://demo.applitools.com/gridHackathonV1.html#0"></parameter>
+    <parameter name="link" value="https://demo.applitools.com/gridHackathonV2.html#0"></parameter>
 
 
       <test name="AppliFashion" >
