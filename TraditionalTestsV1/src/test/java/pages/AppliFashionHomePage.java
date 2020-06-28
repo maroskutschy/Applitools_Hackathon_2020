@@ -759,50 +759,98 @@ public class AppliFashionHomePage extends BasicActions {
         listOfVisibleStatusesForWith768.add(true);
         listOfVisibleStatusesForWith500.add(true);
 
-        listOfElementsNames.add("Size option selected value");
-        listOfElementsIds.add("OPTION____94");
+        listOfElementsNames.add("Number of reviews");
+        listOfElementsIds.add("EM____82");
+        listOfVisibleStatusesForWith1200.add(true);
+        listOfVisibleStatusesForWith768.add(true);
+        listOfVisibleStatusesForWith500.add(true);
+
+        listOfElementsNames.add("Add to Cart button");
+        listOfElementsIds.add("A__btn__114");
+        listOfVisibleStatusesForWith1200.add(true);
+        listOfVisibleStatusesForWith768.add(true);
+        listOfVisibleStatusesForWith500.add(true);
+
+        listOfElementsNames.add("Quantity editbox");
+        listOfElementsIds.add("DIV__numbersrow__102");
+        listOfVisibleStatusesForWith1200.add(true);
+        listOfVisibleStatusesForWith768.add(true);
+        listOfVisibleStatusesForWith500.add(true);
+
+        listOfElementsNames.add("Product info");
+        listOfElementsIds.add("DIV__prodinfove__75");
+        listOfVisibleStatusesForWith1200.add(true);
+        listOfVisibleStatusesForWith768.add(true);
+        listOfVisibleStatusesForWith500.add(true);
+
+        listOfElementsNames.add("New price");
+        listOfElementsIds.add("new_price");
+        listOfVisibleStatusesForWith1200.add(true);
+        listOfVisibleStatusesForWith768.add(true);
+        listOfVisibleStatusesForWith500.add(true);
+
+        listOfElementsNames.add("Old price");
+        listOfElementsIds.add("old_price");
+        listOfVisibleStatusesForWith1200.add(true);
+        listOfVisibleStatusesForWith768.add(true);
+        listOfVisibleStatusesForWith500.add(true);
+
+        listOfElementsNames.add("Discount");
+        listOfElementsIds.add("discount");
+        listOfVisibleStatusesForWith1200.add(true);
+        listOfVisibleStatusesForWith768.add(true);
+        listOfVisibleStatusesForWith500.add(true);
+
+        listOfElementsNames.add("Quantity Plus button");
+        listOfElementsIds.add("DIV__incbuttoni__104");
+        listOfVisibleStatusesForWith1200.add(true);
+        listOfVisibleStatusesForWith768.add(true);
+        listOfVisibleStatusesForWith500.add(true);
+
+        listOfElementsNames.add("Quantity Minus button");
+        listOfElementsIds.add("DIV__decbuttoni__105");
+        listOfVisibleStatusesForWith1200.add(true);
+        listOfVisibleStatusesForWith768.add(true);
+        listOfVisibleStatusesForWith500.add(true);
+
+        listOfElementsNames.add("Shoe Image");
+        listOfElementsIds.add("shoe_img");
         listOfVisibleStatusesForWith1200.add(true);
         listOfVisibleStatusesForWith768.add(true);
         listOfVisibleStatusesForWith500.add(true);
 
         listOfElementsNames.add("About us");
-        listOfElementsIds.add("A____425");
+        listOfElementsIds.add("A____123");
         listOfVisibleStatusesForWith1200.add(true);
         listOfVisibleStatusesForWith768.add(true);
         listOfVisibleStatusesForWith500.add(false);
 
         listOfElementsNames.add("Faq");
-        listOfElementsIds.add("A____427");
+        listOfElementsIds.add("A____125");
         listOfVisibleStatusesForWith1200.add(true);
         listOfVisibleStatusesForWith768.add(true);
         listOfVisibleStatusesForWith500.add(false);
 
         listOfElementsNames.add("Help");
-        listOfElementsIds.add("A____429");
+        listOfElementsIds.add("A____127");
         listOfVisibleStatusesForWith1200.add(true);
         listOfVisibleStatusesForWith768.add(true);
         listOfVisibleStatusesForWith500.add(false);
 
         listOfElementsNames.add("My account");
-        listOfElementsIds.add("A____431");
+        listOfElementsIds.add("A____129");
         listOfVisibleStatusesForWith1200.add(true);
         listOfVisibleStatusesForWith768.add(true);
         listOfVisibleStatusesForWith500.add(false);
 
         listOfElementsNames.add("Blog");
-        listOfElementsIds.add("A____433");
+        listOfElementsIds.add("A____131");
         listOfVisibleStatusesForWith1200.add(true);
         listOfVisibleStatusesForWith768.add(true);
         listOfVisibleStatusesForWith500.add(false);
 
         listOfElementsNames.add("Contacts");
-        listOfElementsIds.add("A____435");
-        listOfVisibleStatusesForWith1200.add(true);
-        listOfVisibleStatusesForWith768.add(true);
-        listOfVisibleStatusesForWith500.add(false);
-
-        listOfElementsNames.add("About us");
-        listOfElementsIds.add("A____425");
+        listOfElementsIds.add("A____133");
         listOfVisibleStatusesForWith1200.add(true);
         listOfVisibleStatusesForWith768.add(true);
         listOfVisibleStatusesForWith500.add(false);
@@ -814,13 +862,13 @@ public class AppliFashionHomePage extends BasicActions {
         listOfVisibleStatusesForWith500.add(false);
 
         listOfElementsNames.add("Address");
-        listOfElementsIds.add("LI____440");
+        listOfElementsIds.add("LI____138");
         listOfVisibleStatusesForWith1200.add(true);
         listOfVisibleStatusesForWith768.add(true);
         listOfVisibleStatusesForWith500.add(false);
 
         listOfElementsNames.add("Email");
-        listOfElementsIds.add("LI____443");
+        listOfElementsIds.add("LI____141");
         listOfVisibleStatusesForWith1200.add(true);
         listOfVisibleStatusesForWith768.add(true);
         listOfVisibleStatusesForWith500.add(false);
