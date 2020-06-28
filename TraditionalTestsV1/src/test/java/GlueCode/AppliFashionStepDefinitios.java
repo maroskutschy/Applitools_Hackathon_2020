@@ -45,6 +45,12 @@ public class AppliFashionStepDefinitios {
         appliFashionHomePage.validateElementsOnHomePageAfterSearchFOrBlackColor(task, browser, width, height, deviceType);
     }
 
+    @Given ("^I validate after click on item if all relevant elements on the Home page for task No \"([^\"]*)\" and \"([^\"]*)\" browser and \"([^\"]*)\" viewport width and \"([^\"]*)\" viewport height and \"([^\"]*)\" device type are correctly displayed$")
+    public void validateElementsOnHomePageAfterClickOnItem(String task, String browser, String width, String height, String deviceType) throws Throwable {
+        appliFashionHomePage = new AppliFashionHomePage(driver);
+        appliFashionHomePage.validateElementsOnHomePageAfterClickOnItem(task, browser, width, height, deviceType);
+    }
+
     @Given ("^I validate that number of found items is \"([^\"]*)\" for task No \"([^\"]*)\" and \"([^\"]*)\" browser and \"([^\"]*)\" viewport width and \"([^\"]*)\" viewport height and \"([^\"]*)\" device type$")
     public void validateNumberOfFoundItems(String expectedNumberOfFoundItems, String task, String browser, String width, String height, String deviceType) throws Throwable {
         appliFashionHomePage = new AppliFashionHomePage(driver);

@@ -689,6 +689,177 @@ public class AppliFashionHomePage extends BasicActions {
         return this;
     }
 
+    public AppliFashionHomePage validateElementsOnHomePageAfterClickOnItem (String task, String browser, String width, String height, String deviceType) {
+
+        //SoftAssertions softAssertions = new SoftAssertions();
+
+        List<String> listOfElementsIds = new ArrayList<>();
+        List<String> listOfElementsNames = new ArrayList<>();
+        List<Boolean> listOfVisibleStatusesForWith1200 = new ArrayList<>();
+        List<Boolean> listOfVisibleStatusesForWith768 = new ArrayList<>();
+        List<Boolean> listOfVisibleStatusesForWith500 = new ArrayList<>();
+
+        listOfElementsNames.add("Main menu");
+        listOfElementsIds.add("DIV__mainmenu__15");
+        listOfVisibleStatusesForWith1200.add(true);
+        listOfVisibleStatusesForWith768.add(false);
+        listOfVisibleStatusesForWith500.add(false);
+
+        listOfElementsNames.add("Search field");
+        listOfElementsIds.add("DIV__customsear__41");
+        listOfVisibleStatusesForWith1200.add(true);
+        listOfVisibleStatusesForWith768.add(true);
+        listOfVisibleStatusesForWith500.add(false);
+
+        listOfElementsNames.add("Search icon on the right");
+        listOfElementsIds.add("I__headericon__44");
+        listOfVisibleStatusesForWith1200.add(true);
+        listOfVisibleStatusesForWith768.add(true);
+        listOfVisibleStatusesForWith500.add(false);
+
+        listOfElementsNames.add("Search button on the left");
+        listOfElementsIds.add("A__btnsearchm__59");
+        listOfVisibleStatusesForWith1200.add(false);
+        listOfVisibleStatusesForWith768.add(false);
+        listOfVisibleStatusesForWith500.add(true);
+
+        listOfElementsNames.add("Account");
+        listOfElementsIds.add("DIV__dropdowndr__55");
+        listOfVisibleStatusesForWith1200.add(true);
+        listOfVisibleStatusesForWith768.add(true);
+        listOfVisibleStatusesForWith500.add(true);
+
+        listOfElementsNames.add("Wishlist");
+        listOfElementsIds.add("A__wishlist__52");
+        listOfVisibleStatusesForWith1200.add(true);
+        listOfVisibleStatusesForWith768.add(true);
+        listOfVisibleStatusesForWith500.add(true);
+
+        listOfElementsNames.add("Cart");
+        listOfElementsIds.add("DIV__dropdowndr__48");
+        listOfVisibleStatusesForWith1200.add(true);
+        listOfVisibleStatusesForWith768.add(true);
+        listOfVisibleStatusesForWith500.add(true);
+
+        listOfElementsNames.add("Items in cart");
+        listOfElementsIds.add("STRONG____50");
+        listOfVisibleStatusesForWith1200.add(true);
+        listOfVisibleStatusesForWith768.add(true);
+        listOfVisibleStatusesForWith500.add(true);
+
+        listOfElementsNames.add("Product code");
+        listOfElementsIds.add("SMALL____84");
+        listOfVisibleStatusesForWith1200.add(true);
+        listOfVisibleStatusesForWith768.add(true);
+        listOfVisibleStatusesForWith500.add(true);
+
+        listOfElementsNames.add("About us");
+        listOfElementsIds.add("A____425");
+        listOfVisibleStatusesForWith1200.add(true);
+        listOfVisibleStatusesForWith768.add(true);
+        listOfVisibleStatusesForWith500.add(false);
+
+        listOfElementsNames.add("Faq");
+        listOfElementsIds.add("A____427");
+        listOfVisibleStatusesForWith1200.add(true);
+        listOfVisibleStatusesForWith768.add(true);
+        listOfVisibleStatusesForWith500.add(false);
+
+        listOfElementsNames.add("Help");
+        listOfElementsIds.add("A____429");
+        listOfVisibleStatusesForWith1200.add(true);
+        listOfVisibleStatusesForWith768.add(true);
+        listOfVisibleStatusesForWith500.add(false);
+
+        listOfElementsNames.add("My account");
+        listOfElementsIds.add("A____431");
+        listOfVisibleStatusesForWith1200.add(true);
+        listOfVisibleStatusesForWith768.add(true);
+        listOfVisibleStatusesForWith500.add(false);
+
+        listOfElementsNames.add("Blog");
+        listOfElementsIds.add("A____433");
+        listOfVisibleStatusesForWith1200.add(true);
+        listOfVisibleStatusesForWith768.add(true);
+        listOfVisibleStatusesForWith500.add(false);
+
+        listOfElementsNames.add("Contacts");
+        listOfElementsIds.add("A____435");
+        listOfVisibleStatusesForWith1200.add(true);
+        listOfVisibleStatusesForWith768.add(true);
+        listOfVisibleStatusesForWith500.add(false);
+
+        listOfElementsNames.add("About us");
+        listOfElementsIds.add("A____425");
+        listOfVisibleStatusesForWith1200.add(true);
+        listOfVisibleStatusesForWith768.add(true);
+        listOfVisibleStatusesForWith500.add(false);
+
+        listOfElementsNames.add("Email newsletter");
+        listOfElementsIds.add("email_newsletter");
+        listOfVisibleStatusesForWith1200.add(true);
+        listOfVisibleStatusesForWith768.add(true);
+        listOfVisibleStatusesForWith500.add(false);
+
+        listOfElementsNames.add("Address");
+        listOfElementsIds.add("LI____440");
+        listOfVisibleStatusesForWith1200.add(true);
+        listOfVisibleStatusesForWith768.add(true);
+        listOfVisibleStatusesForWith500.add(false);
+
+        listOfElementsNames.add("Email");
+        listOfElementsIds.add("LI____443");
+        listOfVisibleStatusesForWith1200.add(true);
+        listOfVisibleStatusesForWith768.add(true);
+        listOfVisibleStatusesForWith500.add(false);
+
+        // this code will be applied only when viewport width is: 1200
+        if (width.equalsIgnoreCase("1200")) {
+            for (int i = 0; i < listOfElementsNames.size(); i++ ) {
+                // this code will be applied when element should be visible (we are validating is isDisplayed() is true)
+                if (listOfVisibleStatusesForWith1200.get(i).equals(true)) {
+                    hackathonReporter(task, listOfElementsNames.get(i) + " should be displayed", listOfElementsIds.get(i), browser, width, height, deviceType,
+                            driver.findElement(By.id(listOfElementsIds.get(i))).isDisplayed());
+                    // this code will be applied when element should NOT be visible (we are validating is isDisplayed() is false)
+                } else {
+                    hackathonReporter(task, listOfElementsNames.get(i) + " should not be displayed", listOfElementsIds.get(i), browser, width, height, deviceType,
+                            !driver.findElement(By.id(listOfElementsIds.get(i))).isDisplayed());
+                }
+            }
+            // this code will be applied only when viewport width is: 768
+        } else if (width.equalsIgnoreCase("768")) {
+            for (int i = 0; i < listOfElementsNames.size(); i++ ) {
+                // this code will be applied when element should be visible (we are validating is isDisplayed() is true)
+                if (listOfVisibleStatusesForWith768.get(i).equals(true)) {
+                    hackathonReporter(task, listOfElementsNames.get(i) + " should be displayed", listOfElementsIds.get(i), browser, width, height, deviceType,
+                            driver.findElement(By.id(listOfElementsIds.get(i))).isDisplayed());
+                    // this code will be applied when element should NOT be visible (we are validating is isDisplayed() is false)
+                } else {
+                    hackathonReporter(task, listOfElementsNames.get(i) + " should not be displayed", listOfElementsIds.get(i), browser, width, height, deviceType,
+                            !driver.findElement(By.id(listOfElementsIds.get(i))).isDisplayed());
+                }
+            }
+            // this code will be applied only when viewport width is: 500
+        } else {
+            for (int i = 0; i < listOfElementsNames.size(); i++ ) {
+                // this code will be applied when element should be visible (we are validating is isDisplayed() is true)
+                if (listOfVisibleStatusesForWith500.get(i).equals(true)) {
+                    hackathonReporter(task, listOfElementsNames.get(i) + " should be displayed", listOfElementsIds.get(i), browser, width, height, deviceType,
+                            driver.findElement(By.id(listOfElementsIds.get(i))).isDisplayed());
+                    // this code will be applied when element should NOT be visible (we are validating is isDisplayed() is false)
+                } else {
+                    hackathonReporter(task, listOfElementsNames.get(i) + " should not be displayed", listOfElementsIds.get(i), browser, width, height, deviceType,
+                            !driver.findElement(By.id(listOfElementsIds.get(i))).isDisplayed());
+                }
+            }
+        }
+
+        //Assert all elements inside this test
+        //assertAll();
+        return this;
+    }
+
+
     public boolean hackathonReporter(String task, String testName, String domId, String browser, String width, String height, String device, boolean comparisonResult) {
         try(BufferedWriter writer = new BufferedWriter(new FileWriter("Traditional-V1-TestResults.txt", true))){
             writer.write("Task: " + task + ", Test Name: " + testName +", DOM Id: " + domId + ", Browser: " + browser
