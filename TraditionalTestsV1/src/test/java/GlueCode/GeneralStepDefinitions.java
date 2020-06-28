@@ -18,6 +18,7 @@ import org.openqa.selenium.edge.EdgeDriver;
 import org.openqa.selenium.edge.EdgeOptions;
 import org.openqa.selenium.firefox.FirefoxDriver;
 
+import java.util.ArrayList;
 import java.util.Collections;
 import java.util.HashMap;
 import java.util.Map;
@@ -35,6 +36,11 @@ public class GeneralStepDefinitions {
     private String link = TestDefaultValues.getLink();
 
     public static boolean collectedResultOfValidation = true;
+
+    @Before
+    public void beforeScenario() throws Throwable {
+        collectedResultOfValidation = true;
+    }
 
 //    @Before
 //    public void openBrowserWithLink(Scenario scenario) throws Throwable {
@@ -118,6 +124,7 @@ public class GeneralStepDefinitions {
                 ChromeOptions options = new ChromeOptions();
                 // Set the experimental option
                 options.setExperimentalOption("prefs", prefs);
+                //options.addArguments("--window-size=" + width +"," + height);
                 driver = new ChromeDriver(options);
                 break;
             case "Edge Chromium" :
@@ -139,7 +146,25 @@ public class GeneralStepDefinitions {
                 //driver = new ChromeDriver(chromeOptions);
         }
         driver.get(link);
-        driver.manage().window().setSize(new Dimension(Integer.parseInt(width), Integer.parseInt(height)));
+//        driver.manage().window().setPosition(new Point(0,0));
+//        driver.manage().window().setSize(new Dimension(Integer.parseInt(width), Integer.parseInt(height)));
+//        System.out.println(driver.manage().window().getSize());
+//        System.out.println("Resolution is: " + width + ", " + height);
+
+        // Setting inner window size, because this is real size of the window which we want to test, outer size with all other browser's
+        // elements (title bar, bookmarks bar, borders etc) will be bigger = via driver.manage().window().getSize() you will have highre number
+        // but when using http://howbigismybrowser.com/ you will get exact values as you specify
+        ArrayList padding = (ArrayList)((JavascriptExecutor) driver).executeScript(
+                "return [window.outerWidth-window.innerWidth, window.outerHeight-window.innerHeight];");
+        // set the inner size of the window to width x height (scrollbar included)
+        driver.manage().window().setSize(new Dimension(
+                (int)(Integer.parseInt(width) + (Long)padding.get(0)),
+                (int)(Integer.parseInt(height) + (Long)padding.get(1))
+        ));
+
+//        System.out.println(driver.manage().window().getSize());
+//        System.out.println("Resolution is: " + width + ", " + height);
+
     }
 
 
