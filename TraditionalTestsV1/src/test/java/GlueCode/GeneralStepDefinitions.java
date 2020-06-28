@@ -202,7 +202,7 @@ public class GeneralStepDefinitions {
             }
         }
         System.out.println("collectedResultOfValidation is: " + collectedResultOfValidation);
-        Assert.assertTrue("One or more elements were not displayed, check statuses Fail in 'Traditional-V1-TestResults.txt' in the root of the project", collectedResultOfValidation);
+        Assert.assertTrue("One or more elements were not correctly displayed/hidden, check statuses Fail in 'Traditional-V1-TestResults.txt' in the root of the project", collectedResultOfValidation);
     }
 
     @Given("^I maximize the browser$")

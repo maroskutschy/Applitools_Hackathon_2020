@@ -15,15 +15,19 @@ Feature: AppliFashion Traditional
 
     Given I open "AppliFashion Home" page with "<browser>" browser and "<width>" viewport width and "<height>" viewport height and "<device type>" device type
     When I validate that AppliFashion Home page is successfully displayed
-    Then I validate if all relevant elements on the Home page for task No "1" and "<browser>" browser and "<width>" viewport width and "<height>" viewport height and "<device type>" device type are correctly displayed after opening the page
-#    Then I validate if all relevant elements on the Home page for task No "1" and "<browser>" browser and "<width>" viewport width and "<height>" viewport height and "<device type>" device type are correctly displayed after opening the page
+    Then I validate after opening the page if all relevant elements on the Home page for task No "1" and "<browser>" browser and "<width>" viewport width and "<height>" viewport height and "<device type>" device type are correctly displayed
+    When I select "Black" checkbox
+    And I click on "Filter" button
+    Then I validate that number of found items is "2" for task No "2" and "<browser>" browser and "<width>" viewport width and "<height>" viewport height and "<device type>" device type
+    Then I validate after search for black colors if all relevant elements on the Home page for task No "2" and "<browser>" browser and "<width>" viewport width and "<height>" viewport height and "<device type>" device type are correctly displayed
+
 
     Examples:
       |browser                         |width                   |height   |device type                           |
       |Chrome                          |1200                    |700      |Laptop                                |
 #      |Firefox                         |1200                    |700      |Laptop                                |
 #      |Edge Chromium                   |1200                    |700      |Laptop                                |
-      |Chrome                          |768                     |700      |Tablet                                |
+#      |Chrome                          |768                     |700      |Tablet                                |
 #      |Firefox                         |768                     |700      |Tablet                                |
 #      |Edge Chromium                   |768                     |700      |Tablet                                |
-      |Chrome                          |500                     |700      |Mobile                                |
+#      |Chrome                          |500                     |700      |Mobile                                |
