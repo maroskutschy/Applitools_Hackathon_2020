@@ -32,6 +32,12 @@ public class AppliFashionHomePage extends BasicActions {
     @FindBy (xpath = "//div[@id='product_grid']/div")
     private List<WebElement> listOfSearchedItems;
 
+    @FindBy (xpath = "//div[@class='nice-select wide']/span")
+    private WebElement selectedOptionInSizeDropdown;
+
+    @FindBy (id = "new_price")
+    private WebElement newPrice;
+
     // Home Page All element after opening the page
 
 //    @FindBy (id = "BUTTONsubmit____43")
@@ -753,6 +759,12 @@ public class AppliFashionHomePage extends BasicActions {
         listOfVisibleStatusesForWith768.add(true);
         listOfVisibleStatusesForWith500.add(true);
 
+        listOfElementsNames.add("Size option selected value");
+        listOfElementsIds.add("OPTION____94");
+        listOfVisibleStatusesForWith1200.add(true);
+        listOfVisibleStatusesForWith768.add(true);
+        listOfVisibleStatusesForWith500.add(true);
+
         listOfElementsNames.add("About us");
         listOfElementsIds.add("A____425");
         listOfVisibleStatusesForWith1200.add(true);
@@ -877,6 +889,18 @@ public class AppliFashionHomePage extends BasicActions {
     public AppliFashionHomePage validateNumberOfFoundItems (String expectedNumberOfFoundItems, String task, String browser, String width, String height, String deviceType) throws InterruptedException {
         hackathonReporter(task, "Expected Number Of Found Items should be " + expectedNumberOfFoundItems + ", actual number is: " + listOfSearchedItems.size(), "XPATH = //div[@id='product_grid']/div", browser, width, height, deviceType,
                 expectedNumberOfFoundItems.equalsIgnoreCase(String. valueOf(listOfSearchedItems.size())));
+        return this;
+    }
+
+    public AppliFashionHomePage validateSelectedValueOfSizeOption (String expectedSelectedOption, String task, String browser, String width, String height, String deviceType) throws InterruptedException {
+        hackathonReporter(task, "Expected Value of Selected Size Option should be " + expectedSelectedOption + ", actual Value is: " + selectedOptionInSizeDropdown.getText(), "XPATH = //div[@class='nice-select wide']/span", browser, width, height, deviceType,
+                expectedSelectedOption.equalsIgnoreCase(selectedOptionInSizeDropdown.getText()));
+        return this;
+    }
+
+    public AppliFashionHomePage validateValueOfNewPrice (String expectedValue, String task, String browser, String width, String height, String deviceType) throws InterruptedException {
+        hackathonReporter(task, "Expected Value of New Price should be " + expectedValue + ", actual Value is: " + newPrice.getText(), "new_price", browser, width, height, deviceType,
+                expectedValue.equalsIgnoreCase(newPrice.getText()));
         return this;
     }
 

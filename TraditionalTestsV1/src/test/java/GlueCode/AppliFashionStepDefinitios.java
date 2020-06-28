@@ -57,4 +57,16 @@ public class AppliFashionStepDefinitios {
         appliFashionHomePage.validateNumberOfFoundItems(expectedNumberOfFoundItems, task, browser, width, height, deviceType);
     }
 
+    @Given ("^I validate that selected value of size option is \"([^\"]*)\" for task No \"([^\"]*)\" and \"([^\"]*)\" browser and \"([^\"]*)\" viewport width and \"([^\"]*)\" viewport height and \"([^\"]*)\" device type$")
+    public void validateSelectedValueOfSizeOption(String expectedSelectedOption, String task, String browser, String width, String height, String deviceType) throws Throwable {
+        appliFashionHomePage = new AppliFashionHomePage(driver);
+        appliFashionHomePage.validateSelectedValueOfSizeOption(expectedSelectedOption, task, browser, width, height, deviceType);
+    }
+
+    @Given ("^I validate that value of new price is \"([^\"]*)\" for task No \"([^\"]*)\" and \"([^\"]*)\" browser and \"([^\"]*)\" viewport width and \"([^\"]*)\" viewport height and \"([^\"]*)\" device type$")
+    public void validateValueOfNewPrice(String expectedValue, String task, String browser, String width, String height, String deviceType) throws Throwable {
+        appliFashionHomePage = new AppliFashionHomePage(driver);
+        appliFashionHomePage.validateValueOfNewPrice(expectedValue, task, browser, width, height, deviceType);
+    }
+
 }
