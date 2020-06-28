@@ -1,10 +1,7 @@
 package pages;
 
 import GlueCode.GeneralStepDefinitions;
-import org.assertj.core.api.SoftAssertions;
-import org.junit.Assert;
 import org.openqa.selenium.By;
-import org.openqa.selenium.NoSuchElementException;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
@@ -38,21 +35,8 @@ public class AppliFashionHomePage extends BasicActions {
     @FindBy (id = "new_price")
     private WebElement newPrice;
 
-    // Home Page All element after opening the page
-
-//    @FindBy (id = "BUTTONsubmit____43")
-//    private WebElement searchEditBox;
-
-//    @FindBy (id = "BUTTONsubmit____43")
-//    private WebElement searchEditBox;
-
-
-
-
     String itemInTheSelectionXpathPart1 = "(//div[@class='col-6 col-md-4'])[";
     String generalEndOfXpathFOrOrder = "]";
-
-    //boolean collectedResultOfValidation = true;
 
     public AppliFashionHomePage(WebDriver driver) {
         super( driver );
@@ -97,8 +81,6 @@ public class AppliFashionHomePage extends BasicActions {
     }
 
     public AppliFashionHomePage validateElementsOnHomePageAfterOpeningApplication (String task, String browser, String width, String height, String deviceType) {
-
-        //SoftAssertions softAssertions = new SoftAssertions();
 
         List<String> listOfElementsIds = new ArrayList<>();
         List<String> listOfElementsNames = new ArrayList<>();
@@ -447,15 +429,11 @@ public class AppliFashionHomePage extends BasicActions {
             }
         }
 
-        //Assert all elements inside this test
-           //softAssertions.assertAll();
         return this;
     }
 
 
     public AppliFashionHomePage validateElementsOnHomePageAfterSearchFOrBlackColor (String task, String browser, String width, String height, String deviceType) {
-
-        //SoftAssertions softAssertions = new SoftAssertions();
 
         List<String> listOfElementsIds = new ArrayList<>();
         List<String> listOfElementsNames = new ArrayList<>();
@@ -690,14 +668,10 @@ public class AppliFashionHomePage extends BasicActions {
             }
         }
 
-        //Assert all elements inside this test
-        //assertAll();
-        return this;
+       return this;
     }
 
     public AppliFashionHomePage validateElementsOnHomePageAfterClickOnItem (String task, String browser, String width, String height, String deviceType) {
-
-        //SoftAssertions softAssertions = new SoftAssertions();
 
         List<String> listOfElementsIds = new ArrayList<>();
         List<String> listOfElementsNames = new ArrayList<>();
@@ -914,8 +888,6 @@ public class AppliFashionHomePage extends BasicActions {
             }
         }
 
-        //Assert all elements inside this test
-        //assertAll();
         return this;
     }
 
