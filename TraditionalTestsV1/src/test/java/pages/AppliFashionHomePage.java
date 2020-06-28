@@ -583,13 +583,6 @@ public class AppliFashionHomePage extends BasicActions {
         listOfVisibleStatusesForWith768.add(true);
         listOfVisibleStatusesForWith500.add(true);
 
-        listOfElementsNames.add("item 3 picture");
-        listOfElementsIds.add("product_2");
-        listOfVisibleStatusesForWith1200.add(false);
-        listOfVisibleStatusesForWith768.add(false);
-        listOfVisibleStatusesForWith500.add(false);
-
-
         listOfElementsNames.add("About us");
         listOfElementsIds.add("A____425");
         listOfVisibleStatusesForWith1200.add(true);

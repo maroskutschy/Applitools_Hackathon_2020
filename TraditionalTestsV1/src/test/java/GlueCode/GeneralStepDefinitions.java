@@ -172,35 +172,35 @@ public class GeneralStepDefinitions {
     @After
     public void closeBrowser(Scenario scenario) {
         driver.quit();
-        if (scenario.getName().contains("Applitools")) {
-            try {
-                //Choose if a difference in screenshot should fail your test, e.g. false will not fail your test
-                TestResults result = eyes.close(true);
-                String resultStr;
-                String url;
-                if (result == null) {
-                    resultStr = "Test aborted";
-                    url = "undefined";
-                } else {
-                    url = result.getUrl();
-                    int totalSteps = result.getSteps();
-                    if (result.isNew()) {
-                        resultStr = "New Baseline Created: " + totalSteps + " steps";
-                    } else if (result.isPassed()) {
-                        resultStr = "All steps passed:     " + totalSteps + " steps";
-                    } else {
-                        resultStr = "Test Failed     :     " + totalSteps + " steps";
-                        resultStr += " matches=" +  result.getMatches();      /*  matched the baseline */
-                        resultStr += " missing=" + result.getMissing();       /* missing in the test*/
-                        resultStr += " mismatches=" + result.getMismatches(); /* did not match the baseline */
-                    }
-                }
-                resultStr += "\n" + "results at " + url;
-                System.out.println(resultStr);
-            } finally {
-                eyes.abortIfNotClosed();
-            }
-        }
+//        if (scenario.getName().contains("Applitools")) {
+//            try {
+//                //Choose if a difference in screenshot should fail your test, e.g. false will not fail your test
+//                TestResults result = eyes.close(true);
+//                String resultStr;
+//                String url;
+//                if (result == null) {
+//                    resultStr = "Test aborted";
+//                    url = "undefined";
+//                } else {
+//                    url = result.getUrl();
+//                    int totalSteps = result.getSteps();
+//                    if (result.isNew()) {
+//                        resultStr = "New Baseline Created: " + totalSteps + " steps";
+//                    } else if (result.isPassed()) {
+//                        resultStr = "All steps passed:     " + totalSteps + " steps";
+//                    } else {
+//                        resultStr = "Test Failed     :     " + totalSteps + " steps";
+//                        resultStr += " matches=" +  result.getMatches();      /*  matched the baseline */
+//                        resultStr += " missing=" + result.getMissing();       /* missing in the test*/
+//                        resultStr += " mismatches=" + result.getMismatches(); /* did not match the baseline */
+//                    }
+//                }
+//                resultStr += "\n" + "results at " + url;
+//                System.out.println(resultStr);
+//            } finally {
+//                eyes.abortIfNotClosed();
+//            }
+//        }
         System.out.println("collectedResultOfValidation is: " + collectedResultOfValidation);
         Assert.assertTrue("One or more elements were not correctly displayed/hidden, check statuses Fail in 'Traditional-V1-TestResults.txt' in the root of the project", collectedResultOfValidation);
     }
@@ -216,6 +216,22 @@ public class GeneralStepDefinitions {
 
     public static Eyes getEyes() {
         return eyes;
+    }
+
+    @Given("^I resize the browser to \"([^\"]*)\" viewport width and \"([^\"]*)\" viewport height$")
+    public void resizeTheBrowser(String width, String height) throws Throwable {
+        driver.manage().window().setPosition(new Point(0,0));
+        // Setting inner window size, because this is real size of the window which we want to test, outer size with all other browser's
+        // elements (title bar, bookmarks bar, borders etc) will be bigger = via driver.manage().window().getSize() you will have highre number
+        // but when using http://howbigismybrowser.com/ you will get exact values as you specify
+        ArrayList padding = (ArrayList)((JavascriptExecutor) driver).executeScript(
+                "return [window.outerWidth-window.innerWidth, window.outerHeight-window.innerHeight];");
+        // set the inner size of the window to width x height (scrollbar included)
+        driver.manage().window().setSize(new Dimension(
+                (int)(Integer.parseInt(width) + (Long)padding.get(0)),
+                (int)(Integer.parseInt(height) + (Long)padding.get(1))
+        ));
+        System.out.println("Resolution is: " + width + ", " + height);
     }
 
 }
