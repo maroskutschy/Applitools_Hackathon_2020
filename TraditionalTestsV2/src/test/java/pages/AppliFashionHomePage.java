@@ -166,210 +166,204 @@ public class AppliFashionHomePage extends BasicActions {
         listOfVisibleStatusesForWith768.add(true);
         listOfVisibleStatusesForWith500.add(false);
 
-        listOfElementsNames.add("Add to favourites for item 1");
-        listOfElementsIds.add("I__tiheart__225");
-        listOfVisibleStatusesForWith1200.add(false);
-        listOfVisibleStatusesForWith768.add(true);
-        listOfVisibleStatusesForWith500.add(true);
-
-        listOfElementsNames.add("Add to compare for item 1");
-        listOfElementsIds.add("I__ticontrols__229");
-        listOfVisibleStatusesForWith1200.add(false);
-        listOfVisibleStatusesForWith768.add(true);
-        listOfVisibleStatusesForWith500.add(true);
-
-        listOfElementsNames.add("Add to cart for item 1");
-        listOfElementsIds.add("I__tishopping__233");
-        listOfVisibleStatusesForWith1200.add(false);
-        listOfVisibleStatusesForWith768.add(true);
-        listOfVisibleStatusesForWith500.add(true);
-
-        listOfElementsNames.add("Add to favourites for item 2");
-        listOfElementsIds.add("I__tiheart__250");
-        listOfVisibleStatusesForWith1200.add(false);
-        listOfVisibleStatusesForWith768.add(true);
-        listOfVisibleStatusesForWith500.add(true);
-
-        listOfElementsNames.add("Add to compare for item 2");
-        listOfElementsIds.add("I__ticontrols__254");
-        listOfVisibleStatusesForWith1200.add(false);
-        listOfVisibleStatusesForWith768.add(true);
-        listOfVisibleStatusesForWith500.add(true);
-
-        listOfElementsNames.add("Add to cart for item 2");
-        listOfElementsIds.add("I__tishopping__258");
-        listOfVisibleStatusesForWith1200.add(false);
-        listOfVisibleStatusesForWith768.add(true);
-        listOfVisibleStatusesForWith500.add(true);
-
-        listOfElementsNames.add("Add to favourites for item 3");
-        listOfElementsIds.add("I__tiheart__272");
-        listOfVisibleStatusesForWith1200.add(false);
-        listOfVisibleStatusesForWith768.add(true);
-        listOfVisibleStatusesForWith500.add(true);
-
-        listOfElementsNames.add("Add to compare for item 3");
-        listOfElementsIds.add("I__ticontrols__276");
-        listOfVisibleStatusesForWith1200.add(false);
-        listOfVisibleStatusesForWith768.add(true);
-        listOfVisibleStatusesForWith500.add(true);
-
-        listOfElementsNames.add("Add to cart for item 3");
-        listOfElementsIds.add("I__tishopping__280");
-        listOfVisibleStatusesForWith1200.add(false);
-        listOfVisibleStatusesForWith768.add(true);
-        listOfVisibleStatusesForWith500.add(true);
-
-        listOfElementsNames.add("Add to favourites for item 4");
-        listOfElementsIds.add("I__tiheart__294");
-        listOfVisibleStatusesForWith1200.add(false);
-        listOfVisibleStatusesForWith768.add(true);
-        listOfVisibleStatusesForWith500.add(true);
-
-        listOfElementsNames.add("Add to compare for item 4");
-        listOfElementsIds.add("I__ticontrols__298");
-        listOfVisibleStatusesForWith1200.add(false);
-        listOfVisibleStatusesForWith768.add(true);
-        listOfVisibleStatusesForWith500.add(true);
-
-        listOfElementsNames.add("Add to cart for item 4");
-        listOfElementsIds.add("I__tishopping__302");
-        listOfVisibleStatusesForWith1200.add(false);
-        listOfVisibleStatusesForWith768.add(true);
-        listOfVisibleStatusesForWith500.add(true);
-
-        listOfElementsNames.add("Add to favourites for item 5");
-        listOfElementsIds.add("I__tiheart__316");
-        listOfVisibleStatusesForWith1200.add(false);
-        listOfVisibleStatusesForWith768.add(true);
-        listOfVisibleStatusesForWith500.add(true);
-
-        listOfElementsNames.add("Add to compare for item 5");
-        listOfElementsIds.add("I__ticontrols__389");
-        listOfVisibleStatusesForWith1200.add(false);
-        listOfVisibleStatusesForWith768.add(true);
-        listOfVisibleStatusesForWith500.add(true);
-
-        listOfElementsNames.add("Add to cart for item 5");
-        listOfElementsIds.add("I__tishopping__393");
-        listOfVisibleStatusesForWith1200.add(false);
-        listOfVisibleStatusesForWith768.add(true);
-        listOfVisibleStatusesForWith500.add(true);
-
-        listOfElementsNames.add("Add to favourites for item 6");
-        listOfElementsIds.add("I__tiheart__338");
-        listOfVisibleStatusesForWith1200.add(false);
-        listOfVisibleStatusesForWith768.add(true);
-        listOfVisibleStatusesForWith500.add(true);
-
-        listOfElementsNames.add("Add to compare for item 6");
-        listOfElementsIds.add("I__ticontrols__342");
-        listOfVisibleStatusesForWith1200.add(false);
-        listOfVisibleStatusesForWith768.add(true);
-        listOfVisibleStatusesForWith500.add(true);
-
-        listOfElementsNames.add("Add to cart for item 6");
-        listOfElementsIds.add("I__tishopping__346");
-        listOfVisibleStatusesForWith1200.add(false);
-        listOfVisibleStatusesForWith768.add(true);
-        listOfVisibleStatusesForWith500.add(true);
-
-        listOfElementsNames.add("Add to favourites for item 7");
-        listOfElementsIds.add("I__tiheart__360");
-        listOfVisibleStatusesForWith1200.add(false);
-        listOfVisibleStatusesForWith768.add(true);
-        listOfVisibleStatusesForWith500.add(true);
-
-        listOfElementsNames.add("Add to compare for item 7");
-        listOfElementsIds.add("I__ticontrols__364");
-        listOfVisibleStatusesForWith1200.add(false);
-        listOfVisibleStatusesForWith768.add(true);
-        listOfVisibleStatusesForWith500.add(true);
-
-        listOfElementsNames.add("Add to cart for item 7");
-        listOfElementsIds.add("I__tishopping__368");
-        listOfVisibleStatusesForWith1200.add(false);
-        listOfVisibleStatusesForWith768.add(true);
-        listOfVisibleStatusesForWith500.add(true);
-
-        listOfElementsNames.add("Add to favourites for item 8");
-        listOfElementsIds.add("I__tiheart__385");
-        listOfVisibleStatusesForWith1200.add(false);
-        listOfVisibleStatusesForWith768.add(true);
-        listOfVisibleStatusesForWith500.add(true);
-
-        listOfElementsNames.add("Add to compare for item 8");
-        listOfElementsIds.add("I__ticontrols__389");
-        listOfVisibleStatusesForWith1200.add(false);
-        listOfVisibleStatusesForWith768.add(true);
-        listOfVisibleStatusesForWith500.add(true);
-
-        listOfElementsNames.add("Add to cart for item 8");
-        listOfElementsIds.add("I__tishopping__393");
-        listOfVisibleStatusesForWith1200.add(false);
-        listOfVisibleStatusesForWith768.add(true);
-        listOfVisibleStatusesForWith500.add(true);
-
-        listOfElementsNames.add("Add to favourites for item 9");
-        listOfElementsIds.add("A__tooltip__406");
-        listOfVisibleStatusesForWith1200.add(false);
-        listOfVisibleStatusesForWith768.add(true);
-        listOfVisibleStatusesForWith500.add(true);
-
-        listOfElementsNames.add("Add to compare for item 9");
-        listOfElementsIds.add("I__ticontrols__411");
-        listOfVisibleStatusesForWith1200.add(false);
-        listOfVisibleStatusesForWith768.add(true);
-        listOfVisibleStatusesForWith500.add(true);
-
-        listOfElementsNames.add("Add to cart for item 9");
-        listOfElementsIds.add("A__tooltip__414");
-        listOfVisibleStatusesForWith1200.add(false);
-        listOfVisibleStatusesForWith768.add(true);
-        listOfVisibleStatusesForWith500.add(true);
+//        listOfElementsNames.add("Add to favourites for item 1");
+//        listOfElementsIds.add("I__tiheart__225");
+//        listOfVisibleStatusesForWith1200.add(false);
+//        listOfVisibleStatusesForWith768.add(true);
+//        listOfVisibleStatusesForWith500.add(true);
+//
+//        listOfElementsNames.add("Add to compare for item 1");
+//        listOfElementsIds.add("I__ticontrols__229");
+//        listOfVisibleStatusesForWith1200.add(false);
+//        listOfVisibleStatusesForWith768.add(true);
+//        listOfVisibleStatusesForWith500.add(true);
+//
+//        listOfElementsNames.add("Add to cart for item 1");
+//        listOfElementsIds.add("I__tishopping__233");
+//        listOfVisibleStatusesForWith1200.add(false);
+//        listOfVisibleStatusesForWith768.add(true);
+//        listOfVisibleStatusesForWith500.add(true);
+//
+//        listOfElementsNames.add("Add to favourites for item 2");
+//        listOfElementsIds.add("I__tiheart__250");
+//        listOfVisibleStatusesForWith1200.add(false);
+//        listOfVisibleStatusesForWith768.add(true);
+//        listOfVisibleStatusesForWith500.add(true);
+//
+//        listOfElementsNames.add("Add to compare for item 2");
+//        listOfElementsIds.add("I__ticontrols__254");
+//        listOfVisibleStatusesForWith1200.add(false);
+//        listOfVisibleStatusesForWith768.add(true);
+//        listOfVisibleStatusesForWith500.add(true);
+//
+//        listOfElementsNames.add("Add to cart for item 2");
+//        listOfElementsIds.add("I__tishopping__258");
+//        listOfVisibleStatusesForWith1200.add(false);
+//        listOfVisibleStatusesForWith768.add(true);
+//        listOfVisibleStatusesForWith500.add(true);
+//
+//        listOfElementsNames.add("Add to favourites for item 3");
+//        listOfElementsIds.add("I__tiheart__272");
+//        listOfVisibleStatusesForWith1200.add(false);
+//        listOfVisibleStatusesForWith768.add(true);
+//        listOfVisibleStatusesForWith500.add(true);
+//
+//        listOfElementsNames.add("Add to compare for item 3");
+//        listOfElementsIds.add("I__ticontrols__276");
+//        listOfVisibleStatusesForWith1200.add(false);
+//        listOfVisibleStatusesForWith768.add(true);
+//        listOfVisibleStatusesForWith500.add(true);
+//
+//        listOfElementsNames.add("Add to cart for item 3");
+//        listOfElementsIds.add("I__tishopping__280");
+//        listOfVisibleStatusesForWith1200.add(false);
+//        listOfVisibleStatusesForWith768.add(true);
+//        listOfVisibleStatusesForWith500.add(true);
+//
+//        listOfElementsNames.add("Add to favourites for item 4");
+//        listOfElementsIds.add("I__tiheart__294");
+//        listOfVisibleStatusesForWith1200.add(false);
+//        listOfVisibleStatusesForWith768.add(true);
+//        listOfVisibleStatusesForWith500.add(true);
+//
+//        listOfElementsNames.add("Add to compare for item 4");
+//        listOfElementsIds.add("I__ticontrols__298");
+//        listOfVisibleStatusesForWith1200.add(false);
+//        listOfVisibleStatusesForWith768.add(true);
+//        listOfVisibleStatusesForWith500.add(true);
+//
+//        listOfElementsNames.add("Add to cart for item 4");
+//        listOfElementsIds.add("I__tishopping__302");
+//        listOfVisibleStatusesForWith1200.add(false);
+//        listOfVisibleStatusesForWith768.add(true);
+//        listOfVisibleStatusesForWith500.add(true);
+//
+//        listOfElementsNames.add("Add to favourites for item 5");
+//        listOfElementsIds.add("I__tiheart__316");
+//        listOfVisibleStatusesForWith1200.add(false);
+//        listOfVisibleStatusesForWith768.add(true);
+//        listOfVisibleStatusesForWith500.add(true);
+//
+//        listOfElementsNames.add("Add to compare for item 5");
+//        listOfElementsIds.add("I__ticontrols__389");
+//        listOfVisibleStatusesForWith1200.add(false);
+//        listOfVisibleStatusesForWith768.add(true);
+//        listOfVisibleStatusesForWith500.add(true);
+//
+//        listOfElementsNames.add("Add to cart for item 5");
+//        listOfElementsIds.add("I__tishopping__393");
+//        listOfVisibleStatusesForWith1200.add(false);
+//        listOfVisibleStatusesForWith768.add(true);
+//        listOfVisibleStatusesForWith500.add(true);
+//
+//        listOfElementsNames.add("Add to favourites for item 6");
+//        listOfElementsIds.add("I__tiheart__338");
+//        listOfVisibleStatusesForWith1200.add(false);
+//        listOfVisibleStatusesForWith768.add(true);
+//        listOfVisibleStatusesForWith500.add(true);
+//
+//        listOfElementsNames.add("Add to compare for item 6");
+//        listOfElementsIds.add("I__ticontrols__342");
+//        listOfVisibleStatusesForWith1200.add(false);
+//        listOfVisibleStatusesForWith768.add(true);
+//        listOfVisibleStatusesForWith500.add(true);
+//
+//        listOfElementsNames.add("Add to cart for item 6");
+//        listOfElementsIds.add("I__tishopping__346");
+//        listOfVisibleStatusesForWith1200.add(false);
+//        listOfVisibleStatusesForWith768.add(true);
+//        listOfVisibleStatusesForWith500.add(true);
+//
+//        listOfElementsNames.add("Add to favourites for item 7");
+//        listOfElementsIds.add("I__tiheart__360");
+//        listOfVisibleStatusesForWith1200.add(false);
+//        listOfVisibleStatusesForWith768.add(true);
+//        listOfVisibleStatusesForWith500.add(true);
+//
+//        listOfElementsNames.add("Add to compare for item 7");
+//        listOfElementsIds.add("I__ticontrols__364");
+//        listOfVisibleStatusesForWith1200.add(false);
+//        listOfVisibleStatusesForWith768.add(true);
+//        listOfVisibleStatusesForWith500.add(true);
+//
+//        listOfElementsNames.add("Add to cart for item 7");
+//        listOfElementsIds.add("I__tishopping__368");
+//        listOfVisibleStatusesForWith1200.add(false);
+//        listOfVisibleStatusesForWith768.add(true);
+//        listOfVisibleStatusesForWith500.add(true);
+//
+//        listOfElementsNames.add("Add to favourites for item 8");
+//        listOfElementsIds.add("I__tiheart__385");
+//        listOfVisibleStatusesForWith1200.add(false);
+//        listOfVisibleStatusesForWith768.add(true);
+//        listOfVisibleStatusesForWith500.add(true);
+//
+//        listOfElementsNames.add("Add to compare for item 8");
+//        listOfElementsIds.add("I__ticontrols__389");
+//        listOfVisibleStatusesForWith1200.add(false);
+//        listOfVisibleStatusesForWith768.add(true);
+//        listOfVisibleStatusesForWith500.add(true);
+//
+//        listOfElementsNames.add("Add to cart for item 8");
+//        listOfElementsIds.add("I__tishopping__393");
+//        listOfVisibleStatusesForWith1200.add(false);
+//        listOfVisibleStatusesForWith768.add(true);
+//        listOfVisibleStatusesForWith500.add(true);
+//
+//        listOfElementsNames.add("Add to favourites for item 9");
+//        listOfElementsIds.add("A__tooltip__406");
+//        listOfVisibleStatusesForWith1200.add(false);
+//        listOfVisibleStatusesForWith768.add(true);
+//        listOfVisibleStatusesForWith500.add(true);
+//
+//        listOfElementsNames.add("Add to compare for item 9");
+//        listOfElementsIds.add("I__ticontrols__411");
+//        listOfVisibleStatusesForWith1200.add(false);
+//        listOfVisibleStatusesForWith768.add(true);
+//        listOfVisibleStatusesForWith500.add(true);
+//
+//        listOfElementsNames.add("Add to cart for item 9");
+//        listOfElementsIds.add("A__tooltip__414");
+//        listOfVisibleStatusesForWith1200.add(false);
+//        listOfVisibleStatusesForWith768.add(true);
+//        listOfVisibleStatusesForWith500.add(true);
 
         listOfElementsNames.add("About us");
-        listOfElementsIds.add("A____425");
+        listOfElementsIds.add("A____426");
         listOfVisibleStatusesForWith1200.add(true);
         listOfVisibleStatusesForWith768.add(true);
         listOfVisibleStatusesForWith500.add(false);
 
         listOfElementsNames.add("Faq");
-        listOfElementsIds.add("A____427");
+        listOfElementsIds.add("A____428");
         listOfVisibleStatusesForWith1200.add(true);
         listOfVisibleStatusesForWith768.add(true);
         listOfVisibleStatusesForWith500.add(false);
 
         listOfElementsNames.add("Help");
-        listOfElementsIds.add("A____429");
+        listOfElementsIds.add("A____430");
         listOfVisibleStatusesForWith1200.add(true);
         listOfVisibleStatusesForWith768.add(true);
         listOfVisibleStatusesForWith500.add(false);
 
         listOfElementsNames.add("My account");
-        listOfElementsIds.add("A____431");
+        listOfElementsIds.add("A____432");
         listOfVisibleStatusesForWith1200.add(true);
         listOfVisibleStatusesForWith768.add(true);
         listOfVisibleStatusesForWith500.add(false);
 
         listOfElementsNames.add("Blog");
-        listOfElementsIds.add("A____433");
+        listOfElementsIds.add("A____434");
         listOfVisibleStatusesForWith1200.add(true);
         listOfVisibleStatusesForWith768.add(true);
         listOfVisibleStatusesForWith500.add(false);
 
         listOfElementsNames.add("Contacts");
-        listOfElementsIds.add("A____435");
+        listOfElementsIds.add("A____436");
         listOfVisibleStatusesForWith1200.add(true);
         listOfVisibleStatusesForWith768.add(true);
         listOfVisibleStatusesForWith500.add(false);
-
-        listOfElementsNames.add("About us");
-        listOfElementsIds.add("A____425");
-        listOfVisibleStatusesForWith1200.add(true);
-        listOfVisibleStatusesForWith768.add(true);
-        listOfVisibleStatusesForWith500.add(false);
-
+        
         listOfElementsNames.add("Email newsletter");
         listOfElementsIds.add("email_newsletter");
         listOfVisibleStatusesForWith1200.add(true);
@@ -377,13 +371,13 @@ public class AppliFashionHomePage extends BasicActions {
         listOfVisibleStatusesForWith500.add(false);
 
         listOfElementsNames.add("Address");
-        listOfElementsIds.add("LI____440");
+        listOfElementsIds.add("LI____441");
         listOfVisibleStatusesForWith1200.add(true);
         listOfVisibleStatusesForWith768.add(true);
         listOfVisibleStatusesForWith500.add(false);
 
         listOfElementsNames.add("Email");
-        listOfElementsIds.add("LI____443");
+        listOfElementsIds.add("LI____444");
         listOfVisibleStatusesForWith1200.add(true);
         listOfVisibleStatusesForWith768.add(true);
         listOfVisibleStatusesForWith500.add(false);
@@ -519,41 +513,41 @@ public class AppliFashionHomePage extends BasicActions {
         listOfVisibleStatusesForWith768.add(true);
         listOfVisibleStatusesForWith500.add(false);
 
-        listOfElementsNames.add("Add to favourites for item 1");
-        listOfElementsIds.add("I__tiheart__225");
-        listOfVisibleStatusesForWith1200.add(false);
-        listOfVisibleStatusesForWith768.add(true);
-        listOfVisibleStatusesForWith500.add(true);
-
-        listOfElementsNames.add("Add to compare for item 1");
-        listOfElementsIds.add("I__ticontrols__229");
-        listOfVisibleStatusesForWith1200.add(false);
-        listOfVisibleStatusesForWith768.add(true);
-        listOfVisibleStatusesForWith500.add(true);
-
-        listOfElementsNames.add("Add to cart for item 1");
-        listOfElementsIds.add("I__tishopping__233");
-        listOfVisibleStatusesForWith1200.add(false);
-        listOfVisibleStatusesForWith768.add(true);
-        listOfVisibleStatusesForWith500.add(true);
-
-        listOfElementsNames.add("Add to favourites for item 2");
-        listOfElementsIds.add("I__tiheart__247");
-        listOfVisibleStatusesForWith1200.add(false);
-        listOfVisibleStatusesForWith768.add(true);
-        listOfVisibleStatusesForWith500.add(true);
-
-        listOfElementsNames.add("Add to compare for item 2");
-        listOfElementsIds.add("I__ticontrols__251");
-        listOfVisibleStatusesForWith1200.add(false);
-        listOfVisibleStatusesForWith768.add(true);
-        listOfVisibleStatusesForWith500.add(true);
-
-        listOfElementsNames.add("Add to cart for item 2");
-        listOfElementsIds.add("I__tishopping__255");
-        listOfVisibleStatusesForWith1200.add(false);
-        listOfVisibleStatusesForWith768.add(true);
-        listOfVisibleStatusesForWith500.add(true);
+//        listOfElementsNames.add("Add to favourites for item 1");
+//        listOfElementsIds.add("I__tiheart__225");
+//        listOfVisibleStatusesForWith1200.add(false);
+//        listOfVisibleStatusesForWith768.add(true);
+//        listOfVisibleStatusesForWith500.add(true);
+//
+//        listOfElementsNames.add("Add to compare for item 1");
+//        listOfElementsIds.add("I__ticontrols__229");
+//        listOfVisibleStatusesForWith1200.add(false);
+//        listOfVisibleStatusesForWith768.add(true);
+//        listOfVisibleStatusesForWith500.add(true);
+//
+//        listOfElementsNames.add("Add to cart for item 1");
+//        listOfElementsIds.add("I__tishopping__233");
+//        listOfVisibleStatusesForWith1200.add(false);
+//        listOfVisibleStatusesForWith768.add(true);
+//        listOfVisibleStatusesForWith500.add(true);
+//
+//        listOfElementsNames.add("Add to favourites for item 2");
+//        listOfElementsIds.add("I__tiheart__247");
+//        listOfVisibleStatusesForWith1200.add(false);
+//        listOfVisibleStatusesForWith768.add(true);
+//        listOfVisibleStatusesForWith500.add(true);
+//
+//        listOfElementsNames.add("Add to compare for item 2");
+//        listOfElementsIds.add("I__ticontrols__251");
+//        listOfVisibleStatusesForWith1200.add(false);
+//        listOfVisibleStatusesForWith768.add(true);
+//        listOfVisibleStatusesForWith500.add(true);
+//
+//        listOfElementsNames.add("Add to cart for item 2");
+//        listOfElementsIds.add("I__tishopping__255");
+//        listOfVisibleStatusesForWith1200.add(false);
+//        listOfVisibleStatusesForWith768.add(true);
+//        listOfVisibleStatusesForWith500.add(true);
 
         listOfElementsNames.add("item 1 picture");
         listOfElementsIds.add("product_1");
@@ -568,43 +562,43 @@ public class AppliFashionHomePage extends BasicActions {
         listOfVisibleStatusesForWith500.add(true);
 
         listOfElementsNames.add("About us");
-        listOfElementsIds.add("A____425");
+        listOfElementsIds.add("A____426");
         listOfVisibleStatusesForWith1200.add(true);
         listOfVisibleStatusesForWith768.add(true);
         listOfVisibleStatusesForWith500.add(false);
 
         listOfElementsNames.add("Faq");
-        listOfElementsIds.add("A____427");
+        listOfElementsIds.add("A____428");
         listOfVisibleStatusesForWith1200.add(true);
         listOfVisibleStatusesForWith768.add(true);
         listOfVisibleStatusesForWith500.add(false);
 
         listOfElementsNames.add("Help");
-        listOfElementsIds.add("A____429");
+        listOfElementsIds.add("A____430");
         listOfVisibleStatusesForWith1200.add(true);
         listOfVisibleStatusesForWith768.add(true);
         listOfVisibleStatusesForWith500.add(false);
 
         listOfElementsNames.add("My account");
-        listOfElementsIds.add("A____431");
+        listOfElementsIds.add("A____432");
         listOfVisibleStatusesForWith1200.add(true);
         listOfVisibleStatusesForWith768.add(true);
         listOfVisibleStatusesForWith500.add(false);
 
         listOfElementsNames.add("Blog");
-        listOfElementsIds.add("A____433");
+        listOfElementsIds.add("A____434");
         listOfVisibleStatusesForWith1200.add(true);
         listOfVisibleStatusesForWith768.add(true);
         listOfVisibleStatusesForWith500.add(false);
 
         listOfElementsNames.add("Contacts");
-        listOfElementsIds.add("A____435");
+        listOfElementsIds.add("A____436");
         listOfVisibleStatusesForWith1200.add(true);
         listOfVisibleStatusesForWith768.add(true);
         listOfVisibleStatusesForWith500.add(false);
 
         listOfElementsNames.add("About us");
-        listOfElementsIds.add("A____425");
+        listOfElementsIds.add("A____426");
         listOfVisibleStatusesForWith1200.add(true);
         listOfVisibleStatusesForWith768.add(true);
         listOfVisibleStatusesForWith500.add(false);
@@ -616,13 +610,13 @@ public class AppliFashionHomePage extends BasicActions {
         listOfVisibleStatusesForWith500.add(false);
 
         listOfElementsNames.add("Address");
-        listOfElementsIds.add("LI____440");
+        listOfElementsIds.add("LI____441");
         listOfVisibleStatusesForWith1200.add(true);
         listOfVisibleStatusesForWith768.add(true);
         listOfVisibleStatusesForWith500.add(false);
 
         listOfElementsNames.add("Email");
-        listOfElementsIds.add("LI____443");
+        listOfElementsIds.add("LI____444");
         listOfVisibleStatusesForWith1200.add(true);
         listOfVisibleStatusesForWith768.add(true);
         listOfVisibleStatusesForWith500.add(false);
@@ -734,7 +728,7 @@ public class AppliFashionHomePage extends BasicActions {
         listOfVisibleStatusesForWith500.add(true);
 
         listOfElementsNames.add("Number of reviews");
-        listOfElementsIds.add("EM____82");
+        listOfElementsIds.add("EM__ratingcoun__82");
         listOfVisibleStatusesForWith1200.add(true);
         listOfVisibleStatusesForWith768.add(true);
         listOfVisibleStatusesForWith500.add(true);
