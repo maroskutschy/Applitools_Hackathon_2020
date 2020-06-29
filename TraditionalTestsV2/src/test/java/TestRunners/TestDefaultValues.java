@@ -7,8 +7,8 @@ public class TestDefaultValues {
   public static final String DEFAULT_OPERATING_SYSTEM = "Windows";
   //public static final String DEFAULT_OPERATING_SYSTEM = "MacOS";
   public static final String DEFAULT_BROWSER = "Chrome";
-  public static final String DEFAULT_LINK = "https://demo.applitools.com/gridHackathonV1.html#0";
-  //public static final String DEFAULT_LINK = "https://demo.applitools.com/gridHackathonV2.html#0";
+  //public static final String DEFAULT_LINK = "https://demo.applitools.com/gridHackathonV1.html#0";
+  public static final String DEFAULT_LINK = "https://demo.applitools.com/gridHackathonV2.html#0";
 
   private static String operatingSystem;
   private static String browser;

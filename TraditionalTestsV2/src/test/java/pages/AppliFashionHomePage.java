@@ -727,6 +727,30 @@ public class AppliFashionHomePage extends BasicActions {
         listOfVisibleStatusesForWith768.add(true);
         listOfVisibleStatusesForWith500.add(true);
 
+        listOfElementsNames.add("1st star");
+        listOfElementsIds.add("I__iconstarvo__77");
+        listOfVisibleStatusesForWith1200.add(true);
+        listOfVisibleStatusesForWith768.add(true);
+        listOfVisibleStatusesForWith500.add(true);
+
+        listOfElementsNames.add("2nd star");
+        listOfElementsIds.add("I__iconstarvo__78");
+        listOfVisibleStatusesForWith1200.add(true);
+        listOfVisibleStatusesForWith768.add(true);
+        listOfVisibleStatusesForWith500.add(true);
+
+        listOfElementsNames.add("3rd star");
+        listOfElementsIds.add("I__iconstarvo__79");
+        listOfVisibleStatusesForWith1200.add(true);
+        listOfVisibleStatusesForWith768.add(true);
+        listOfVisibleStatusesForWith500.add(true);
+
+        listOfElementsNames.add("4th star");
+        listOfElementsIds.add("I__iconstarvo__80");
+        listOfVisibleStatusesForWith1200.add(true);
+        listOfVisibleStatusesForWith768.add(true);
+        listOfVisibleStatusesForWith500.add(true);
+
         listOfElementsNames.add("Number of reviews");
         listOfElementsIds.add("EM__ratingcoun__82");
         listOfVisibleStatusesForWith1200.add(true);
@@ -915,6 +939,17 @@ public class AppliFashionHomePage extends BasicActions {
     public AppliFashionHomePage validateValueOfNewPrice (String expectedValue, String task, String browser, String width, String height, String deviceType) throws InterruptedException {
         hackathonReporter(task, "Expected Value of New Price should be " + expectedValue + ", actual Value is: " + newPrice.getText(), "new_price", browser, width, height, deviceType,
                 expectedValue.equalsIgnoreCase(newPrice.getText()));
+        return this;
+    }
+
+    public AppliFashionHomePage validateIfShoeImageIsDisplayed (String task, String browser, String width, String height, String deviceType) throws InterruptedException {
+        Boolean result = false;
+        String value = driver.findElement(By.id("shoe_img")).getAttribute("style");
+        if (!value.equalsIgnoreCase("")){
+            result = true;
+        }
+        hackathonReporter(task, "Shoe image should be displayed, is it really displayed ?: " + result, "'shoe_img' with attribute 'style'", browser, width, height, deviceType,
+                result);
         return this;
     }
 

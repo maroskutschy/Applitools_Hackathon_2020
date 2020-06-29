@@ -69,4 +69,10 @@ public class AppliFashionStepDefinitios {
         appliFashionHomePage.validateValueOfNewPrice(expectedValue, task, browser, width, height, deviceType);
     }
 
+    @Given ("^I validate if shoe image is displayed for task No \"([^\"]*)\" and \"([^\"]*)\" browser and \"([^\"]*)\" viewport width and \"([^\"]*)\" viewport height and \"([^\"]*)\" device type$")
+    public void validateIfShoeImageIsDisplayed(String task, String browser, String width, String height, String deviceType) throws Throwable {
+        appliFashionHomePage = new AppliFashionHomePage(driver);
+        appliFashionHomePage.validateIfShoeImageIsDisplayed(task, browser, width, height, deviceType);
+    }
+
 }

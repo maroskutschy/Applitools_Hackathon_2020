@@ -14,6 +14,7 @@ Feature: AppliFashion Traditional
     When I click on item number "1" in the selection
     Then I validate that selected value of size option is "Small (S)" for task No "3" and "<browser>" browser and "<width>" viewport width and "<height>" viewport height and "<device type>" device type
     And I validate that value of new price is "$33.00" for task No "3" and "<browser>" browser and "<width>" viewport width and "<height>" viewport height and "<device type>" device type
+    And I validate if shoe image is displayed for task No "3" and "<browser>" browser and "<width>" viewport width and "<height>" viewport height and "<device type>" device type
     And I validate after click on item if all relevant elements on the Home page for task No "3" and "<browser>" browser and "<width>" viewport width and "<height>" viewport height and "<device type>" device type are correctly displayed
 
     Examples:
