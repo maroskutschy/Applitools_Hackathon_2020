@@ -82,6 +82,7 @@ Task: 2, Test Name: Address should be displayed, DOM Id: LI____440, Browser: Chr
 Task: 2, Test Name: Email should be displayed, DOM Id: LI____443, Browser: Chrome, Viewport: 1200  x 700, Device: Laptop, Status: Pass
 Task: 3, Test Name: Expected Value of Selected Size Option should be Small (S), actual Value is: Small (S), DOM Id: XPATH = //div[@class='nice-select wide']/span, Browser: Chrome, Viewport: 1200  x 700, Device: Laptop, Status: Pass
 Task: 3, Test Name: Expected Value of New Price should be $33.00, actual Value is: $33.00, DOM Id: new_price, Browser: Chrome, Viewport: 1200  x 700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Shoe image should be displayed, is it really displayed ?: true, DOM Id: 'shoe_img' with attribute 'style', Browser: Chrome, Viewport: 1200  x 700, Device: Laptop, Status: Pass
 Task: 3, Test Name: Main menu should be displayed, DOM Id: DIV__mainmenu__15, Browser: Chrome, Viewport: 1200  x 700, Device: Laptop, Status: Pass
 Task: 3, Test Name: Search field should be displayed, DOM Id: DIV__customsear__41, Browser: Chrome, Viewport: 1200  x 700, Device: Laptop, Status: Pass
 Task: 3, Test Name: Search icon on the right should be displayed, DOM Id: I__headericon__44, Browser: Chrome, Viewport: 1200  x 700, Device: Laptop, Status: Pass
@@ -91,6 +92,10 @@ Task: 3, Test Name: Wishlist should be displayed, DOM Id: A__wishlist__52, Brows
 Task: 3, Test Name: Cart should be displayed, DOM Id: DIV__dropdowndr__48, Browser: Chrome, Viewport: 1200  x 700, Device: Laptop, Status: Pass
 Task: 3, Test Name: Items in cart should be displayed, DOM Id: STRONG____50, Browser: Chrome, Viewport: 1200  x 700, Device: Laptop, Status: Pass
 Task: 3, Test Name: Product code should be displayed, DOM Id: SMALL____84, Browser: Chrome, Viewport: 1200  x 700, Device: Laptop, Status: Pass
+Task: 3, Test Name: 1st star should be displayed, DOM Id: I__iconstarvo__77, Browser: Chrome, Viewport: 1200  x 700, Device: Laptop, Status: Pass
+Task: 3, Test Name: 2nd star should be displayed, DOM Id: I__iconstarvo__78, Browser: Chrome, Viewport: 1200  x 700, Device: Laptop, Status: Pass
+Task: 3, Test Name: 3rd star should be displayed, DOM Id: I__iconstarvo__79, Browser: Chrome, Viewport: 1200  x 700, Device: Laptop, Status: Pass
+Task: 3, Test Name: 4th star should be displayed, DOM Id: I__iconstarvo__80, Browser: Chrome, Viewport: 1200  x 700, Device: Laptop, Status: Pass
 Task: 3, Test Name: Number of reviews should be displayed, DOM Id: EM____82, Browser: Chrome, Viewport: 1200  x 700, Device: Laptop, Status: Pass
 Task: 3, Test Name: Add to Cart button should be displayed, DOM Id: A__btn__114, Browser: Chrome, Viewport: 1200  x 700, Device: Laptop, Status: Pass
 Task: 3, Test Name: Quantity editbox should be displayed, DOM Id: DIV__numbersrow__102, Browser: Chrome, Viewport: 1200  x 700, Device: Laptop, Status: Pass
@@ -194,6 +199,7 @@ Task: 2, Test Name: Address should be displayed, DOM Id: LI____440, Browser: Fir
 Task: 2, Test Name: Email should be displayed, DOM Id: LI____443, Browser: Firefox, Viewport: 1200  x 700, Device: Laptop, Status: Pass
 Task: 3, Test Name: Expected Value of Selected Size Option should be Small (S), actual Value is: Small (S), DOM Id: XPATH = //div[@class='nice-select wide']/span, Browser: Firefox, Viewport: 1200  x 700, Device: Laptop, Status: Pass
 Task: 3, Test Name: Expected Value of New Price should be $33.00, actual Value is: $33.00, DOM Id: new_price, Browser: Firefox, Viewport: 1200  x 700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Shoe image should be displayed, is it really displayed ?: true, DOM Id: 'shoe_img' with attribute 'style', Browser: Firefox, Viewport: 1200  x 700, Device: Laptop, Status: Pass
 Task: 3, Test Name: Main menu should be displayed, DOM Id: DIV__mainmenu__15, Browser: Firefox, Viewport: 1200  x 700, Device: Laptop, Status: Pass
 Task: 3, Test Name: Search field should be displayed, DOM Id: DIV__customsear__41, Browser: Firefox, Viewport: 1200  x 700, Device: Laptop, Status: Pass
 Task: 3, Test Name: Search icon on the right should be displayed, DOM Id: I__headericon__44, Browser: Firefox, Viewport: 1200  x 700, Device: Laptop, Status: Pass
@@ -203,6 +209,10 @@ Task: 3, Test Name: Wishlist should be displayed, DOM Id: A__wishlist__52, Brows
 Task: 3, Test Name: Cart should be displayed, DOM Id: DIV__dropdowndr__48, Browser: Firefox, Viewport: 1200  x 700, Device: Laptop, Status: Pass
 Task: 3, Test Name: Items in cart should be displayed, DOM Id: STRONG____50, Browser: Firefox, Viewport: 1200  x 700, Device: Laptop, Status: Pass
 Task: 3, Test Name: Product code should be displayed, DOM Id: SMALL____84, Browser: Firefox, Viewport: 1200  x 700, Device: Laptop, Status: Pass
+Task: 3, Test Name: 1st star should be displayed, DOM Id: I__iconstarvo__77, Browser: Firefox, Viewport: 1200  x 700, Device: Laptop, Status: Pass
+Task: 3, Test Name: 2nd star should be displayed, DOM Id: I__iconstarvo__78, Browser: Firefox, Viewport: 1200  x 700, Device: Laptop, Status: Pass
+Task: 3, Test Name: 3rd star should be displayed, DOM Id: I__iconstarvo__79, Browser: Firefox, Viewport: 1200  x 700, Device: Laptop, Status: Pass
+Task: 3, Test Name: 4th star should be displayed, DOM Id: I__iconstarvo__80, Browser: Firefox, Viewport: 1200  x 700, Device: Laptop, Status: Pass
 Task: 3, Test Name: Number of reviews should be displayed, DOM Id: EM____82, Browser: Firefox, Viewport: 1200  x 700, Device: Laptop, Status: Pass
 Task: 3, Test Name: Add to Cart button should be displayed, DOM Id: A__btn__114, Browser: Firefox, Viewport: 1200  x 700, Device: Laptop, Status: Pass
 Task: 3, Test Name: Quantity editbox should be displayed, DOM Id: DIV__numbersrow__102, Browser: Firefox, Viewport: 1200  x 700, Device: Laptop, Status: Pass
@@ -306,6 +316,7 @@ Task: 2, Test Name: Address should be displayed, DOM Id: LI____440, Browser: Edg
 Task: 2, Test Name: Email should be displayed, DOM Id: LI____443, Browser: Edge Chromium, Viewport: 1200  x 700, Device: Laptop, Status: Pass
 Task: 3, Test Name: Expected Value of Selected Size Option should be Small (S), actual Value is: Small (S), DOM Id: XPATH = //div[@class='nice-select wide']/span, Browser: Edge Chromium, Viewport: 1200  x 700, Device: Laptop, Status: Pass
 Task: 3, Test Name: Expected Value of New Price should be $33.00, actual Value is: $33.00, DOM Id: new_price, Browser: Edge Chromium, Viewport: 1200  x 700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Shoe image should be displayed, is it really displayed ?: true, DOM Id: 'shoe_img' with attribute 'style', Browser: Edge Chromium, Viewport: 1200  x 700, Device: Laptop, Status: Pass
 Task: 3, Test Name: Main menu should be displayed, DOM Id: DIV__mainmenu__15, Browser: Edge Chromium, Viewport: 1200  x 700, Device: Laptop, Status: Pass
 Task: 3, Test Name: Search field should be displayed, DOM Id: DIV__customsear__41, Browser: Edge Chromium, Viewport: 1200  x 700, Device: Laptop, Status: Pass
 Task: 3, Test Name: Search icon on the right should be displayed, DOM Id: I__headericon__44, Browser: Edge Chromium, Viewport: 1200  x 700, Device: Laptop, Status: Pass
@@ -315,6 +326,10 @@ Task: 3, Test Name: Wishlist should be displayed, DOM Id: A__wishlist__52, Brows
 Task: 3, Test Name: Cart should be displayed, DOM Id: DIV__dropdowndr__48, Browser: Edge Chromium, Viewport: 1200  x 700, Device: Laptop, Status: Pass
 Task: 3, Test Name: Items in cart should be displayed, DOM Id: STRONG____50, Browser: Edge Chromium, Viewport: 1200  x 700, Device: Laptop, Status: Pass
 Task: 3, Test Name: Product code should be displayed, DOM Id: SMALL____84, Browser: Edge Chromium, Viewport: 1200  x 700, Device: Laptop, Status: Pass
+Task: 3, Test Name: 1st star should be displayed, DOM Id: I__iconstarvo__77, Browser: Edge Chromium, Viewport: 1200  x 700, Device: Laptop, Status: Pass
+Task: 3, Test Name: 2nd star should be displayed, DOM Id: I__iconstarvo__78, Browser: Edge Chromium, Viewport: 1200  x 700, Device: Laptop, Status: Pass
+Task: 3, Test Name: 3rd star should be displayed, DOM Id: I__iconstarvo__79, Browser: Edge Chromium, Viewport: 1200  x 700, Device: Laptop, Status: Pass
+Task: 3, Test Name: 4th star should be displayed, DOM Id: I__iconstarvo__80, Browser: Edge Chromium, Viewport: 1200  x 700, Device: Laptop, Status: Pass
 Task: 3, Test Name: Number of reviews should be displayed, DOM Id: EM____82, Browser: Edge Chromium, Viewport: 1200  x 700, Device: Laptop, Status: Pass
 Task: 3, Test Name: Add to Cart button should be displayed, DOM Id: A__btn__114, Browser: Edge Chromium, Viewport: 1200  x 700, Device: Laptop, Status: Pass
 Task: 3, Test Name: Quantity editbox should be displayed, DOM Id: DIV__numbersrow__102, Browser: Edge Chromium, Viewport: 1200  x 700, Device: Laptop, Status: Pass
@@ -418,6 +433,7 @@ Task: 2, Test Name: Address should be displayed, DOM Id: LI____440, Browser: Chr
 Task: 2, Test Name: Email should be displayed, DOM Id: LI____443, Browser: Chrome, Viewport: 768  x 700, Device: Tablet, Status: Pass
 Task: 3, Test Name: Expected Value of Selected Size Option should be Small (S), actual Value is: Small (S), DOM Id: XPATH = //div[@class='nice-select wide']/span, Browser: Chrome, Viewport: 768  x 700, Device: Tablet, Status: Pass
 Task: 3, Test Name: Expected Value of New Price should be $33.00, actual Value is: $33.00, DOM Id: new_price, Browser: Chrome, Viewport: 768  x 700, Device: Tablet, Status: Pass
+Task: 3, Test Name: Shoe image should be displayed, is it really displayed ?: true, DOM Id: 'shoe_img' with attribute 'style', Browser: Chrome, Viewport: 768  x 700, Device: Tablet, Status: Pass
 Task: 3, Test Name: Main menu should not be displayed, DOM Id: DIV__mainmenu__15, Browser: Chrome, Viewport: 768  x 700, Device: Tablet, Status: Pass
 Task: 3, Test Name: Search field should be displayed, DOM Id: DIV__customsear__41, Browser: Chrome, Viewport: 768  x 700, Device: Tablet, Status: Pass
 Task: 3, Test Name: Search icon on the right should be displayed, DOM Id: I__headericon__44, Browser: Chrome, Viewport: 768  x 700, Device: Tablet, Status: Pass
@@ -427,6 +443,10 @@ Task: 3, Test Name: Wishlist should be displayed, DOM Id: A__wishlist__52, Brows
 Task: 3, Test Name: Cart should be displayed, DOM Id: DIV__dropdowndr__48, Browser: Chrome, Viewport: 768  x 700, Device: Tablet, Status: Pass
 Task: 3, Test Name: Items in cart should be displayed, DOM Id: STRONG____50, Browser: Chrome, Viewport: 768  x 700, Device: Tablet, Status: Pass
 Task: 3, Test Name: Product code should be displayed, DOM Id: SMALL____84, Browser: Chrome, Viewport: 768  x 700, Device: Tablet, Status: Pass
+Task: 3, Test Name: 1st star should be displayed, DOM Id: I__iconstarvo__77, Browser: Chrome, Viewport: 768  x 700, Device: Tablet, Status: Pass
+Task: 3, Test Name: 2nd star should be displayed, DOM Id: I__iconstarvo__78, Browser: Chrome, Viewport: 768  x 700, Device: Tablet, Status: Pass
+Task: 3, Test Name: 3rd star should be displayed, DOM Id: I__iconstarvo__79, Browser: Chrome, Viewport: 768  x 700, Device: Tablet, Status: Pass
+Task: 3, Test Name: 4th star should be displayed, DOM Id: I__iconstarvo__80, Browser: Chrome, Viewport: 768  x 700, Device: Tablet, Status: Pass
 Task: 3, Test Name: Number of reviews should be displayed, DOM Id: EM____82, Browser: Chrome, Viewport: 768  x 700, Device: Tablet, Status: Pass
 Task: 3, Test Name: Add to Cart button should be displayed, DOM Id: A__btn__114, Browser: Chrome, Viewport: 768  x 700, Device: Tablet, Status: Pass
 Task: 3, Test Name: Quantity editbox should be displayed, DOM Id: DIV__numbersrow__102, Browser: Chrome, Viewport: 768  x 700, Device: Tablet, Status: Pass
@@ -530,6 +550,7 @@ Task: 2, Test Name: Address should be displayed, DOM Id: LI____440, Browser: Fir
 Task: 2, Test Name: Email should be displayed, DOM Id: LI____443, Browser: Firefox, Viewport: 768  x 700, Device: Tablet, Status: Pass
 Task: 3, Test Name: Expected Value of Selected Size Option should be Small (S), actual Value is: Small (S), DOM Id: XPATH = //div[@class='nice-select wide']/span, Browser: Firefox, Viewport: 768  x 700, Device: Tablet, Status: Pass
 Task: 3, Test Name: Expected Value of New Price should be $33.00, actual Value is: $33.00, DOM Id: new_price, Browser: Firefox, Viewport: 768  x 700, Device: Tablet, Status: Pass
+Task: 3, Test Name: Shoe image should be displayed, is it really displayed ?: true, DOM Id: 'shoe_img' with attribute 'style', Browser: Firefox, Viewport: 768  x 700, Device: Tablet, Status: Pass
 Task: 3, Test Name: Main menu should not be displayed, DOM Id: DIV__mainmenu__15, Browser: Firefox, Viewport: 768  x 700, Device: Tablet, Status: Pass
 Task: 3, Test Name: Search field should be displayed, DOM Id: DIV__customsear__41, Browser: Firefox, Viewport: 768  x 700, Device: Tablet, Status: Pass
 Task: 3, Test Name: Search icon on the right should be displayed, DOM Id: I__headericon__44, Browser: Firefox, Viewport: 768  x 700, Device: Tablet, Status: Pass
@@ -539,6 +560,10 @@ Task: 3, Test Name: Wishlist should be displayed, DOM Id: A__wishlist__52, Brows
 Task: 3, Test Name: Cart should be displayed, DOM Id: DIV__dropdowndr__48, Browser: Firefox, Viewport: 768  x 700, Device: Tablet, Status: Pass
 Task: 3, Test Name: Items in cart should be displayed, DOM Id: STRONG____50, Browser: Firefox, Viewport: 768  x 700, Device: Tablet, Status: Pass
 Task: 3, Test Name: Product code should be displayed, DOM Id: SMALL____84, Browser: Firefox, Viewport: 768  x 700, Device: Tablet, Status: Pass
+Task: 3, Test Name: 1st star should be displayed, DOM Id: I__iconstarvo__77, Browser: Firefox, Viewport: 768  x 700, Device: Tablet, Status: Pass
+Task: 3, Test Name: 2nd star should be displayed, DOM Id: I__iconstarvo__78, Browser: Firefox, Viewport: 768  x 700, Device: Tablet, Status: Pass
+Task: 3, Test Name: 3rd star should be displayed, DOM Id: I__iconstarvo__79, Browser: Firefox, Viewport: 768  x 700, Device: Tablet, Status: Pass
+Task: 3, Test Name: 4th star should be displayed, DOM Id: I__iconstarvo__80, Browser: Firefox, Viewport: 768  x 700, Device: Tablet, Status: Pass
 Task: 3, Test Name: Number of reviews should be displayed, DOM Id: EM____82, Browser: Firefox, Viewport: 768  x 700, Device: Tablet, Status: Pass
 Task: 3, Test Name: Add to Cart button should be displayed, DOM Id: A__btn__114, Browser: Firefox, Viewport: 768  x 700, Device: Tablet, Status: Pass
 Task: 3, Test Name: Quantity editbox should be displayed, DOM Id: DIV__numbersrow__102, Browser: Firefox, Viewport: 768  x 700, Device: Tablet, Status: Pass
@@ -642,6 +667,7 @@ Task: 2, Test Name: Address should be displayed, DOM Id: LI____440, Browser: Edg
 Task: 2, Test Name: Email should be displayed, DOM Id: LI____443, Browser: Edge Chromium, Viewport: 768  x 700, Device: Tablet, Status: Pass
 Task: 3, Test Name: Expected Value of Selected Size Option should be Small (S), actual Value is: Small (S), DOM Id: XPATH = //div[@class='nice-select wide']/span, Browser: Edge Chromium, Viewport: 768  x 700, Device: Tablet, Status: Pass
 Task: 3, Test Name: Expected Value of New Price should be $33.00, actual Value is: $33.00, DOM Id: new_price, Browser: Edge Chromium, Viewport: 768  x 700, Device: Tablet, Status: Pass
+Task: 3, Test Name: Shoe image should be displayed, is it really displayed ?: true, DOM Id: 'shoe_img' with attribute 'style', Browser: Edge Chromium, Viewport: 768  x 700, Device: Tablet, Status: Pass
 Task: 3, Test Name: Main menu should not be displayed, DOM Id: DIV__mainmenu__15, Browser: Edge Chromium, Viewport: 768  x 700, Device: Tablet, Status: Pass
 Task: 3, Test Name: Search field should be displayed, DOM Id: DIV__customsear__41, Browser: Edge Chromium, Viewport: 768  x 700, Device: Tablet, Status: Pass
 Task: 3, Test Name: Search icon on the right should be displayed, DOM Id: I__headericon__44, Browser: Edge Chromium, Viewport: 768  x 700, Device: Tablet, Status: Pass
@@ -651,6 +677,10 @@ Task: 3, Test Name: Wishlist should be displayed, DOM Id: A__wishlist__52, Brows
 Task: 3, Test Name: Cart should be displayed, DOM Id: DIV__dropdowndr__48, Browser: Edge Chromium, Viewport: 768  x 700, Device: Tablet, Status: Pass
 Task: 3, Test Name: Items in cart should be displayed, DOM Id: STRONG____50, Browser: Edge Chromium, Viewport: 768  x 700, Device: Tablet, Status: Pass
 Task: 3, Test Name: Product code should be displayed, DOM Id: SMALL____84, Browser: Edge Chromium, Viewport: 768  x 700, Device: Tablet, Status: Pass
+Task: 3, Test Name: 1st star should be displayed, DOM Id: I__iconstarvo__77, Browser: Edge Chromium, Viewport: 768  x 700, Device: Tablet, Status: Pass
+Task: 3, Test Name: 2nd star should be displayed, DOM Id: I__iconstarvo__78, Browser: Edge Chromium, Viewport: 768  x 700, Device: Tablet, Status: Pass
+Task: 3, Test Name: 3rd star should be displayed, DOM Id: I__iconstarvo__79, Browser: Edge Chromium, Viewport: 768  x 700, Device: Tablet, Status: Pass
+Task: 3, Test Name: 4th star should be displayed, DOM Id: I__iconstarvo__80, Browser: Edge Chromium, Viewport: 768  x 700, Device: Tablet, Status: Pass
 Task: 3, Test Name: Number of reviews should be displayed, DOM Id: EM____82, Browser: Edge Chromium, Viewport: 768  x 700, Device: Tablet, Status: Pass
 Task: 3, Test Name: Add to Cart button should be displayed, DOM Id: A__btn__114, Browser: Edge Chromium, Viewport: 768  x 700, Device: Tablet, Status: Pass
 Task: 3, Test Name: Quantity editbox should be displayed, DOM Id: DIV__numbersrow__102, Browser: Edge Chromium, Viewport: 768  x 700, Device: Tablet, Status: Pass
@@ -754,6 +784,7 @@ Task: 2, Test Name: Address should not be displayed, DOM Id: LI____440, Browser:
 Task: 2, Test Name: Email should not be displayed, DOM Id: LI____443, Browser: Chrome, Viewport: 500  x 700, Device: Mobile, Status: Pass
 Task: 3, Test Name: Expected Value of Selected Size Option should be Small (S), actual Value is: Small (S), DOM Id: XPATH = //div[@class='nice-select wide']/span, Browser: Chrome, Viewport: 500  x 700, Device: Mobile, Status: Pass
 Task: 3, Test Name: Expected Value of New Price should be $33.00, actual Value is: $33.00, DOM Id: new_price, Browser: Chrome, Viewport: 500  x 700, Device: Mobile, Status: Pass
+Task: 3, Test Name: Shoe image should be displayed, is it really displayed ?: true, DOM Id: 'shoe_img' with attribute 'style', Browser: Chrome, Viewport: 500  x 700, Device: Mobile, Status: Pass
 Task: 3, Test Name: Main menu should not be displayed, DOM Id: DIV__mainmenu__15, Browser: Chrome, Viewport: 500  x 700, Device: Mobile, Status: Pass
 Task: 3, Test Name: Search field should not be displayed, DOM Id: DIV__customsear__41, Browser: Chrome, Viewport: 500  x 700, Device: Mobile, Status: Pass
 Task: 3, Test Name: Search icon on the right should not be displayed, DOM Id: I__headericon__44, Browser: Chrome, Viewport: 500  x 700, Device: Mobile, Status: Pass
@@ -763,6 +794,10 @@ Task: 3, Test Name: Wishlist should be displayed, DOM Id: A__wishlist__52, Brows
 Task: 3, Test Name: Cart should be displayed, DOM Id: DIV__dropdowndr__48, Browser: Chrome, Viewport: 500  x 700, Device: Mobile, Status: Pass
 Task: 3, Test Name: Items in cart should be displayed, DOM Id: STRONG____50, Browser: Chrome, Viewport: 500  x 700, Device: Mobile, Status: Pass
 Task: 3, Test Name: Product code should be displayed, DOM Id: SMALL____84, Browser: Chrome, Viewport: 500  x 700, Device: Mobile, Status: Pass
+Task: 3, Test Name: 1st star should be displayed, DOM Id: I__iconstarvo__77, Browser: Chrome, Viewport: 500  x 700, Device: Mobile, Status: Pass
+Task: 3, Test Name: 2nd star should be displayed, DOM Id: I__iconstarvo__78, Browser: Chrome, Viewport: 500  x 700, Device: Mobile, Status: Pass
+Task: 3, Test Name: 3rd star should be displayed, DOM Id: I__iconstarvo__79, Browser: Chrome, Viewport: 500  x 700, Device: Mobile, Status: Pass
+Task: 3, Test Name: 4th star should be displayed, DOM Id: I__iconstarvo__80, Browser: Chrome, Viewport: 500  x 700, Device: Mobile, Status: Pass
 Task: 3, Test Name: Number of reviews should be displayed, DOM Id: EM____82, Browser: Chrome, Viewport: 500  x 700, Device: Mobile, Status: Pass
 Task: 3, Test Name: Add to Cart button should be displayed, DOM Id: A__btn__114, Browser: Chrome, Viewport: 500  x 700, Device: Mobile, Status: Pass
 Task: 3, Test Name: Quantity editbox should be displayed, DOM Id: DIV__numbersrow__102, Browser: Chrome, Viewport: 500  x 700, Device: Mobile, Status: Pass
