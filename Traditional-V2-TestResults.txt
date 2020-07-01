@@ -11,6 +11,33 @@ Task: 1, Test Name: View grid should be displayed, DOM Id: I__tiviewgrid__203, B
 Task: 1, Test Name: View list should be displayed, DOM Id: I__tiviewlist__205, Browser: Chrome, Viewport: 1200  x 700, Device: Laptop, Status: Pass
 Task: 1, Test Name: Filters icon should not be displayed, DOM Id: ti-filter, Browser: Chrome, Viewport: 1200  x 700, Device: Laptop, Status: Fail
 Task: 1, Test Name: Filters label should not be displayed, DOM Id: SPAN____209, Browser: Chrome, Viewport: 1200  x 700, Device: Laptop, Status: Fail
+Task: 1, Test Name: Add to favourites for item 1 should not be displayed, DOM Id: I__tiheart__226, Browser: Chrome, Viewport: 1200  x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Add to compare for item 1 should not be displayed, DOM Id: I__ticontrols__230, Browser: Chrome, Viewport: 1200  x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Add to cart for item 1 should not be displayed, DOM Id: I__tishopping__234, Browser: Chrome, Viewport: 1200  x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Add to favourites for item 2 should not be displayed, DOM Id: I__tiheart__251, Browser: Chrome, Viewport: 1200  x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Add to compare for item 2 should not be displayed, DOM Id: I__ticontrols__255, Browser: Chrome, Viewport: 1200  x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Add to cart for item 2 should not be displayed, DOM Id: I__tishopping__259, Browser: Chrome, Viewport: 1200  x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Add to favourites for item 3 should not be displayed, DOM Id: I__tiheart__273, Browser: Chrome, Viewport: 1200  x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Add to compare for item 3 should not be displayed, DOM Id: I__ticontrols__277, Browser: Chrome, Viewport: 1200  x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Add to cart for item 3 should not be displayed, DOM Id: I__tishopping__281, Browser: Chrome, Viewport: 1200  x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Add to favourites for item 4 should not be displayed, DOM Id: I__tiheart__295, Browser: Chrome, Viewport: 1200  x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Add to compare for item 4 should not be displayed, DOM Id: I__ticontrols__299, Browser: Chrome, Viewport: 1200  x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Add to cart for item 4 should not be displayed, DOM Id: I__tishopping__303, Browser: Chrome, Viewport: 1200  x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Add to favourites for item 5 should not be displayed, DOM Id: I__tiheart__317, Browser: Chrome, Viewport: 1200  x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Add to compare for item 5 should not be displayed, DOM Id: I__ticontrols__321, Browser: Chrome, Viewport: 1200  x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Add to cart for item 5 should not be displayed, DOM Id: I__tishopping__325, Browser: Chrome, Viewport: 1200  x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Add to favourites for item 6 should not be displayed, DOM Id: I__tiheart__339, Browser: Chrome, Viewport: 1200  x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Add to compare for item 6 should not be displayed, DOM Id: I__ticontrols__343, Browser: Chrome, Viewport: 1200  x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Add to cart for item 6 should not be displayed, DOM Id: I__tishopping__347, Browser: Chrome, Viewport: 1200  x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Add to favourites for item 7 should not be displayed, DOM Id: I__tiheart__361, Browser: Chrome, Viewport: 1200  x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Add to compare for item 7 should not be displayed, DOM Id: I__ticontrols__365, Browser: Chrome, Viewport: 1200  x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Add to cart for item 7 should not be displayed, DOM Id: I__tishopping__369, Browser: Chrome, Viewport: 1200  x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Add to favourites for item 8 should not be displayed, DOM Id: I__tiheart__386, Browser: Chrome, Viewport: 1200  x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Add to compare for item 8 should not be displayed, DOM Id: I__ticontrols__390, Browser: Chrome, Viewport: 1200  x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Add to cart for item 8 should not be displayed, DOM Id: I__tishopping__394, Browser: Chrome, Viewport: 1200  x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Add to favourites for item 9 should not be displayed, DOM Id: A__tooltip__407, Browser: Chrome, Viewport: 1200  x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Add to compare for item 9 should not be displayed, DOM Id: I__ticontrols__412, Browser: Chrome, Viewport: 1200  x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Add to cart for item 9 should not be displayed, DOM Id: A__tooltip__415, Browser: Chrome, Viewport: 1200  x 700, Device: Laptop, Status: Pass
 Task: 1, Test Name: About us should be displayed, DOM Id: A____426, Browser: Chrome, Viewport: 1200  x 700, Device: Laptop, Status: Pass
 Task: 1, Test Name: Faq should be displayed, DOM Id: A____428, Browser: Chrome, Viewport: 1200  x 700, Device: Laptop, Status: Pass
 Task: 1, Test Name: Help should be displayed, DOM Id: A____430, Browser: Chrome, Viewport: 1200  x 700, Device: Laptop, Status: Pass
@@ -34,6 +61,12 @@ Task: 2, Test Name: View grid should be displayed, DOM Id: I__tiviewgrid__203, B
 Task: 2, Test Name: View list should be displayed, DOM Id: I__tiviewlist__205, Browser: Chrome, Viewport: 1200  x 700, Device: Laptop, Status: Pass
 Task: 2, Test Name: Filters icon should not be displayed, DOM Id: ti-filter, Browser: Chrome, Viewport: 1200  x 700, Device: Laptop, Status: Fail
 Task: 2, Test Name: Filters label should not be displayed, DOM Id: SPAN____209, Browser: Chrome, Viewport: 1200  x 700, Device: Laptop, Status: Fail
+Task: 2, Test Name: Add to favourites for item 1 should not be displayed, DOM Id: I__tiheart__226, Browser: Chrome, Viewport: 1200  x 700, Device: Laptop, Status: Pass
+Task: 2, Test Name: Add to compare for item 1 should not be displayed, DOM Id: I__ticontrols__230, Browser: Chrome, Viewport: 1200  x 700, Device: Laptop, Status: Pass
+Task: 2, Test Name: Add to cart for item 1 should not be displayed, DOM Id: I__tishopping__234, Browser: Chrome, Viewport: 1200  x 700, Device: Laptop, Status: Pass
+Task: 2, Test Name: Add to favourites for item 2 should not be displayed, DOM Id: I__tiheart__248, Browser: Chrome, Viewport: 1200  x 700, Device: Laptop, Status: Pass
+Task: 2, Test Name: Add to compare for item 2 should not be displayed, DOM Id: I__ticontrols__252, Browser: Chrome, Viewport: 1200  x 700, Device: Laptop, Status: Pass
+Task: 2, Test Name: Add to cart for item 2 should not be displayed, DOM Id: I__tishopping__256, Browser: Chrome, Viewport: 1200  x 700, Device: Laptop, Status: Pass
 Task: 2, Test Name: item 1 picture should be displayed, DOM Id: product_1, Browser: Chrome, Viewport: 1200  x 700, Device: Laptop, Status: Pass
 Task: 2, Test Name: item 2 picture should be displayed, DOM Id: product_8, Browser: Chrome, Viewport: 1200  x 700, Device: Laptop, Status: Pass
 Task: 2, Test Name: About us should be displayed, DOM Id: A____426, Browser: Chrome, Viewport: 1200  x 700, Device: Laptop, Status: Pass
@@ -42,7 +75,6 @@ Task: 2, Test Name: Help should be displayed, DOM Id: A____430, Browser: Chrome,
 Task: 2, Test Name: My account should be displayed, DOM Id: A____432, Browser: Chrome, Viewport: 1200  x 700, Device: Laptop, Status: Pass
 Task: 2, Test Name: Blog should be displayed, DOM Id: A____434, Browser: Chrome, Viewport: 1200  x 700, Device: Laptop, Status: Pass
 Task: 2, Test Name: Contacts should be displayed, DOM Id: A____436, Browser: Chrome, Viewport: 1200  x 700, Device: Laptop, Status: Pass
-Task: 2, Test Name: About us should be displayed, DOM Id: A____426, Browser: Chrome, Viewport: 1200  x 700, Device: Laptop, Status: Pass
 Task: 2, Test Name: Email newsletter should be displayed, DOM Id: email_newsletter, Browser: Chrome, Viewport: 1200  x 700, Device: Laptop, Status: Pass
 Task: 2, Test Name: Address should be displayed, DOM Id: LI____441, Browser: Chrome, Viewport: 1200  x 700, Device: Laptop, Status: Pass
 Task: 2, Test Name: Email should be displayed, DOM Id: LI____444, Browser: Chrome, Viewport: 1200  x 700, Device: Laptop, Status: Pass
@@ -94,6 +126,33 @@ Task: 1, Test Name: View grid should be displayed, DOM Id: I__tiviewgrid__203, B
 Task: 1, Test Name: View list should be displayed, DOM Id: I__tiviewlist__205, Browser: Firefox, Viewport: 1200  x 700, Device: Laptop, Status: Pass
 Task: 1, Test Name: Filters icon should not be displayed, DOM Id: ti-filter, Browser: Firefox, Viewport: 1200  x 700, Device: Laptop, Status: Fail
 Task: 1, Test Name: Filters label should not be displayed, DOM Id: SPAN____209, Browser: Firefox, Viewport: 1200  x 700, Device: Laptop, Status: Fail
+Task: 1, Test Name: Add to favourites for item 1 should not be displayed, DOM Id: I__tiheart__226, Browser: Firefox, Viewport: 1200  x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Add to compare for item 1 should not be displayed, DOM Id: I__ticontrols__230, Browser: Firefox, Viewport: 1200  x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Add to cart for item 1 should not be displayed, DOM Id: I__tishopping__234, Browser: Firefox, Viewport: 1200  x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Add to favourites for item 2 should not be displayed, DOM Id: I__tiheart__251, Browser: Firefox, Viewport: 1200  x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Add to compare for item 2 should not be displayed, DOM Id: I__ticontrols__255, Browser: Firefox, Viewport: 1200  x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Add to cart for item 2 should not be displayed, DOM Id: I__tishopping__259, Browser: Firefox, Viewport: 1200  x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Add to favourites for item 3 should not be displayed, DOM Id: I__tiheart__273, Browser: Firefox, Viewport: 1200  x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Add to compare for item 3 should not be displayed, DOM Id: I__ticontrols__277, Browser: Firefox, Viewport: 1200  x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Add to cart for item 3 should not be displayed, DOM Id: I__tishopping__281, Browser: Firefox, Viewport: 1200  x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Add to favourites for item 4 should not be displayed, DOM Id: I__tiheart__295, Browser: Firefox, Viewport: 1200  x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Add to compare for item 4 should not be displayed, DOM Id: I__ticontrols__299, Browser: Firefox, Viewport: 1200  x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Add to cart for item 4 should not be displayed, DOM Id: I__tishopping__303, Browser: Firefox, Viewport: 1200  x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Add to favourites for item 5 should not be displayed, DOM Id: I__tiheart__317, Browser: Firefox, Viewport: 1200  x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Add to compare for item 5 should not be displayed, DOM Id: I__ticontrols__321, Browser: Firefox, Viewport: 1200  x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Add to cart for item 5 should not be displayed, DOM Id: I__tishopping__325, Browser: Firefox, Viewport: 1200  x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Add to favourites for item 6 should not be displayed, DOM Id: I__tiheart__339, Browser: Firefox, Viewport: 1200  x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Add to compare for item 6 should not be displayed, DOM Id: I__ticontrols__343, Browser: Firefox, Viewport: 1200  x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Add to cart for item 6 should not be displayed, DOM Id: I__tishopping__347, Browser: Firefox, Viewport: 1200  x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Add to favourites for item 7 should not be displayed, DOM Id: I__tiheart__361, Browser: Firefox, Viewport: 1200  x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Add to compare for item 7 should not be displayed, DOM Id: I__ticontrols__365, Browser: Firefox, Viewport: 1200  x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Add to cart for item 7 should not be displayed, DOM Id: I__tishopping__369, Browser: Firefox, Viewport: 1200  x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Add to favourites for item 8 should not be displayed, DOM Id: I__tiheart__386, Browser: Firefox, Viewport: 1200  x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Add to compare for item 8 should not be displayed, DOM Id: I__ticontrols__390, Browser: Firefox, Viewport: 1200  x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Add to cart for item 8 should not be displayed, DOM Id: I__tishopping__394, Browser: Firefox, Viewport: 1200  x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Add to favourites for item 9 should not be displayed, DOM Id: A__tooltip__407, Browser: Firefox, Viewport: 1200  x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Add to compare for item 9 should not be displayed, DOM Id: I__ticontrols__412, Browser: Firefox, Viewport: 1200  x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Add to cart for item 9 should not be displayed, DOM Id: A__tooltip__415, Browser: Firefox, Viewport: 1200  x 700, Device: Laptop, Status: Pass
 Task: 1, Test Name: About us should be displayed, DOM Id: A____426, Browser: Firefox, Viewport: 1200  x 700, Device: Laptop, Status: Pass
 Task: 1, Test Name: Faq should be displayed, DOM Id: A____428, Browser: Firefox, Viewport: 1200  x 700, Device: Laptop, Status: Pass
 Task: 1, Test Name: Help should be displayed, DOM Id: A____430, Browser: Firefox, Viewport: 1200  x 700, Device: Laptop, Status: Pass
@@ -117,6 +176,12 @@ Task: 2, Test Name: View grid should be displayed, DOM Id: I__tiviewgrid__203, B
 Task: 2, Test Name: View list should be displayed, DOM Id: I__tiviewlist__205, Browser: Firefox, Viewport: 1200  x 700, Device: Laptop, Status: Pass
 Task: 2, Test Name: Filters icon should not be displayed, DOM Id: ti-filter, Browser: Firefox, Viewport: 1200  x 700, Device: Laptop, Status: Fail
 Task: 2, Test Name: Filters label should not be displayed, DOM Id: SPAN____209, Browser: Firefox, Viewport: 1200  x 700, Device: Laptop, Status: Fail
+Task: 2, Test Name: Add to favourites for item 1 should not be displayed, DOM Id: I__tiheart__226, Browser: Firefox, Viewport: 1200  x 700, Device: Laptop, Status: Pass
+Task: 2, Test Name: Add to compare for item 1 should not be displayed, DOM Id: I__ticontrols__230, Browser: Firefox, Viewport: 1200  x 700, Device: Laptop, Status: Pass
+Task: 2, Test Name: Add to cart for item 1 should not be displayed, DOM Id: I__tishopping__234, Browser: Firefox, Viewport: 1200  x 700, Device: Laptop, Status: Pass
+Task: 2, Test Name: Add to favourites for item 2 should not be displayed, DOM Id: I__tiheart__248, Browser: Firefox, Viewport: 1200  x 700, Device: Laptop, Status: Pass
+Task: 2, Test Name: Add to compare for item 2 should not be displayed, DOM Id: I__ticontrols__252, Browser: Firefox, Viewport: 1200  x 700, Device: Laptop, Status: Pass
+Task: 2, Test Name: Add to cart for item 2 should not be displayed, DOM Id: I__tishopping__256, Browser: Firefox, Viewport: 1200  x 700, Device: Laptop, Status: Pass
 Task: 2, Test Name: item 1 picture should be displayed, DOM Id: product_1, Browser: Firefox, Viewport: 1200  x 700, Device: Laptop, Status: Pass
 Task: 2, Test Name: item 2 picture should be displayed, DOM Id: product_8, Browser: Firefox, Viewport: 1200  x 700, Device: Laptop, Status: Pass
 Task: 2, Test Name: About us should be displayed, DOM Id: A____426, Browser: Firefox, Viewport: 1200  x 700, Device: Laptop, Status: Pass
@@ -125,7 +190,6 @@ Task: 2, Test Name: Help should be displayed, DOM Id: A____430, Browser: Firefox
 Task: 2, Test Name: My account should be displayed, DOM Id: A____432, Browser: Firefox, Viewport: 1200  x 700, Device: Laptop, Status: Pass
 Task: 2, Test Name: Blog should be displayed, DOM Id: A____434, Browser: Firefox, Viewport: 1200  x 700, Device: Laptop, Status: Pass
 Task: 2, Test Name: Contacts should be displayed, DOM Id: A____436, Browser: Firefox, Viewport: 1200  x 700, Device: Laptop, Status: Pass
-Task: 2, Test Name: About us should be displayed, DOM Id: A____426, Browser: Firefox, Viewport: 1200  x 700, Device: Laptop, Status: Pass
 Task: 2, Test Name: Email newsletter should be displayed, DOM Id: email_newsletter, Browser: Firefox, Viewport: 1200  x 700, Device: Laptop, Status: Pass
 Task: 2, Test Name: Address should be displayed, DOM Id: LI____441, Browser: Firefox, Viewport: 1200  x 700, Device: Laptop, Status: Pass
 Task: 2, Test Name: Email should be displayed, DOM Id: LI____444, Browser: Firefox, Viewport: 1200  x 700, Device: Laptop, Status: Pass
@@ -177,6 +241,33 @@ Task: 1, Test Name: View grid should be displayed, DOM Id: I__tiviewgrid__203, B
 Task: 1, Test Name: View list should be displayed, DOM Id: I__tiviewlist__205, Browser: Edge Chromium, Viewport: 1200  x 700, Device: Laptop, Status: Pass
 Task: 1, Test Name: Filters icon should not be displayed, DOM Id: ti-filter, Browser: Edge Chromium, Viewport: 1200  x 700, Device: Laptop, Status: Fail
 Task: 1, Test Name: Filters label should not be displayed, DOM Id: SPAN____209, Browser: Edge Chromium, Viewport: 1200  x 700, Device: Laptop, Status: Fail
+Task: 1, Test Name: Add to favourites for item 1 should not be displayed, DOM Id: I__tiheart__226, Browser: Edge Chromium, Viewport: 1200  x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Add to compare for item 1 should not be displayed, DOM Id: I__ticontrols__230, Browser: Edge Chromium, Viewport: 1200  x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Add to cart for item 1 should not be displayed, DOM Id: I__tishopping__234, Browser: Edge Chromium, Viewport: 1200  x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Add to favourites for item 2 should not be displayed, DOM Id: I__tiheart__251, Browser: Edge Chromium, Viewport: 1200  x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Add to compare for item 2 should not be displayed, DOM Id: I__ticontrols__255, Browser: Edge Chromium, Viewport: 1200  x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Add to cart for item 2 should not be displayed, DOM Id: I__tishopping__259, Browser: Edge Chromium, Viewport: 1200  x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Add to favourites for item 3 should not be displayed, DOM Id: I__tiheart__273, Browser: Edge Chromium, Viewport: 1200  x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Add to compare for item 3 should not be displayed, DOM Id: I__ticontrols__277, Browser: Edge Chromium, Viewport: 1200  x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Add to cart for item 3 should not be displayed, DOM Id: I__tishopping__281, Browser: Edge Chromium, Viewport: 1200  x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Add to favourites for item 4 should not be displayed, DOM Id: I__tiheart__295, Browser: Edge Chromium, Viewport: 1200  x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Add to compare for item 4 should not be displayed, DOM Id: I__ticontrols__299, Browser: Edge Chromium, Viewport: 1200  x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Add to cart for item 4 should not be displayed, DOM Id: I__tishopping__303, Browser: Edge Chromium, Viewport: 1200  x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Add to favourites for item 5 should not be displayed, DOM Id: I__tiheart__317, Browser: Edge Chromium, Viewport: 1200  x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Add to compare for item 5 should not be displayed, DOM Id: I__ticontrols__321, Browser: Edge Chromium, Viewport: 1200  x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Add to cart for item 5 should not be displayed, DOM Id: I__tishopping__325, Browser: Edge Chromium, Viewport: 1200  x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Add to favourites for item 6 should not be displayed, DOM Id: I__tiheart__339, Browser: Edge Chromium, Viewport: 1200  x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Add to compare for item 6 should not be displayed, DOM Id: I__ticontrols__343, Browser: Edge Chromium, Viewport: 1200  x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Add to cart for item 6 should not be displayed, DOM Id: I__tishopping__347, Browser: Edge Chromium, Viewport: 1200  x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Add to favourites for item 7 should not be displayed, DOM Id: I__tiheart__361, Browser: Edge Chromium, Viewport: 1200  x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Add to compare for item 7 should not be displayed, DOM Id: I__ticontrols__365, Browser: Edge Chromium, Viewport: 1200  x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Add to cart for item 7 should not be displayed, DOM Id: I__tishopping__369, Browser: Edge Chromium, Viewport: 1200  x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Add to favourites for item 8 should not be displayed, DOM Id: I__tiheart__386, Browser: Edge Chromium, Viewport: 1200  x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Add to compare for item 8 should not be displayed, DOM Id: I__ticontrols__390, Browser: Edge Chromium, Viewport: 1200  x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Add to cart for item 8 should not be displayed, DOM Id: I__tishopping__394, Browser: Edge Chromium, Viewport: 1200  x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Add to favourites for item 9 should not be displayed, DOM Id: A__tooltip__407, Browser: Edge Chromium, Viewport: 1200  x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Add to compare for item 9 should not be displayed, DOM Id: I__ticontrols__412, Browser: Edge Chromium, Viewport: 1200  x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Add to cart for item 9 should not be displayed, DOM Id: A__tooltip__415, Browser: Edge Chromium, Viewport: 1200  x 700, Device: Laptop, Status: Pass
 Task: 1, Test Name: About us should be displayed, DOM Id: A____426, Browser: Edge Chromium, Viewport: 1200  x 700, Device: Laptop, Status: Pass
 Task: 1, Test Name: Faq should be displayed, DOM Id: A____428, Browser: Edge Chromium, Viewport: 1200  x 700, Device: Laptop, Status: Pass
 Task: 1, Test Name: Help should be displayed, DOM Id: A____430, Browser: Edge Chromium, Viewport: 1200  x 700, Device: Laptop, Status: Pass
@@ -200,6 +291,12 @@ Task: 2, Test Name: View grid should be displayed, DOM Id: I__tiviewgrid__203, B
 Task: 2, Test Name: View list should be displayed, DOM Id: I__tiviewlist__205, Browser: Edge Chromium, Viewport: 1200  x 700, Device: Laptop, Status: Pass
 Task: 2, Test Name: Filters icon should not be displayed, DOM Id: ti-filter, Browser: Edge Chromium, Viewport: 1200  x 700, Device: Laptop, Status: Fail
 Task: 2, Test Name: Filters label should not be displayed, DOM Id: SPAN____209, Browser: Edge Chromium, Viewport: 1200  x 700, Device: Laptop, Status: Fail
+Task: 2, Test Name: Add to favourites for item 1 should not be displayed, DOM Id: I__tiheart__226, Browser: Edge Chromium, Viewport: 1200  x 700, Device: Laptop, Status: Pass
+Task: 2, Test Name: Add to compare for item 1 should not be displayed, DOM Id: I__ticontrols__230, Browser: Edge Chromium, Viewport: 1200  x 700, Device: Laptop, Status: Pass
+Task: 2, Test Name: Add to cart for item 1 should not be displayed, DOM Id: I__tishopping__234, Browser: Edge Chromium, Viewport: 1200  x 700, Device: Laptop, Status: Pass
+Task: 2, Test Name: Add to favourites for item 2 should not be displayed, DOM Id: I__tiheart__248, Browser: Edge Chromium, Viewport: 1200  x 700, Device: Laptop, Status: Pass
+Task: 2, Test Name: Add to compare for item 2 should not be displayed, DOM Id: I__ticontrols__252, Browser: Edge Chromium, Viewport: 1200  x 700, Device: Laptop, Status: Pass
+Task: 2, Test Name: Add to cart for item 2 should not be displayed, DOM Id: I__tishopping__256, Browser: Edge Chromium, Viewport: 1200  x 700, Device: Laptop, Status: Pass
 Task: 2, Test Name: item 1 picture should be displayed, DOM Id: product_1, Browser: Edge Chromium, Viewport: 1200  x 700, Device: Laptop, Status: Pass
 Task: 2, Test Name: item 2 picture should be displayed, DOM Id: product_8, Browser: Edge Chromium, Viewport: 1200  x 700, Device: Laptop, Status: Pass
 Task: 2, Test Name: About us should be displayed, DOM Id: A____426, Browser: Edge Chromium, Viewport: 1200  x 700, Device: Laptop, Status: Pass
@@ -208,7 +305,6 @@ Task: 2, Test Name: Help should be displayed, DOM Id: A____430, Browser: Edge Ch
 Task: 2, Test Name: My account should be displayed, DOM Id: A____432, Browser: Edge Chromium, Viewport: 1200  x 700, Device: Laptop, Status: Pass
 Task: 2, Test Name: Blog should be displayed, DOM Id: A____434, Browser: Edge Chromium, Viewport: 1200  x 700, Device: Laptop, Status: Pass
 Task: 2, Test Name: Contacts should be displayed, DOM Id: A____436, Browser: Edge Chromium, Viewport: 1200  x 700, Device: Laptop, Status: Pass
-Task: 2, Test Name: About us should be displayed, DOM Id: A____426, Browser: Edge Chromium, Viewport: 1200  x 700, Device: Laptop, Status: Pass
 Task: 2, Test Name: Email newsletter should be displayed, DOM Id: email_newsletter, Browser: Edge Chromium, Viewport: 1200  x 700, Device: Laptop, Status: Pass
 Task: 2, Test Name: Address should be displayed, DOM Id: LI____441, Browser: Edge Chromium, Viewport: 1200  x 700, Device: Laptop, Status: Pass
 Task: 2, Test Name: Email should be displayed, DOM Id: LI____444, Browser: Edge Chromium, Viewport: 1200  x 700, Device: Laptop, Status: Pass
@@ -260,6 +356,33 @@ Task: 1, Test Name: View grid should not be displayed, DOM Id: I__tiviewgrid__20
 Task: 1, Test Name: View list should not be displayed, DOM Id: I__tiviewlist__205, Browser: Chrome, Viewport: 768  x 700, Device: Tablet, Status: Fail
 Task: 1, Test Name: Filters icon should be displayed, DOM Id: ti-filter, Browser: Chrome, Viewport: 768  x 700, Device: Tablet, Status: Pass
 Task: 1, Test Name: Filters label should be displayed, DOM Id: SPAN____209, Browser: Chrome, Viewport: 768  x 700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Add to favourites for item 1 should be displayed, DOM Id: I__tiheart__226, Browser: Chrome, Viewport: 768  x 700, Device: Tablet, Status: Fail
+Task: 1, Test Name: Add to compare for item 1 should be displayed, DOM Id: I__ticontrols__230, Browser: Chrome, Viewport: 768  x 700, Device: Tablet, Status: Fail
+Task: 1, Test Name: Add to cart for item 1 should be displayed, DOM Id: I__tishopping__234, Browser: Chrome, Viewport: 768  x 700, Device: Tablet, Status: Fail
+Task: 1, Test Name: Add to favourites for item 2 should be displayed, DOM Id: I__tiheart__251, Browser: Chrome, Viewport: 768  x 700, Device: Tablet, Status: Fail
+Task: 1, Test Name: Add to compare for item 2 should be displayed, DOM Id: I__ticontrols__255, Browser: Chrome, Viewport: 768  x 700, Device: Tablet, Status: Fail
+Task: 1, Test Name: Add to cart for item 2 should be displayed, DOM Id: I__tishopping__259, Browser: Chrome, Viewport: 768  x 700, Device: Tablet, Status: Fail
+Task: 1, Test Name: Add to favourites for item 3 should be displayed, DOM Id: I__tiheart__273, Browser: Chrome, Viewport: 768  x 700, Device: Tablet, Status: Fail
+Task: 1, Test Name: Add to compare for item 3 should be displayed, DOM Id: I__ticontrols__277, Browser: Chrome, Viewport: 768  x 700, Device: Tablet, Status: Fail
+Task: 1, Test Name: Add to cart for item 3 should be displayed, DOM Id: I__tishopping__281, Browser: Chrome, Viewport: 768  x 700, Device: Tablet, Status: Fail
+Task: 1, Test Name: Add to favourites for item 4 should be displayed, DOM Id: I__tiheart__295, Browser: Chrome, Viewport: 768  x 700, Device: Tablet, Status: Fail
+Task: 1, Test Name: Add to compare for item 4 should be displayed, DOM Id: I__ticontrols__299, Browser: Chrome, Viewport: 768  x 700, Device: Tablet, Status: Fail
+Task: 1, Test Name: Add to cart for item 4 should be displayed, DOM Id: I__tishopping__303, Browser: Chrome, Viewport: 768  x 700, Device: Tablet, Status: Fail
+Task: 1, Test Name: Add to favourites for item 5 should be displayed, DOM Id: I__tiheart__317, Browser: Chrome, Viewport: 768  x 700, Device: Tablet, Status: Fail
+Task: 1, Test Name: Add to compare for item 5 should be displayed, DOM Id: I__ticontrols__321, Browser: Chrome, Viewport: 768  x 700, Device: Tablet, Status: Fail
+Task: 1, Test Name: Add to cart for item 5 should be displayed, DOM Id: I__tishopping__325, Browser: Chrome, Viewport: 768  x 700, Device: Tablet, Status: Fail
+Task: 1, Test Name: Add to favourites for item 6 should be displayed, DOM Id: I__tiheart__339, Browser: Chrome, Viewport: 768  x 700, Device: Tablet, Status: Fail
+Task: 1, Test Name: Add to compare for item 6 should be displayed, DOM Id: I__ticontrols__343, Browser: Chrome, Viewport: 768  x 700, Device: Tablet, Status: Fail
+Task: 1, Test Name: Add to cart for item 6 should be displayed, DOM Id: I__tishopping__347, Browser: Chrome, Viewport: 768  x 700, Device: Tablet, Status: Fail
+Task: 1, Test Name: Add to favourites for item 7 should be displayed, DOM Id: I__tiheart__361, Browser: Chrome, Viewport: 768  x 700, Device: Tablet, Status: Fail
+Task: 1, Test Name: Add to compare for item 7 should be displayed, DOM Id: I__ticontrols__365, Browser: Chrome, Viewport: 768  x 700, Device: Tablet, Status: Fail
+Task: 1, Test Name: Add to cart for item 7 should be displayed, DOM Id: I__tishopping__369, Browser: Chrome, Viewport: 768  x 700, Device: Tablet, Status: Fail
+Task: 1, Test Name: Add to favourites for item 8 should be displayed, DOM Id: I__tiheart__386, Browser: Chrome, Viewport: 768  x 700, Device: Tablet, Status: Fail
+Task: 1, Test Name: Add to compare for item 8 should be displayed, DOM Id: I__ticontrols__390, Browser: Chrome, Viewport: 768  x 700, Device: Tablet, Status: Fail
+Task: 1, Test Name: Add to cart for item 8 should be displayed, DOM Id: I__tishopping__394, Browser: Chrome, Viewport: 768  x 700, Device: Tablet, Status: Fail
+Task: 1, Test Name: Add to favourites for item 9 should be displayed, DOM Id: A__tooltip__407, Browser: Chrome, Viewport: 768  x 700, Device: Tablet, Status: Fail
+Task: 1, Test Name: Add to compare for item 9 should be displayed, DOM Id: I__ticontrols__412, Browser: Chrome, Viewport: 768  x 700, Device: Tablet, Status: Fail
+Task: 1, Test Name: Add to cart for item 9 should be displayed, DOM Id: A__tooltip__415, Browser: Chrome, Viewport: 768  x 700, Device: Tablet, Status: Fail
 Task: 1, Test Name: About us should be displayed, DOM Id: A____426, Browser: Chrome, Viewport: 768  x 700, Device: Tablet, Status: Pass
 Task: 1, Test Name: Faq should be displayed, DOM Id: A____428, Browser: Chrome, Viewport: 768  x 700, Device: Tablet, Status: Pass
 Task: 1, Test Name: Help should be displayed, DOM Id: A____430, Browser: Chrome, Viewport: 768  x 700, Device: Tablet, Status: Pass
@@ -283,6 +406,12 @@ Task: 2, Test Name: View grid should not be displayed, DOM Id: I__tiviewgrid__20
 Task: 2, Test Name: View list should not be displayed, DOM Id: I__tiviewlist__205, Browser: Chrome, Viewport: 768  x 700, Device: Tablet, Status: Fail
 Task: 2, Test Name: Filters icon should be displayed, DOM Id: ti-filter, Browser: Chrome, Viewport: 768  x 700, Device: Tablet, Status: Pass
 Task: 2, Test Name: Filters label should be displayed, DOM Id: SPAN____209, Browser: Chrome, Viewport: 768  x 700, Device: Tablet, Status: Pass
+Task: 2, Test Name: Add to favourites for item 1 should be displayed, DOM Id: I__tiheart__226, Browser: Chrome, Viewport: 768  x 700, Device: Tablet, Status: Fail
+Task: 2, Test Name: Add to compare for item 1 should be displayed, DOM Id: I__ticontrols__230, Browser: Chrome, Viewport: 768  x 700, Device: Tablet, Status: Fail
+Task: 2, Test Name: Add to cart for item 1 should be displayed, DOM Id: I__tishopping__234, Browser: Chrome, Viewport: 768  x 700, Device: Tablet, Status: Fail
+Task: 2, Test Name: Add to favourites for item 2 should be displayed, DOM Id: I__tiheart__248, Browser: Chrome, Viewport: 768  x 700, Device: Tablet, Status: Fail
+Task: 2, Test Name: Add to compare for item 2 should be displayed, DOM Id: I__ticontrols__252, Browser: Chrome, Viewport: 768  x 700, Device: Tablet, Status: Fail
+Task: 2, Test Name: Add to cart for item 2 should be displayed, DOM Id: I__tishopping__256, Browser: Chrome, Viewport: 768  x 700, Device: Tablet, Status: Fail
 Task: 2, Test Name: item 1 picture should be displayed, DOM Id: product_1, Browser: Chrome, Viewport: 768  x 700, Device: Tablet, Status: Pass
 Task: 2, Test Name: item 2 picture should be displayed, DOM Id: product_8, Browser: Chrome, Viewport: 768  x 700, Device: Tablet, Status: Pass
 Task: 2, Test Name: About us should be displayed, DOM Id: A____426, Browser: Chrome, Viewport: 768  x 700, Device: Tablet, Status: Pass
@@ -291,7 +420,6 @@ Task: 2, Test Name: Help should be displayed, DOM Id: A____430, Browser: Chrome,
 Task: 2, Test Name: My account should be displayed, DOM Id: A____432, Browser: Chrome, Viewport: 768  x 700, Device: Tablet, Status: Pass
 Task: 2, Test Name: Blog should be displayed, DOM Id: A____434, Browser: Chrome, Viewport: 768  x 700, Device: Tablet, Status: Pass
 Task: 2, Test Name: Contacts should be displayed, DOM Id: A____436, Browser: Chrome, Viewport: 768  x 700, Device: Tablet, Status: Pass
-Task: 2, Test Name: About us should be displayed, DOM Id: A____426, Browser: Chrome, Viewport: 768  x 700, Device: Tablet, Status: Pass
 Task: 2, Test Name: Email newsletter should be displayed, DOM Id: email_newsletter, Browser: Chrome, Viewport: 768  x 700, Device: Tablet, Status: Pass
 Task: 2, Test Name: Address should be displayed, DOM Id: LI____441, Browser: Chrome, Viewport: 768  x 700, Device: Tablet, Status: Pass
 Task: 2, Test Name: Email should be displayed, DOM Id: LI____444, Browser: Chrome, Viewport: 768  x 700, Device: Tablet, Status: Pass
@@ -343,6 +471,33 @@ Task: 1, Test Name: View grid should not be displayed, DOM Id: I__tiviewgrid__20
 Task: 1, Test Name: View list should not be displayed, DOM Id: I__tiviewlist__205, Browser: Firefox, Viewport: 768  x 700, Device: Tablet, Status: Fail
 Task: 1, Test Name: Filters icon should be displayed, DOM Id: ti-filter, Browser: Firefox, Viewport: 768  x 700, Device: Tablet, Status: Pass
 Task: 1, Test Name: Filters label should be displayed, DOM Id: SPAN____209, Browser: Firefox, Viewport: 768  x 700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Add to favourites for item 1 should be displayed, DOM Id: I__tiheart__226, Browser: Firefox, Viewport: 768  x 700, Device: Tablet, Status: Fail
+Task: 1, Test Name: Add to compare for item 1 should be displayed, DOM Id: I__ticontrols__230, Browser: Firefox, Viewport: 768  x 700, Device: Tablet, Status: Fail
+Task: 1, Test Name: Add to cart for item 1 should be displayed, DOM Id: I__tishopping__234, Browser: Firefox, Viewport: 768  x 700, Device: Tablet, Status: Fail
+Task: 1, Test Name: Add to favourites for item 2 should be displayed, DOM Id: I__tiheart__251, Browser: Firefox, Viewport: 768  x 700, Device: Tablet, Status: Fail
+Task: 1, Test Name: Add to compare for item 2 should be displayed, DOM Id: I__ticontrols__255, Browser: Firefox, Viewport: 768  x 700, Device: Tablet, Status: Fail
+Task: 1, Test Name: Add to cart for item 2 should be displayed, DOM Id: I__tishopping__259, Browser: Firefox, Viewport: 768  x 700, Device: Tablet, Status: Fail
+Task: 1, Test Name: Add to favourites for item 3 should be displayed, DOM Id: I__tiheart__273, Browser: Firefox, Viewport: 768  x 700, Device: Tablet, Status: Fail
+Task: 1, Test Name: Add to compare for item 3 should be displayed, DOM Id: I__ticontrols__277, Browser: Firefox, Viewport: 768  x 700, Device: Tablet, Status: Fail
+Task: 1, Test Name: Add to cart for item 3 should be displayed, DOM Id: I__tishopping__281, Browser: Firefox, Viewport: 768  x 700, Device: Tablet, Status: Fail
+Task: 1, Test Name: Add to favourites for item 4 should be displayed, DOM Id: I__tiheart__295, Browser: Firefox, Viewport: 768  x 700, Device: Tablet, Status: Fail
+Task: 1, Test Name: Add to compare for item 4 should be displayed, DOM Id: I__ticontrols__299, Browser: Firefox, Viewport: 768  x 700, Device: Tablet, Status: Fail
+Task: 1, Test Name: Add to cart for item 4 should be displayed, DOM Id: I__tishopping__303, Browser: Firefox, Viewport: 768  x 700, Device: Tablet, Status: Fail
+Task: 1, Test Name: Add to favourites for item 5 should be displayed, DOM Id: I__tiheart__317, Browser: Firefox, Viewport: 768  x 700, Device: Tablet, Status: Fail
+Task: 1, Test Name: Add to compare for item 5 should be displayed, DOM Id: I__ticontrols__321, Browser: Firefox, Viewport: 768  x 700, Device: Tablet, Status: Fail
+Task: 1, Test Name: Add to cart for item 5 should be displayed, DOM Id: I__tishopping__325, Browser: Firefox, Viewport: 768  x 700, Device: Tablet, Status: Fail
+Task: 1, Test Name: Add to favourites for item 6 should be displayed, DOM Id: I__tiheart__339, Browser: Firefox, Viewport: 768  x 700, Device: Tablet, Status: Fail
+Task: 1, Test Name: Add to compare for item 6 should be displayed, DOM Id: I__ticontrols__343, Browser: Firefox, Viewport: 768  x 700, Device: Tablet, Status: Fail
+Task: 1, Test Name: Add to cart for item 6 should be displayed, DOM Id: I__tishopping__347, Browser: Firefox, Viewport: 768  x 700, Device: Tablet, Status: Fail
+Task: 1, Test Name: Add to favourites for item 7 should be displayed, DOM Id: I__tiheart__361, Browser: Firefox, Viewport: 768  x 700, Device: Tablet, Status: Fail
+Task: 1, Test Name: Add to compare for item 7 should be displayed, DOM Id: I__ticontrols__365, Browser: Firefox, Viewport: 768  x 700, Device: Tablet, Status: Fail
+Task: 1, Test Name: Add to cart for item 7 should be displayed, DOM Id: I__tishopping__369, Browser: Firefox, Viewport: 768  x 700, Device: Tablet, Status: Fail
+Task: 1, Test Name: Add to favourites for item 8 should be displayed, DOM Id: I__tiheart__386, Browser: Firefox, Viewport: 768  x 700, Device: Tablet, Status: Fail
+Task: 1, Test Name: Add to compare for item 8 should be displayed, DOM Id: I__ticontrols__390, Browser: Firefox, Viewport: 768  x 700, Device: Tablet, Status: Fail
+Task: 1, Test Name: Add to cart for item 8 should be displayed, DOM Id: I__tishopping__394, Browser: Firefox, Viewport: 768  x 700, Device: Tablet, Status: Fail
+Task: 1, Test Name: Add to favourites for item 9 should be displayed, DOM Id: A__tooltip__407, Browser: Firefox, Viewport: 768  x 700, Device: Tablet, Status: Fail
+Task: 1, Test Name: Add to compare for item 9 should be displayed, DOM Id: I__ticontrols__412, Browser: Firefox, Viewport: 768  x 700, Device: Tablet, Status: Fail
+Task: 1, Test Name: Add to cart for item 9 should be displayed, DOM Id: A__tooltip__415, Browser: Firefox, Viewport: 768  x 700, Device: Tablet, Status: Fail
 Task: 1, Test Name: About us should be displayed, DOM Id: A____426, Browser: Firefox, Viewport: 768  x 700, Device: Tablet, Status: Pass
 Task: 1, Test Name: Faq should be displayed, DOM Id: A____428, Browser: Firefox, Viewport: 768  x 700, Device: Tablet, Status: Pass
 Task: 1, Test Name: Help should be displayed, DOM Id: A____430, Browser: Firefox, Viewport: 768  x 700, Device: Tablet, Status: Pass
@@ -366,6 +521,12 @@ Task: 2, Test Name: View grid should not be displayed, DOM Id: I__tiviewgrid__20
 Task: 2, Test Name: View list should not be displayed, DOM Id: I__tiviewlist__205, Browser: Firefox, Viewport: 768  x 700, Device: Tablet, Status: Fail
 Task: 2, Test Name: Filters icon should be displayed, DOM Id: ti-filter, Browser: Firefox, Viewport: 768  x 700, Device: Tablet, Status: Pass
 Task: 2, Test Name: Filters label should be displayed, DOM Id: SPAN____209, Browser: Firefox, Viewport: 768  x 700, Device: Tablet, Status: Pass
+Task: 2, Test Name: Add to favourites for item 1 should be displayed, DOM Id: I__tiheart__226, Browser: Firefox, Viewport: 768  x 700, Device: Tablet, Status: Fail
+Task: 2, Test Name: Add to compare for item 1 should be displayed, DOM Id: I__ticontrols__230, Browser: Firefox, Viewport: 768  x 700, Device: Tablet, Status: Fail
+Task: 2, Test Name: Add to cart for item 1 should be displayed, DOM Id: I__tishopping__234, Browser: Firefox, Viewport: 768  x 700, Device: Tablet, Status: Fail
+Task: 2, Test Name: Add to favourites for item 2 should be displayed, DOM Id: I__tiheart__248, Browser: Firefox, Viewport: 768  x 700, Device: Tablet, Status: Fail
+Task: 2, Test Name: Add to compare for item 2 should be displayed, DOM Id: I__ticontrols__252, Browser: Firefox, Viewport: 768  x 700, Device: Tablet, Status: Fail
+Task: 2, Test Name: Add to cart for item 2 should be displayed, DOM Id: I__tishopping__256, Browser: Firefox, Viewport: 768  x 700, Device: Tablet, Status: Fail
 Task: 2, Test Name: item 1 picture should be displayed, DOM Id: product_1, Browser: Firefox, Viewport: 768  x 700, Device: Tablet, Status: Pass
 Task: 2, Test Name: item 2 picture should be displayed, DOM Id: product_8, Browser: Firefox, Viewport: 768  x 700, Device: Tablet, Status: Pass
 Task: 2, Test Name: About us should be displayed, DOM Id: A____426, Browser: Firefox, Viewport: 768  x 700, Device: Tablet, Status: Pass
@@ -374,7 +535,6 @@ Task: 2, Test Name: Help should be displayed, DOM Id: A____430, Browser: Firefox
 Task: 2, Test Name: My account should be displayed, DOM Id: A____432, Browser: Firefox, Viewport: 768  x 700, Device: Tablet, Status: Pass
 Task: 2, Test Name: Blog should be displayed, DOM Id: A____434, Browser: Firefox, Viewport: 768  x 700, Device: Tablet, Status: Pass
 Task: 2, Test Name: Contacts should be displayed, DOM Id: A____436, Browser: Firefox, Viewport: 768  x 700, Device: Tablet, Status: Pass
-Task: 2, Test Name: About us should be displayed, DOM Id: A____426, Browser: Firefox, Viewport: 768  x 700, Device: Tablet, Status: Pass
 Task: 2, Test Name: Email newsletter should be displayed, DOM Id: email_newsletter, Browser: Firefox, Viewport: 768  x 700, Device: Tablet, Status: Pass
 Task: 2, Test Name: Address should be displayed, DOM Id: LI____441, Browser: Firefox, Viewport: 768  x 700, Device: Tablet, Status: Pass
 Task: 2, Test Name: Email should be displayed, DOM Id: LI____444, Browser: Firefox, Viewport: 768  x 700, Device: Tablet, Status: Pass
@@ -426,6 +586,33 @@ Task: 1, Test Name: View grid should not be displayed, DOM Id: I__tiviewgrid__20
 Task: 1, Test Name: View list should not be displayed, DOM Id: I__tiviewlist__205, Browser: Edge Chromium, Viewport: 768  x 700, Device: Tablet, Status: Fail
 Task: 1, Test Name: Filters icon should be displayed, DOM Id: ti-filter, Browser: Edge Chromium, Viewport: 768  x 700, Device: Tablet, Status: Pass
 Task: 1, Test Name: Filters label should be displayed, DOM Id: SPAN____209, Browser: Edge Chromium, Viewport: 768  x 700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Add to favourites for item 1 should be displayed, DOM Id: I__tiheart__226, Browser: Edge Chromium, Viewport: 768  x 700, Device: Tablet, Status: Fail
+Task: 1, Test Name: Add to compare for item 1 should be displayed, DOM Id: I__ticontrols__230, Browser: Edge Chromium, Viewport: 768  x 700, Device: Tablet, Status: Fail
+Task: 1, Test Name: Add to cart for item 1 should be displayed, DOM Id: I__tishopping__234, Browser: Edge Chromium, Viewport: 768  x 700, Device: Tablet, Status: Fail
+Task: 1, Test Name: Add to favourites for item 2 should be displayed, DOM Id: I__tiheart__251, Browser: Edge Chromium, Viewport: 768  x 700, Device: Tablet, Status: Fail
+Task: 1, Test Name: Add to compare for item 2 should be displayed, DOM Id: I__ticontrols__255, Browser: Edge Chromium, Viewport: 768  x 700, Device: Tablet, Status: Fail
+Task: 1, Test Name: Add to cart for item 2 should be displayed, DOM Id: I__tishopping__259, Browser: Edge Chromium, Viewport: 768  x 700, Device: Tablet, Status: Fail
+Task: 1, Test Name: Add to favourites for item 3 should be displayed, DOM Id: I__tiheart__273, Browser: Edge Chromium, Viewport: 768  x 700, Device: Tablet, Status: Fail
+Task: 1, Test Name: Add to compare for item 3 should be displayed, DOM Id: I__ticontrols__277, Browser: Edge Chromium, Viewport: 768  x 700, Device: Tablet, Status: Fail
+Task: 1, Test Name: Add to cart for item 3 should be displayed, DOM Id: I__tishopping__281, Browser: Edge Chromium, Viewport: 768  x 700, Device: Tablet, Status: Fail
+Task: 1, Test Name: Add to favourites for item 4 should be displayed, DOM Id: I__tiheart__295, Browser: Edge Chromium, Viewport: 768  x 700, Device: Tablet, Status: Fail
+Task: 1, Test Name: Add to compare for item 4 should be displayed, DOM Id: I__ticontrols__299, Browser: Edge Chromium, Viewport: 768  x 700, Device: Tablet, Status: Fail
+Task: 1, Test Name: Add to cart for item 4 should be displayed, DOM Id: I__tishopping__303, Browser: Edge Chromium, Viewport: 768  x 700, Device: Tablet, Status: Fail
+Task: 1, Test Name: Add to favourites for item 5 should be displayed, DOM Id: I__tiheart__317, Browser: Edge Chromium, Viewport: 768  x 700, Device: Tablet, Status: Fail
+Task: 1, Test Name: Add to compare for item 5 should be displayed, DOM Id: I__ticontrols__321, Browser: Edge Chromium, Viewport: 768  x 700, Device: Tablet, Status: Fail
+Task: 1, Test Name: Add to cart for item 5 should be displayed, DOM Id: I__tishopping__325, Browser: Edge Chromium, Viewport: 768  x 700, Device: Tablet, Status: Fail
+Task: 1, Test Name: Add to favourites for item 6 should be displayed, DOM Id: I__tiheart__339, Browser: Edge Chromium, Viewport: 768  x 700, Device: Tablet, Status: Fail
+Task: 1, Test Name: Add to compare for item 6 should be displayed, DOM Id: I__ticontrols__343, Browser: Edge Chromium, Viewport: 768  x 700, Device: Tablet, Status: Fail
+Task: 1, Test Name: Add to cart for item 6 should be displayed, DOM Id: I__tishopping__347, Browser: Edge Chromium, Viewport: 768  x 700, Device: Tablet, Status: Fail
+Task: 1, Test Name: Add to favourites for item 7 should be displayed, DOM Id: I__tiheart__361, Browser: Edge Chromium, Viewport: 768  x 700, Device: Tablet, Status: Fail
+Task: 1, Test Name: Add to compare for item 7 should be displayed, DOM Id: I__ticontrols__365, Browser: Edge Chromium, Viewport: 768  x 700, Device: Tablet, Status: Fail
+Task: 1, Test Name: Add to cart for item 7 should be displayed, DOM Id: I__tishopping__369, Browser: Edge Chromium, Viewport: 768  x 700, Device: Tablet, Status: Fail
+Task: 1, Test Name: Add to favourites for item 8 should be displayed, DOM Id: I__tiheart__386, Browser: Edge Chromium, Viewport: 768  x 700, Device: Tablet, Status: Fail
+Task: 1, Test Name: Add to compare for item 8 should be displayed, DOM Id: I__ticontrols__390, Browser: Edge Chromium, Viewport: 768  x 700, Device: Tablet, Status: Fail
+Task: 1, Test Name: Add to cart for item 8 should be displayed, DOM Id: I__tishopping__394, Browser: Edge Chromium, Viewport: 768  x 700, Device: Tablet, Status: Fail
+Task: 1, Test Name: Add to favourites for item 9 should be displayed, DOM Id: A__tooltip__407, Browser: Edge Chromium, Viewport: 768  x 700, Device: Tablet, Status: Fail
+Task: 1, Test Name: Add to compare for item 9 should be displayed, DOM Id: I__ticontrols__412, Browser: Edge Chromium, Viewport: 768  x 700, Device: Tablet, Status: Fail
+Task: 1, Test Name: Add to cart for item 9 should be displayed, DOM Id: A__tooltip__415, Browser: Edge Chromium, Viewport: 768  x 700, Device: Tablet, Status: Fail
 Task: 1, Test Name: About us should be displayed, DOM Id: A____426, Browser: Edge Chromium, Viewport: 768  x 700, Device: Tablet, Status: Pass
 Task: 1, Test Name: Faq should be displayed, DOM Id: A____428, Browser: Edge Chromium, Viewport: 768  x 700, Device: Tablet, Status: Pass
 Task: 1, Test Name: Help should be displayed, DOM Id: A____430, Browser: Edge Chromium, Viewport: 768  x 700, Device: Tablet, Status: Pass
@@ -449,6 +636,12 @@ Task: 2, Test Name: View grid should not be displayed, DOM Id: I__tiviewgrid__20
 Task: 2, Test Name: View list should not be displayed, DOM Id: I__tiviewlist__205, Browser: Edge Chromium, Viewport: 768  x 700, Device: Tablet, Status: Fail
 Task: 2, Test Name: Filters icon should be displayed, DOM Id: ti-filter, Browser: Edge Chromium, Viewport: 768  x 700, Device: Tablet, Status: Pass
 Task: 2, Test Name: Filters label should be displayed, DOM Id: SPAN____209, Browser: Edge Chromium, Viewport: 768  x 700, Device: Tablet, Status: Pass
+Task: 2, Test Name: Add to favourites for item 1 should be displayed, DOM Id: I__tiheart__226, Browser: Edge Chromium, Viewport: 768  x 700, Device: Tablet, Status: Fail
+Task: 2, Test Name: Add to compare for item 1 should be displayed, DOM Id: I__ticontrols__230, Browser: Edge Chromium, Viewport: 768  x 700, Device: Tablet, Status: Fail
+Task: 2, Test Name: Add to cart for item 1 should be displayed, DOM Id: I__tishopping__234, Browser: Edge Chromium, Viewport: 768  x 700, Device: Tablet, Status: Fail
+Task: 2, Test Name: Add to favourites for item 2 should be displayed, DOM Id: I__tiheart__248, Browser: Edge Chromium, Viewport: 768  x 700, Device: Tablet, Status: Fail
+Task: 2, Test Name: Add to compare for item 2 should be displayed, DOM Id: I__ticontrols__252, Browser: Edge Chromium, Viewport: 768  x 700, Device: Tablet, Status: Fail
+Task: 2, Test Name: Add to cart for item 2 should be displayed, DOM Id: I__tishopping__256, Browser: Edge Chromium, Viewport: 768  x 700, Device: Tablet, Status: Fail
 Task: 2, Test Name: item 1 picture should be displayed, DOM Id: product_1, Browser: Edge Chromium, Viewport: 768  x 700, Device: Tablet, Status: Pass
 Task: 2, Test Name: item 2 picture should be displayed, DOM Id: product_8, Browser: Edge Chromium, Viewport: 768  x 700, Device: Tablet, Status: Pass
 Task: 2, Test Name: About us should be displayed, DOM Id: A____426, Browser: Edge Chromium, Viewport: 768  x 700, Device: Tablet, Status: Pass
@@ -457,7 +650,6 @@ Task: 2, Test Name: Help should be displayed, DOM Id: A____430, Browser: Edge Ch
 Task: 2, Test Name: My account should be displayed, DOM Id: A____432, Browser: Edge Chromium, Viewport: 768  x 700, Device: Tablet, Status: Pass
 Task: 2, Test Name: Blog should be displayed, DOM Id: A____434, Browser: Edge Chromium, Viewport: 768  x 700, Device: Tablet, Status: Pass
 Task: 2, Test Name: Contacts should be displayed, DOM Id: A____436, Browser: Edge Chromium, Viewport: 768  x 700, Device: Tablet, Status: Pass
-Task: 2, Test Name: About us should be displayed, DOM Id: A____426, Browser: Edge Chromium, Viewport: 768  x 700, Device: Tablet, Status: Pass
 Task: 2, Test Name: Email newsletter should be displayed, DOM Id: email_newsletter, Browser: Edge Chromium, Viewport: 768  x 700, Device: Tablet, Status: Pass
 Task: 2, Test Name: Address should be displayed, DOM Id: LI____441, Browser: Edge Chromium, Viewport: 768  x 700, Device: Tablet, Status: Pass
 Task: 2, Test Name: Email should be displayed, DOM Id: LI____444, Browser: Edge Chromium, Viewport: 768  x 700, Device: Tablet, Status: Pass
@@ -509,6 +701,33 @@ Task: 1, Test Name: View grid should not be displayed, DOM Id: I__tiviewgrid__20
 Task: 1, Test Name: View list should not be displayed, DOM Id: I__tiviewlist__205, Browser: Chrome, Viewport: 500  x 700, Device: Mobile, Status: Fail
 Task: 1, Test Name: Filters icon should be displayed, DOM Id: ti-filter, Browser: Chrome, Viewport: 500  x 700, Device: Mobile, Status: Pass
 Task: 1, Test Name: Filters label should not be displayed, DOM Id: SPAN____209, Browser: Chrome, Viewport: 500  x 700, Device: Mobile, Status: Pass
+Task: 1, Test Name: Add to favourites for item 1 should be displayed, DOM Id: I__tiheart__226, Browser: Chrome, Viewport: 500  x 700, Device: Mobile, Status: Fail
+Task: 1, Test Name: Add to compare for item 1 should be displayed, DOM Id: I__ticontrols__230, Browser: Chrome, Viewport: 500  x 700, Device: Mobile, Status: Fail
+Task: 1, Test Name: Add to cart for item 1 should be displayed, DOM Id: I__tishopping__234, Browser: Chrome, Viewport: 500  x 700, Device: Mobile, Status: Fail
+Task: 1, Test Name: Add to favourites for item 2 should be displayed, DOM Id: I__tiheart__251, Browser: Chrome, Viewport: 500  x 700, Device: Mobile, Status: Fail
+Task: 1, Test Name: Add to compare for item 2 should be displayed, DOM Id: I__ticontrols__255, Browser: Chrome, Viewport: 500  x 700, Device: Mobile, Status: Fail
+Task: 1, Test Name: Add to cart for item 2 should be displayed, DOM Id: I__tishopping__259, Browser: Chrome, Viewport: 500  x 700, Device: Mobile, Status: Fail
+Task: 1, Test Name: Add to favourites for item 3 should be displayed, DOM Id: I__tiheart__273, Browser: Chrome, Viewport: 500  x 700, Device: Mobile, Status: Fail
+Task: 1, Test Name: Add to compare for item 3 should be displayed, DOM Id: I__ticontrols__277, Browser: Chrome, Viewport: 500  x 700, Device: Mobile, Status: Fail
+Task: 1, Test Name: Add to cart for item 3 should be displayed, DOM Id: I__tishopping__281, Browser: Chrome, Viewport: 500  x 700, Device: Mobile, Status: Fail
+Task: 1, Test Name: Add to favourites for item 4 should be displayed, DOM Id: I__tiheart__295, Browser: Chrome, Viewport: 500  x 700, Device: Mobile, Status: Fail
+Task: 1, Test Name: Add to compare for item 4 should be displayed, DOM Id: I__ticontrols__299, Browser: Chrome, Viewport: 500  x 700, Device: Mobile, Status: Fail
+Task: 1, Test Name: Add to cart for item 4 should be displayed, DOM Id: I__tishopping__303, Browser: Chrome, Viewport: 500  x 700, Device: Mobile, Status: Fail
+Task: 1, Test Name: Add to favourites for item 5 should be displayed, DOM Id: I__tiheart__317, Browser: Chrome, Viewport: 500  x 700, Device: Mobile, Status: Fail
+Task: 1, Test Name: Add to compare for item 5 should be displayed, DOM Id: I__ticontrols__321, Browser: Chrome, Viewport: 500  x 700, Device: Mobile, Status: Fail
+Task: 1, Test Name: Add to cart for item 5 should be displayed, DOM Id: I__tishopping__325, Browser: Chrome, Viewport: 500  x 700, Device: Mobile, Status: Fail
+Task: 1, Test Name: Add to favourites for item 6 should be displayed, DOM Id: I__tiheart__339, Browser: Chrome, Viewport: 500  x 700, Device: Mobile, Status: Fail
+Task: 1, Test Name: Add to compare for item 6 should be displayed, DOM Id: I__ticontrols__343, Browser: Chrome, Viewport: 500  x 700, Device: Mobile, Status: Fail
+Task: 1, Test Name: Add to cart for item 6 should be displayed, DOM Id: I__tishopping__347, Browser: Chrome, Viewport: 500  x 700, Device: Mobile, Status: Fail
+Task: 1, Test Name: Add to favourites for item 7 should be displayed, DOM Id: I__tiheart__361, Browser: Chrome, Viewport: 500  x 700, Device: Mobile, Status: Fail
+Task: 1, Test Name: Add to compare for item 7 should be displayed, DOM Id: I__ticontrols__365, Browser: Chrome, Viewport: 500  x 700, Device: Mobile, Status: Fail
+Task: 1, Test Name: Add to cart for item 7 should be displayed, DOM Id: I__tishopping__369, Browser: Chrome, Viewport: 500  x 700, Device: Mobile, Status: Fail
+Task: 1, Test Name: Add to favourites for item 8 should be displayed, DOM Id: I__tiheart__386, Browser: Chrome, Viewport: 500  x 700, Device: Mobile, Status: Fail
+Task: 1, Test Name: Add to compare for item 8 should be displayed, DOM Id: I__ticontrols__390, Browser: Chrome, Viewport: 500  x 700, Device: Mobile, Status: Fail
+Task: 1, Test Name: Add to cart for item 8 should be displayed, DOM Id: I__tishopping__394, Browser: Chrome, Viewport: 500  x 700, Device: Mobile, Status: Fail
+Task: 1, Test Name: Add to favourites for item 9 should be displayed, DOM Id: A__tooltip__407, Browser: Chrome, Viewport: 500  x 700, Device: Mobile, Status: Fail
+Task: 1, Test Name: Add to compare for item 9 should be displayed, DOM Id: I__ticontrols__412, Browser: Chrome, Viewport: 500  x 700, Device: Mobile, Status: Fail
+Task: 1, Test Name: Add to cart for item 9 should be displayed, DOM Id: A__tooltip__415, Browser: Chrome, Viewport: 500  x 700, Device: Mobile, Status: Fail
 Task: 1, Test Name: About us should not be displayed, DOM Id: A____426, Browser: Chrome, Viewport: 500  x 700, Device: Mobile, Status: Fail
 Task: 1, Test Name: Faq should not be displayed, DOM Id: A____428, Browser: Chrome, Viewport: 500  x 700, Device: Mobile, Status: Fail
 Task: 1, Test Name: Help should not be displayed, DOM Id: A____430, Browser: Chrome, Viewport: 500  x 700, Device: Mobile, Status: Fail
@@ -532,6 +751,12 @@ Task: 2, Test Name: View grid should not be displayed, DOM Id: I__tiviewgrid__20
 Task: 2, Test Name: View list should not be displayed, DOM Id: I__tiviewlist__205, Browser: Chrome, Viewport: 500  x 700, Device: Mobile, Status: Fail
 Task: 2, Test Name: Filters icon should be displayed, DOM Id: ti-filter, Browser: Chrome, Viewport: 500  x 700, Device: Mobile, Status: Pass
 Task: 2, Test Name: Filters label should not be displayed, DOM Id: SPAN____209, Browser: Chrome, Viewport: 500  x 700, Device: Mobile, Status: Pass
+Task: 2, Test Name: Add to favourites for item 1 should be displayed, DOM Id: I__tiheart__226, Browser: Chrome, Viewport: 500  x 700, Device: Mobile, Status: Fail
+Task: 2, Test Name: Add to compare for item 1 should be displayed, DOM Id: I__ticontrols__230, Browser: Chrome, Viewport: 500  x 700, Device: Mobile, Status: Fail
+Task: 2, Test Name: Add to cart for item 1 should be displayed, DOM Id: I__tishopping__234, Browser: Chrome, Viewport: 500  x 700, Device: Mobile, Status: Fail
+Task: 2, Test Name: Add to favourites for item 2 should be displayed, DOM Id: I__tiheart__248, Browser: Chrome, Viewport: 500  x 700, Device: Mobile, Status: Fail
+Task: 2, Test Name: Add to compare for item 2 should be displayed, DOM Id: I__ticontrols__252, Browser: Chrome, Viewport: 500  x 700, Device: Mobile, Status: Fail
+Task: 2, Test Name: Add to cart for item 2 should be displayed, DOM Id: I__tishopping__256, Browser: Chrome, Viewport: 500  x 700, Device: Mobile, Status: Fail
 Task: 2, Test Name: item 1 picture should be displayed, DOM Id: product_1, Browser: Chrome, Viewport: 500  x 700, Device: Mobile, Status: Pass
 Task: 2, Test Name: item 2 picture should be displayed, DOM Id: product_8, Browser: Chrome, Viewport: 500  x 700, Device: Mobile, Status: Pass
 Task: 2, Test Name: About us should not be displayed, DOM Id: A____426, Browser: Chrome, Viewport: 500  x 700, Device: Mobile, Status: Fail
@@ -540,7 +765,6 @@ Task: 2, Test Name: Help should not be displayed, DOM Id: A____430, Browser: Chr
 Task: 2, Test Name: My account should not be displayed, DOM Id: A____432, Browser: Chrome, Viewport: 500  x 700, Device: Mobile, Status: Fail
 Task: 2, Test Name: Blog should not be displayed, DOM Id: A____434, Browser: Chrome, Viewport: 500  x 700, Device: Mobile, Status: Fail
 Task: 2, Test Name: Contacts should not be displayed, DOM Id: A____436, Browser: Chrome, Viewport: 500  x 700, Device: Mobile, Status: Fail
-Task: 2, Test Name: About us should not be displayed, DOM Id: A____426, Browser: Chrome, Viewport: 500  x 700, Device: Mobile, Status: Fail
 Task: 2, Test Name: Email newsletter should not be displayed, DOM Id: email_newsletter, Browser: Chrome, Viewport: 500  x 700, Device: Mobile, Status: Pass
 Task: 2, Test Name: Address should not be displayed, DOM Id: LI____441, Browser: Chrome, Viewport: 500  x 700, Device: Mobile, Status: Pass
 Task: 2, Test Name: Email should not be displayed, DOM Id: LI____444, Browser: Chrome, Viewport: 500  x 700, Device: Mobile, Status: Pass

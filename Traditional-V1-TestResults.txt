@@ -44,7 +44,6 @@ Task: 1, Test Name: Help should be displayed, DOM Id: A____429, Browser: Chrome,
 Task: 1, Test Name: My account should be displayed, DOM Id: A____431, Browser: Chrome, Viewport: 1200  x 700, Device: Laptop, Status: Pass
 Task: 1, Test Name: Blog should be displayed, DOM Id: A____433, Browser: Chrome, Viewport: 1200  x 700, Device: Laptop, Status: Pass
 Task: 1, Test Name: Contacts should be displayed, DOM Id: A____435, Browser: Chrome, Viewport: 1200  x 700, Device: Laptop, Status: Pass
-Task: 1, Test Name: About us should be displayed, DOM Id: A____425, Browser: Chrome, Viewport: 1200  x 700, Device: Laptop, Status: Pass
 Task: 1, Test Name: Email newsletter should be displayed, DOM Id: email_newsletter, Browser: Chrome, Viewport: 1200  x 700, Device: Laptop, Status: Pass
 Task: 1, Test Name: Address should be displayed, DOM Id: LI____440, Browser: Chrome, Viewport: 1200  x 700, Device: Laptop, Status: Pass
 Task: 1, Test Name: Email should be displayed, DOM Id: LI____443, Browser: Chrome, Viewport: 1200  x 700, Device: Laptop, Status: Pass
@@ -76,7 +75,6 @@ Task: 2, Test Name: Help should be displayed, DOM Id: A____429, Browser: Chrome,
 Task: 2, Test Name: My account should be displayed, DOM Id: A____431, Browser: Chrome, Viewport: 1200  x 700, Device: Laptop, Status: Pass
 Task: 2, Test Name: Blog should be displayed, DOM Id: A____433, Browser: Chrome, Viewport: 1200  x 700, Device: Laptop, Status: Pass
 Task: 2, Test Name: Contacts should be displayed, DOM Id: A____435, Browser: Chrome, Viewport: 1200  x 700, Device: Laptop, Status: Pass
-Task: 2, Test Name: About us should be displayed, DOM Id: A____425, Browser: Chrome, Viewport: 1200  x 700, Device: Laptop, Status: Pass
 Task: 2, Test Name: Email newsletter should be displayed, DOM Id: email_newsletter, Browser: Chrome, Viewport: 1200  x 700, Device: Laptop, Status: Pass
 Task: 2, Test Name: Address should be displayed, DOM Id: LI____440, Browser: Chrome, Viewport: 1200  x 700, Device: Laptop, Status: Pass
 Task: 2, Test Name: Email should be displayed, DOM Id: LI____443, Browser: Chrome, Viewport: 1200  x 700, Device: Laptop, Status: Pass
@@ -161,7 +159,6 @@ Task: 1, Test Name: Help should be displayed, DOM Id: A____429, Browser: Firefox
 Task: 1, Test Name: My account should be displayed, DOM Id: A____431, Browser: Firefox, Viewport: 1200  x 700, Device: Laptop, Status: Pass
 Task: 1, Test Name: Blog should be displayed, DOM Id: A____433, Browser: Firefox, Viewport: 1200  x 700, Device: Laptop, Status: Pass
 Task: 1, Test Name: Contacts should be displayed, DOM Id: A____435, Browser: Firefox, Viewport: 1200  x 700, Device: Laptop, Status: Pass
-Task: 1, Test Name: About us should be displayed, DOM Id: A____425, Browser: Firefox, Viewport: 1200  x 700, Device: Laptop, Status: Pass
 Task: 1, Test Name: Email newsletter should be displayed, DOM Id: email_newsletter, Browser: Firefox, Viewport: 1200  x 700, Device: Laptop, Status: Pass
 Task: 1, Test Name: Address should be displayed, DOM Id: LI____440, Browser: Firefox, Viewport: 1200  x 700, Device: Laptop, Status: Pass
 Task: 1, Test Name: Email should be displayed, DOM Id: LI____443, Browser: Firefox, Viewport: 1200  x 700, Device: Laptop, Status: Pass
@@ -193,7 +190,6 @@ Task: 2, Test Name: Help should be displayed, DOM Id: A____429, Browser: Firefox
 Task: 2, Test Name: My account should be displayed, DOM Id: A____431, Browser: Firefox, Viewport: 1200  x 700, Device: Laptop, Status: Pass
 Task: 2, Test Name: Blog should be displayed, DOM Id: A____433, Browser: Firefox, Viewport: 1200  x 700, Device: Laptop, Status: Pass
 Task: 2, Test Name: Contacts should be displayed, DOM Id: A____435, Browser: Firefox, Viewport: 1200  x 700, Device: Laptop, Status: Pass
-Task: 2, Test Name: About us should be displayed, DOM Id: A____425, Browser: Firefox, Viewport: 1200  x 700, Device: Laptop, Status: Pass
 Task: 2, Test Name: Email newsletter should be displayed, DOM Id: email_newsletter, Browser: Firefox, Viewport: 1200  x 700, Device: Laptop, Status: Pass
 Task: 2, Test Name: Address should be displayed, DOM Id: LI____440, Browser: Firefox, Viewport: 1200  x 700, Device: Laptop, Status: Pass
 Task: 2, Test Name: Email should be displayed, DOM Id: LI____443, Browser: Firefox, Viewport: 1200  x 700, Device: Laptop, Status: Pass
@@ -278,7 +274,6 @@ Task: 1, Test Name: Help should be displayed, DOM Id: A____429, Browser: Edge Ch
 Task: 1, Test Name: My account should be displayed, DOM Id: A____431, Browser: Edge Chromium, Viewport: 1200  x 700, Device: Laptop, Status: Pass
 Task: 1, Test Name: Blog should be displayed, DOM Id: A____433, Browser: Edge Chromium, Viewport: 1200  x 700, Device: Laptop, Status: Pass
 Task: 1, Test Name: Contacts should be displayed, DOM Id: A____435, Browser: Edge Chromium, Viewport: 1200  x 700, Device: Laptop, Status: Pass
-Task: 1, Test Name: About us should be displayed, DOM Id: A____425, Browser: Edge Chromium, Viewport: 1200  x 700, Device: Laptop, Status: Pass
 Task: 1, Test Name: Email newsletter should be displayed, DOM Id: email_newsletter, Browser: Edge Chromium, Viewport: 1200  x 700, Device: Laptop, Status: Pass
 Task: 1, Test Name: Address should be displayed, DOM Id: LI____440, Browser: Edge Chromium, Viewport: 1200  x 700, Device: Laptop, Status: Pass
 Task: 1, Test Name: Email should be displayed, DOM Id: LI____443, Browser: Edge Chromium, Viewport: 1200  x 700, Device: Laptop, Status: Pass
@@ -310,7 +305,6 @@ Task: 2, Test Name: Help should be displayed, DOM Id: A____429, Browser: Edge Ch
 Task: 2, Test Name: My account should be displayed, DOM Id: A____431, Browser: Edge Chromium, Viewport: 1200  x 700, Device: Laptop, Status: Pass
 Task: 2, Test Name: Blog should be displayed, DOM Id: A____433, Browser: Edge Chromium, Viewport: 1200  x 700, Device: Laptop, Status: Pass
 Task: 2, Test Name: Contacts should be displayed, DOM Id: A____435, Browser: Edge Chromium, Viewport: 1200  x 700, Device: Laptop, Status: Pass
-Task: 2, Test Name: About us should be displayed, DOM Id: A____425, Browser: Edge Chromium, Viewport: 1200  x 700, Device: Laptop, Status: Pass
 Task: 2, Test Name: Email newsletter should be displayed, DOM Id: email_newsletter, Browser: Edge Chromium, Viewport: 1200  x 700, Device: Laptop, Status: Pass
 Task: 2, Test Name: Address should be displayed, DOM Id: LI____440, Browser: Edge Chromium, Viewport: 1200  x 700, Device: Laptop, Status: Pass
 Task: 2, Test Name: Email should be displayed, DOM Id: LI____443, Browser: Edge Chromium, Viewport: 1200  x 700, Device: Laptop, Status: Pass
@@ -395,7 +389,6 @@ Task: 1, Test Name: Help should be displayed, DOM Id: A____429, Browser: Chrome,
 Task: 1, Test Name: My account should be displayed, DOM Id: A____431, Browser: Chrome, Viewport: 768  x 700, Device: Tablet, Status: Pass
 Task: 1, Test Name: Blog should be displayed, DOM Id: A____433, Browser: Chrome, Viewport: 768  x 700, Device: Tablet, Status: Pass
 Task: 1, Test Name: Contacts should be displayed, DOM Id: A____435, Browser: Chrome, Viewport: 768  x 700, Device: Tablet, Status: Pass
-Task: 1, Test Name: About us should be displayed, DOM Id: A____425, Browser: Chrome, Viewport: 768  x 700, Device: Tablet, Status: Pass
 Task: 1, Test Name: Email newsletter should be displayed, DOM Id: email_newsletter, Browser: Chrome, Viewport: 768  x 700, Device: Tablet, Status: Pass
 Task: 1, Test Name: Address should be displayed, DOM Id: LI____440, Browser: Chrome, Viewport: 768  x 700, Device: Tablet, Status: Pass
 Task: 1, Test Name: Email should be displayed, DOM Id: LI____443, Browser: Chrome, Viewport: 768  x 700, Device: Tablet, Status: Pass
@@ -427,7 +420,6 @@ Task: 2, Test Name: Help should be displayed, DOM Id: A____429, Browser: Chrome,
 Task: 2, Test Name: My account should be displayed, DOM Id: A____431, Browser: Chrome, Viewport: 768  x 700, Device: Tablet, Status: Pass
 Task: 2, Test Name: Blog should be displayed, DOM Id: A____433, Browser: Chrome, Viewport: 768  x 700, Device: Tablet, Status: Pass
 Task: 2, Test Name: Contacts should be displayed, DOM Id: A____435, Browser: Chrome, Viewport: 768  x 700, Device: Tablet, Status: Pass
-Task: 2, Test Name: About us should be displayed, DOM Id: A____425, Browser: Chrome, Viewport: 768  x 700, Device: Tablet, Status: Pass
 Task: 2, Test Name: Email newsletter should be displayed, DOM Id: email_newsletter, Browser: Chrome, Viewport: 768  x 700, Device: Tablet, Status: Pass
 Task: 2, Test Name: Address should be displayed, DOM Id: LI____440, Browser: Chrome, Viewport: 768  x 700, Device: Tablet, Status: Pass
 Task: 2, Test Name: Email should be displayed, DOM Id: LI____443, Browser: Chrome, Viewport: 768  x 700, Device: Tablet, Status: Pass
@@ -512,7 +504,6 @@ Task: 1, Test Name: Help should be displayed, DOM Id: A____429, Browser: Firefox
 Task: 1, Test Name: My account should be displayed, DOM Id: A____431, Browser: Firefox, Viewport: 768  x 700, Device: Tablet, Status: Pass
 Task: 1, Test Name: Blog should be displayed, DOM Id: A____433, Browser: Firefox, Viewport: 768  x 700, Device: Tablet, Status: Pass
 Task: 1, Test Name: Contacts should be displayed, DOM Id: A____435, Browser: Firefox, Viewport: 768  x 700, Device: Tablet, Status: Pass
-Task: 1, Test Name: About us should be displayed, DOM Id: A____425, Browser: Firefox, Viewport: 768  x 700, Device: Tablet, Status: Pass
 Task: 1, Test Name: Email newsletter should be displayed, DOM Id: email_newsletter, Browser: Firefox, Viewport: 768  x 700, Device: Tablet, Status: Pass
 Task: 1, Test Name: Address should be displayed, DOM Id: LI____440, Browser: Firefox, Viewport: 768  x 700, Device: Tablet, Status: Pass
 Task: 1, Test Name: Email should be displayed, DOM Id: LI____443, Browser: Firefox, Viewport: 768  x 700, Device: Tablet, Status: Pass
@@ -544,7 +535,6 @@ Task: 2, Test Name: Help should be displayed, DOM Id: A____429, Browser: Firefox
 Task: 2, Test Name: My account should be displayed, DOM Id: A____431, Browser: Firefox, Viewport: 768  x 700, Device: Tablet, Status: Pass
 Task: 2, Test Name: Blog should be displayed, DOM Id: A____433, Browser: Firefox, Viewport: 768  x 700, Device: Tablet, Status: Pass
 Task: 2, Test Name: Contacts should be displayed, DOM Id: A____435, Browser: Firefox, Viewport: 768  x 700, Device: Tablet, Status: Pass
-Task: 2, Test Name: About us should be displayed, DOM Id: A____425, Browser: Firefox, Viewport: 768  x 700, Device: Tablet, Status: Pass
 Task: 2, Test Name: Email newsletter should be displayed, DOM Id: email_newsletter, Browser: Firefox, Viewport: 768  x 700, Device: Tablet, Status: Pass
 Task: 2, Test Name: Address should be displayed, DOM Id: LI____440, Browser: Firefox, Viewport: 768  x 700, Device: Tablet, Status: Pass
 Task: 2, Test Name: Email should be displayed, DOM Id: LI____443, Browser: Firefox, Viewport: 768  x 700, Device: Tablet, Status: Pass
@@ -629,7 +619,6 @@ Task: 1, Test Name: Help should be displayed, DOM Id: A____429, Browser: Edge Ch
 Task: 1, Test Name: My account should be displayed, DOM Id: A____431, Browser: Edge Chromium, Viewport: 768  x 700, Device: Tablet, Status: Pass
 Task: 1, Test Name: Blog should be displayed, DOM Id: A____433, Browser: Edge Chromium, Viewport: 768  x 700, Device: Tablet, Status: Pass
 Task: 1, Test Name: Contacts should be displayed, DOM Id: A____435, Browser: Edge Chromium, Viewport: 768  x 700, Device: Tablet, Status: Pass
-Task: 1, Test Name: About us should be displayed, DOM Id: A____425, Browser: Edge Chromium, Viewport: 768  x 700, Device: Tablet, Status: Pass
 Task: 1, Test Name: Email newsletter should be displayed, DOM Id: email_newsletter, Browser: Edge Chromium, Viewport: 768  x 700, Device: Tablet, Status: Pass
 Task: 1, Test Name: Address should be displayed, DOM Id: LI____440, Browser: Edge Chromium, Viewport: 768  x 700, Device: Tablet, Status: Pass
 Task: 1, Test Name: Email should be displayed, DOM Id: LI____443, Browser: Edge Chromium, Viewport: 768  x 700, Device: Tablet, Status: Pass
@@ -661,7 +650,6 @@ Task: 2, Test Name: Help should be displayed, DOM Id: A____429, Browser: Edge Ch
 Task: 2, Test Name: My account should be displayed, DOM Id: A____431, Browser: Edge Chromium, Viewport: 768  x 700, Device: Tablet, Status: Pass
 Task: 2, Test Name: Blog should be displayed, DOM Id: A____433, Browser: Edge Chromium, Viewport: 768  x 700, Device: Tablet, Status: Pass
 Task: 2, Test Name: Contacts should be displayed, DOM Id: A____435, Browser: Edge Chromium, Viewport: 768  x 700, Device: Tablet, Status: Pass
-Task: 2, Test Name: About us should be displayed, DOM Id: A____425, Browser: Edge Chromium, Viewport: 768  x 700, Device: Tablet, Status: Pass
 Task: 2, Test Name: Email newsletter should be displayed, DOM Id: email_newsletter, Browser: Edge Chromium, Viewport: 768  x 700, Device: Tablet, Status: Pass
 Task: 2, Test Name: Address should be displayed, DOM Id: LI____440, Browser: Edge Chromium, Viewport: 768  x 700, Device: Tablet, Status: Pass
 Task: 2, Test Name: Email should be displayed, DOM Id: LI____443, Browser: Edge Chromium, Viewport: 768  x 700, Device: Tablet, Status: Pass
@@ -746,7 +734,6 @@ Task: 1, Test Name: Help should not be displayed, DOM Id: A____429, Browser: Chr
 Task: 1, Test Name: My account should not be displayed, DOM Id: A____431, Browser: Chrome, Viewport: 500  x 700, Device: Mobile, Status: Pass
 Task: 1, Test Name: Blog should not be displayed, DOM Id: A____433, Browser: Chrome, Viewport: 500  x 700, Device: Mobile, Status: Pass
 Task: 1, Test Name: Contacts should not be displayed, DOM Id: A____435, Browser: Chrome, Viewport: 500  x 700, Device: Mobile, Status: Pass
-Task: 1, Test Name: About us should not be displayed, DOM Id: A____425, Browser: Chrome, Viewport: 500  x 700, Device: Mobile, Status: Pass
 Task: 1, Test Name: Email newsletter should not be displayed, DOM Id: email_newsletter, Browser: Chrome, Viewport: 500  x 700, Device: Mobile, Status: Pass
 Task: 1, Test Name: Address should not be displayed, DOM Id: LI____440, Browser: Chrome, Viewport: 500  x 700, Device: Mobile, Status: Pass
 Task: 1, Test Name: Email should not be displayed, DOM Id: LI____443, Browser: Chrome, Viewport: 500  x 700, Device: Mobile, Status: Pass
@@ -778,7 +765,6 @@ Task: 2, Test Name: Help should not be displayed, DOM Id: A____429, Browser: Chr
 Task: 2, Test Name: My account should not be displayed, DOM Id: A____431, Browser: Chrome, Viewport: 500  x 700, Device: Mobile, Status: Pass
 Task: 2, Test Name: Blog should not be displayed, DOM Id: A____433, Browser: Chrome, Viewport: 500  x 700, Device: Mobile, Status: Pass
 Task: 2, Test Name: Contacts should not be displayed, DOM Id: A____435, Browser: Chrome, Viewport: 500  x 700, Device: Mobile, Status: Pass
-Task: 2, Test Name: About us should not be displayed, DOM Id: A____425, Browser: Chrome, Viewport: 500  x 700, Device: Mobile, Status: Pass
 Task: 2, Test Name: Email newsletter should not be displayed, DOM Id: email_newsletter, Browser: Chrome, Viewport: 500  x 700, Device: Mobile, Status: Pass
 Task: 2, Test Name: Address should not be displayed, DOM Id: LI____440, Browser: Chrome, Viewport: 500  x 700, Device: Mobile, Status: Pass
 Task: 2, Test Name: Email should not be displayed, DOM Id: LI____443, Browser: Chrome, Viewport: 500  x 700, Device: Mobile, Status: Pass

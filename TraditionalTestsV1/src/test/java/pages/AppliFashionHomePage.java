@@ -364,12 +364,6 @@ public class AppliFashionHomePage extends BasicActions {
         listOfVisibleStatusesForWith768.add(true);
         listOfVisibleStatusesForWith500.add(false);
 
-        listOfElementsNames.add("About us");
-        listOfElementsIds.add("A____425");
-        listOfVisibleStatusesForWith1200.add(true);
-        listOfVisibleStatusesForWith768.add(true);
-        listOfVisibleStatusesForWith500.add(false);
-
         listOfElementsNames.add("Email newsletter");
         listOfElementsIds.add("email_newsletter");
         listOfVisibleStatusesForWith1200.add(true);
@@ -599,12 +593,6 @@ public class AppliFashionHomePage extends BasicActions {
 
         listOfElementsNames.add("Contacts");
         listOfElementsIds.add("A____435");
-        listOfVisibleStatusesForWith1200.add(true);
-        listOfVisibleStatusesForWith768.add(true);
-        listOfVisibleStatusesForWith500.add(false);
-
-        listOfElementsNames.add("About us");
-        listOfElementsIds.add("A____425");
         listOfVisibleStatusesForWith1200.add(true);
         listOfVisibleStatusesForWith768.add(true);
         listOfVisibleStatusesForWith500.add(false);
