@@ -905,7 +905,7 @@ public class AppliFashionHomePage extends BasicActions {
 
 
     public boolean hackathonReporter(String task, String testName, String domId, String browser, String width, String height, String device, boolean comparisonResult) {
-        try(BufferedWriter writer = new BufferedWriter(new FileWriter("Traditional-V1-TestResults.txt", true))){
+        try(BufferedWriter writer = new BufferedWriter(new FileWriter("target/Traditional-V1-TestResults.txt", true))){
             writer.write("Task: " + task + ", Test Name: " + testName +", DOM Id: " + domId + ", Browser: " + browser
                     + ", Viewport: " + width + "  x " + height + ", Device: " + device + ", Status: " + (comparisonResult ? "Pass" : "Fail"));
             writer.newLine();

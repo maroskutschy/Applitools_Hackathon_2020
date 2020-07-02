@@ -52,6 +52,11 @@ src\test\resources\Feature_Files\AppliFashion\AppliFashion_Applitools.feature
  3.) Run the tests as maven build (this is the way how it is running from Jenkins):
   In IDEA IntelliJ on the right side in Maven Tab, choose the folder from which you want ti run
   the tests, right click on Lifecycle - test > choose option 'Create'
+  
+  clean test -PTestNG -DTestSuite=AppliFashion.xml -f ./TraditionalTestsV1
+  
+  4.) Jenkins
+  
   ...
   TODO 
  
