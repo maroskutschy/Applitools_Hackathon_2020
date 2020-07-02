@@ -27,7 +27,7 @@ project = folder where are all other sub-folders
 
 ## Usage
 
-There are 3 ways how to run the tests:
+There are 4 ways how to run the tests:
 
 1.) Run the tests as feature file via IDEA IntelliJ Cucumber for Java plugin
     = in any folder, open feature file:
@@ -49,16 +49,72 @@ src\test\resources\Feature_Files\AppliFashion\AppliFashion_Applitools.feature
  ``` 
  right click on it and choose option 'Run ...'
  
- 3.) Run the tests as maven build (this is the way how it is running from Jenkins):
-  In IDEA IntelliJ on the right side in Maven Tab, choose the folder from which you want ti run
+ 3.) Run the tests as maven build (this is also the way how it is running from Jenkins):
+  In IDEA IntelliJ on the right side in Maven Tab, choose the folder from which you want to run
   the tests, right click on Lifecycle - test > choose option 'Create'
+  and write following in command line editbox: 
   
+  for 'TraditionalTestsV1':
+  ```
   clean test -PTestNG -DTestSuite=AppliFashion.xml -f ./TraditionalTestsV1
+  ``` 
+
+  for 'TraditionalTestsV2':
+  ```
+  clean test -PTestNG -DTestSuite=AppliFashion.xml -f ./TraditionalTestsV2
+  ``` 
+
+  for 'ModernTestsV1':
+  ```
+  clean test -PTestNG -DTestSuite=AppliFashion.xml -f ./ModernTestsV1
+  ``` 
+
+  for 'ModernTestsV2':
+  ```
+  clean test -PTestNG -DTestSuite=AppliFashion.xml -f ./ModernTestsV2
+  ``` 
   
   4.) Jenkins
+  * Install 'Cucumber reports' Jenkins plugin
+  * Create new Jenkins job (freestyle project)
+  * Add git repository and credentials
+  * In 'Build' section > add build step same as in point 3:
   
-  ...
-  TODO 
- 
+  for 'TraditionalTestsV1':
+  
+    
+    clean test -PTestNG -DTestSuite=AppliFashion.xml -f ./TraditionalTestsV1  
+
+  for 'TraditionalTestsV2':
+    
+    
+    clean test -PTestNG -DTestSuite=AppliFashion.xml -f ./TraditionalTestsV2   
+  
+  for 'ModernTestsV1':
+    
+    
+    clean test -PTestNG -DTestSuite=AppliFashion.xml -f ./ModernTestsV1    
+
+  for 'ModernTestsV2':  
+    
+    clean test -PTestNG -DTestSuite=AppliFashion.xml -f ./ModernTestsV2
+    
+  * Add post build step:
+  Cucumber reports
+  click on advanced > File Include Pattern = **/*.json
+  
+  * for 'TraditionalTestsV1':
+    add post build step: Archive the artifacts > Files to archive > 
+  ```
+  TraditionalTestsV1/target/Traditional-V1-TestResults.txt
+   ```
+
+* for 'TraditionalTestsV2':
+    add post build step: Archive the artifacts > Files to archive > 
+  ```
+  TraditionalTestsV2/target/Traditional-V2-TestResults.txt
+   ```
+   
+ Thats it :)
 
  
