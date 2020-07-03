@@ -30,7 +30,8 @@ project = folder where are all other sub-folders
 
 There are 4 ways how to run the tests:
 
-1.) IDEA IntelliJ - Run the tests as feature file via IDEA IntelliJ Cucumber for Java plugin
+**1.) IDEA IntelliJ - Run the tests as feature file via IDEA IntelliJ Cucumber for Java plugin**
+
     = in any folder, open feature file:
     for ModernTestsV1/ModernTestsV2:    
 ```
@@ -43,14 +44,28 @@ src\test\resources\Feature_Files\AppliFashion\AppliFashion_Applitools.feature
  Then right click on the row with 'Scenario Outline' or on the row with 'Feature '
  and choose 'Run ...'
  
- 2.) IDEA IntelliJ - Run the tests as TestNG suite:
+ Open 'src\test\java\TestRunners\TestDefaultValues.java' and set 
+ DEFAULT_OPERATING_SYSTEM to: 'Windows' or 'MacOS'
+ 
+ For 'ModernTestsV1/ModernTestsV2' set also 'DEFAULT_BROWSER' to 'Chrome' or 'Firefox'
+ (for 'TraditionalTestsV1/TraditionalTestsV2' this is done in feature file)
+ 
+ **2.) IDEA IntelliJ - Run the tests as TestNG suite:**
+ 
   In IDEA IntelliJ find TestNG xml file:
  ``` 
   src\test\resources\testSuites\AppliFashion.xml
  ``` 
  right click on it and choose option 'Run ...'
  
- 3.) IDEA IntelliJ - Run the tests as maven build (this is also the way how it is running from Jenkins):
+  Open 'src\test\resources\testSuites\AppliFashion.xml' and set  
+  'operatingSystem' to: 'Windows' or 'MacOS'
+  
+  For 'ModernTestsV1/ModernTestsV2' set also 'browser' to 'Chrome' or 'Firefox'
+  (for 'TraditionalTestsV1/TraditionalTestsV2' this is done in feature file)
+ 
+ **3.) IDEA IntelliJ - Run the tests as maven build (this is also the way how it is running from Jenkins):**
+ 
   In IDEA IntelliJ on the right side in Maven Tab, choose the folder from which you want to run
   the tests, right click on Lifecycle - test > choose option 'Create'
   and write following in command line editbox: 
@@ -75,7 +90,14 @@ src\test\resources\Feature_Files\AppliFashion\AppliFashion_Applitools.feature
   clean test -PTestNG -DTestSuite=AppliFashion.xml -f ./ModernTestsV2
   ``` 
   
-  4.) Jenkins
+  
+  Open 'src\test\resources\testSuites\AppliFashion.xml' and set  
+    'operatingSystem' to: 'Windows' or 'MacOS'
+  
+  For 'ModernTestsV1/ModernTestsV2' set also 'browser' to 'Chrome' or 'Firefox'
+    (for 'TraditionalTestsV1/TraditionalTestsV2' this is done in feature file)
+  
+  **4.) Jenkins**
   * Install 'Cucumber reports' Jenkins plugin
   * Create new Jenkins job (freestyle project)
   * Add git repository and credentials
@@ -116,6 +138,12 @@ src\test\resources\Feature_Files\AppliFashion\AppliFashion_Applitools.feature
   TraditionalTestsV2/target/Traditional-V2-TestResults.txt
    ```
    
- Thats it :)
+   Open 'src\test\resources\testSuites\AppliFashion.xml' and set  
+   'operatingSystem' to: 'Windows' or 'MacOS'
+   
+   For 'ModernTestsV1/ModernTestsV2' set also 'browser' to 'Chrome' or 'Firefox'
+   (for 'TraditionalTestsV1/TraditionalTestsV2' this is done in feature file)
+ 
+ That's it :)
 
  
