@@ -72,22 +72,22 @@ src\test\resources\Feature_Files\AppliFashion\AppliFashion_Applitools.feature
   
   for 'TraditionalTestsV1':
   ```
-  clean test -PTestNG -DTestSuite=AppliFashion.xml -f ./TraditionalTestsV1
+  clean test -PTestNG -DTestSuite=AppliFashion.xml
   ``` 
 
   for 'TraditionalTestsV2':
   ```
-  clean test -PTestNG -DTestSuite=AppliFashion.xml -f ./TraditionalTestsV2
+  clean test -PTestNG -DTestSuite=AppliFashion.xml
   ``` 
 
   for 'ModernTestsV1':
   ```
-  clean test -PTestNG -DTestSuite=AppliFashion.xml -f ./ModernTestsV1
+  clean test -PTestNG -DTestSuite=AppliFashion.xml
   ``` 
 
   for 'ModernTestsV2':
   ```
-  clean test -PTestNG -DTestSuite=AppliFashion.xml -f ./ModernTestsV2
+  clean test -PTestNG -DTestSuite=AppliFashion.xml
   ``` 
   
   
