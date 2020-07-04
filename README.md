@@ -1,11 +1,24 @@
 # Video Instructions
 
-See my youtube video with the setup of the project, 
-description of my solution and demo running the tests here:
+**SEE MY YOUTUBE VIDEO with the setup of the project, 
+description of my solution and demo running the tests here:**
 
  [youtube video](https://youtu.be/8y3Q20i2Al8) 
+ 
+ 
+## Tools which I used
 
-## Prerequisites
+* Java
+* Selenium
+* Cucumber
+* Maven
+* Git
+* IDEA IntelliJ
+* TestNG
+* Jenkins
+ 
+
+### Prerequisites
 
 * Install and setup JDK java 8, 
 * Install and setup Apache Maven
@@ -13,7 +26,7 @@ description of my solution and demo running the tests here:
 * Install IDEA IntelliJ
 * In IDEA IntelliJ 'Cucumber for java' plugin
 
-### Installation
+#### Installation
 
 1.) Create a folder on your disk and clone GIT repository:
 ```
@@ -26,7 +39,19 @@ project = folder where are all other sub-folders
 
 3.) Go each of four sub-folders, right click on the pom.xml file and choose 'Add as maven project'
 
-## Usage
+##### Where is txt file with results for TraditionalTests genertaed:
+
+for TraditionalTestsV1: 
+```
+target\Traditional-V1-TestResults.txt
+```
+
+for TraditionalTestsV2: 
+```
+target\Traditional-V2-TestResults.txt
+```
+
+###### Usage
 
 There are 4 ways how to run the tests:
 
