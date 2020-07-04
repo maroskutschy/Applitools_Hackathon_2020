@@ -3,7 +3,7 @@
 See my youtube video with the setup of the project, 
 description of my solution and demo running the tests here:
 
- [youtube video](https://pip.pypa.io/en/stable/) 
+ [youtube video](https://youtu.be/8y3Q20i2Al8) 
 
 ## Prerequisites
 
