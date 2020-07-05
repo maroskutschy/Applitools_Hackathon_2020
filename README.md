@@ -88,7 +88,8 @@ src\test\resources\Feature_Files\AppliFashion\AppliFashion_Applitools.feature
  For 'ModernTestsV1/ModernTestsV2' set also 'DEFAULT_BROWSER' to 'Chrome' or 'Firefox'
  (for 'TraditionalTestsV1/TraditionalTestsV2' this is done in feature file)
  
- #####Where to see the result of Cucumber tests:
+ **Where to see the result of Cucumber tests:**
+ 
  you can see it in the bottom left part of IntelliJ: in Run Tab
  (since validation of all Modern Applitools/Traditional checks is in the After method
  and after is not included in this report, you will not see the failure in case this 
@@ -111,7 +112,8 @@ src\test\resources\Feature_Files\AppliFashion\AppliFashion_Applitools.feature
   For 'ModernTestsV1/ModernTestsV2' set also 'browser' to 'Chrome' or 'Firefox'
   (for 'TraditionalTestsV1/TraditionalTestsV2' this is done in feature file)
   
-  #####Where to see the result of Cucumber tests:
+  **Where to see the result of Cucumber tests:**
+  
   open this file in any browser: 
   open folder from which you run the tests (ModernTestsV1/ModernTestsV2/TraditionalTestsV1/TraditionalTestsV2)
   and then:
@@ -155,7 +157,8 @@ src\test\resources\Feature_Files\AppliFashion\AppliFashion_Applitools.feature
   For 'ModernTestsV1/ModernTestsV2' set also 'browser' to 'Chrome' or 'Firefox'
     (for 'TraditionalTestsV1/TraditionalTestsV2' this is done in feature file)
   
-  #####Where to see the result of Cucumber tests:
+  **Where to see the result of Cucumber tests:**
+  
 
   open this file in any browser:
   open folder from which you run the tests (ModernTestsV1/ModernTestsV2/TraditionalTestsV1/TraditionalTestsV2)
@@ -217,7 +220,7 @@ src\test\resources\Feature_Files\AppliFashion\AppliFashion_Applitools.feature
    For 'ModernTestsV1/ModernTestsV2' set also 'browser' to 'Chrome' or 'Firefox'
    (for 'TraditionalTestsV1/TraditionalTestsV2' this is done in feature file)
  
-   #####Where to see the result of Cucumber tests:
+   **Where to see the result of Cucumber tests:**
    
    after running the tests, following file is generated:
    open folder from which you run the tests (ModernTestsV1/ModernTestsV2/TraditionalTestsV1/TraditionalTestsV2)
