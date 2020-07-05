@@ -207,7 +207,7 @@ src\test\resources\Feature_Files\AppliFashion\AppliFashion_Applitools.feature
   TraditionalTestsV1/target/Traditional-V1-TestResults.txt
    ```
 
-* for 'TraditionalTestsV2':
+ * for 'TraditionalTestsV2':
     add post build step: Archive the artifacts > Files to archive > 
   ```
   TraditionalTestsV2/target/Traditional-V2-TestResults.txt
