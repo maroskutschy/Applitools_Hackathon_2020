@@ -39,7 +39,7 @@ project = folder where are all other sub-folders
 
 3.) Go each of four sub-folders, right click on the pom.xml file and choose 'Add as maven project'
 
-## Where is txt file with results for TraditionalTests stored:
+## Where is txt file with results for TraditionalTests generated:
 
 for TraditionalTestsV1: 
 ```
@@ -66,6 +66,8 @@ https://eyes.applitools.com/app/test-results/00000251808593331860/?accountId=xzt
 
 There are 4 ways how to run the tests:
 
+<br/><br/>
+
 **1.) IDEA IntelliJ - Run the tests as feature file via IDEA IntelliJ Cucumber for Java plugin**
 
     = in any folder, open feature file:
@@ -86,6 +88,15 @@ src\test\resources\Feature_Files\AppliFashion\AppliFashion_Applitools.feature
  For 'ModernTestsV1/ModernTestsV2' set also 'DEFAULT_BROWSER' to 'Chrome' or 'Firefox'
  (for 'TraditionalTestsV1/TraditionalTestsV2' this is done in feature file)
  
+ #####Where to see the result of Cucumber tests:
+ you can see it in the bottom left part of IntelliJ: in Run Tab
+ (since validation of all Modern Applitools/Traditional checks is in the After method
+ and after is not included in this report, you will not see the failure in case this 
+ check failed)
+ 
+ <br/><br/>
+
+ 
  **2.) IDEA IntelliJ - Run the tests as TestNG suite:**
  
   In IDEA IntelliJ find TestNG xml file:
@@ -99,6 +110,17 @@ src\test\resources\Feature_Files\AppliFashion\AppliFashion_Applitools.feature
   
   For 'ModernTestsV1/ModernTestsV2' set also 'browser' to 'Chrome' or 'Firefox'
   (for 'TraditionalTestsV1/TraditionalTestsV2' this is done in feature file)
+  
+  #####Where to see the result of Cucumber tests:
+  open this file in any browser: 
+  open folder from which you run the tests (ModernTestsV1/ModernTestsV2/TraditionalTestsV1/TraditionalTestsV2)
+  and then:
+  ``` 
+  target\site\cucumber-pretty\index.html
+``` 
+ In this file you can see also the result of After method - if whole test suite passed or failed
+ 
+ <br/><br/>
  
  **3.) IDEA IntelliJ - Run the tests as maven build (this is also the way how it is running from Jenkins):**
  
@@ -132,6 +154,20 @@ src\test\resources\Feature_Files\AppliFashion\AppliFashion_Applitools.feature
   
   For 'ModernTestsV1/ModernTestsV2' set also 'browser' to 'Chrome' or 'Firefox'
     (for 'TraditionalTestsV1/TraditionalTestsV2' this is done in feature file)
+  
+  #####Where to see the result of Cucumber tests:
+
+  open this file in any browser:
+  open folder from which you run the tests (ModernTestsV1/ModernTestsV2/TraditionalTestsV1/TraditionalTestsV2)
+  and then:
+  ``` 
+      target\site\cucumber-pretty\index.html
+  ``` 
+   In this file you can see also the result of After method - if whole test suite passed or failed
+   
+  
+  
+  <br/><br/>
   
   **4.) Jenkins**
   * Install 'Cucumber reports' Jenkins plugin
@@ -174,11 +210,26 @@ src\test\resources\Feature_Files\AppliFashion\AppliFashion_Applitools.feature
   TraditionalTestsV2/target/Traditional-V2-TestResults.txt
    ```
    
-   Open 'src\test\resources\testSuites\AppliFashion.xml' and set  
+   Before running tests on Jenkins, change following code and push it to git:
+   open 'src\test\resources\testSuites\AppliFashion.xml' and set  
    'operatingSystem' to: 'Windows' or 'MacOS'
    
    For 'ModernTestsV1/ModernTestsV2' set also 'browser' to 'Chrome' or 'Firefox'
    (for 'TraditionalTestsV1/TraditionalTestsV2' this is done in feature file)
+ 
+   #####Where to see the result of Cucumber tests:
+   
+   after running the tests, following file is generated:
+   open folder from which you run the tests (ModernTestsV1/ModernTestsV2/TraditionalTestsV1/TraditionalTestsV2)
+   and then:
+  ```
+  target\cucumber.json
+  ```
+ 
+  And Jenkins 'cucumber reports' plugin is parsing it and is generating awesome Cucumber report available on
+  Jenkins for each build
+  In this file you can see also the result of After method - if whole test suite passed or failed
+    
  
  That's it :)
 
