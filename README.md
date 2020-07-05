@@ -43,6 +43,8 @@ project = folder where are all other sub-folders
 
 3.) Go each of four sub-folders, right click on the pom.xml file and choose 'Add as maven project'
 
+<br/><br/>
+
 ## Where is txt file with results for TraditionalTests generated:
 
 for TraditionalTestsV1: 
@@ -54,6 +56,8 @@ for TraditionalTestsV2:
 ```
 target\Traditional-V2-TestResults.txt
 ```
+
+<br/><br/>
 
 ## Applitools results links:
 
