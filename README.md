@@ -5,6 +5,7 @@ description of my solution and demo running the tests here:**
 
  [youtube video](https://youtu.be/8y3Q20i2Al8) 
  
+<br/><br/>
  
 ## Tools which I used
 
@@ -17,6 +18,7 @@ description of my solution and demo running the tests here:**
 * TestNG
 * Jenkins
  
+ <br/><br/>
 
 ## Prerequisites
 
@@ -25,6 +27,8 @@ description of my solution and demo running the tests here:**
 * Install Git
 * Install IDEA IntelliJ
 * In IDEA IntelliJ 'Cucumber for java' plugin
+
+<br/><br/>
 
 ## Installation
 
@@ -61,6 +65,8 @@ ModernTestsV2:
 
 https://eyes.applitools.com/app/test-results/00000251808593331860/?accountId=xztHiIsdo0GsFfMDT7_D0g~~
 
+
+<br/><br/>
 
 ## Usage
 
